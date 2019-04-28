@@ -636,3 +636,5 @@ file4.write('\n\n')
 file4.close()
 
 file6.close()
+file7 = open("ProcessedData.csv",'w', newline='')
+data.to_csv(file7)

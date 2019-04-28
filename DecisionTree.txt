@@ -4,36 +4,8 @@ Test Accuracy = 0.7991071428571429
 Data Shape = (280, 12)
 
 
-All Values FBS Independents
-No Data
-
-
-All Values Mountain West
-Best hyperparameter, maxdepth = 2
-Test Accuracy = 0.7916666666666666
-Data Shape = (29, 12)
-
-
 All Values ACC
 No Data
-
-
-All Values American
-No Data
-
-
-All Values SEC
-No Data
-
-
-All Values Big Ten
-No Data
-
-
-All Values Conference USA
-Best hyperparameter, maxdepth = 2
-Test Accuracy = 0.7222222222222222
-Data Shape = (22, 12)
 
 
 All Values Pac-12
@@ -46,6 +18,14 @@ All Values Sun Belt
 No Data
 
 
+All Values American
+No Data
+
+
+All Values SEC
+No Data
+
+
 All Values Mid-American
 No Data
 
@@ -54,42 +34,34 @@ All Values Big 12
 No Data
 
 
-No Score Values
-Best hyperparameter, maxdepth = 4
-Test Accuracy = 0.53125
-Data Shape = (280, 12)
-
-
-No Scores FBS Independents
+All Values FBS Independents
 No Data
 
 
-No Scores Mountain West
+All Values Conference USA
+Best hyperparameter, maxdepth = 5
+Test Accuracy = 0.7777777777777778
+Data Shape = (22, 12)
+
+
+All Values Mountain West
 Best hyperparameter, maxdepth = 2
 Test Accuracy = 0.7916666666666666
 Data Shape = (29, 12)
 
 
+All Values Big Ten
+No Data
+
+
+No Score Values
+Best hyperparameter, maxdepth = 4
+Test Accuracy = 0.5625
+Data Shape = (280, 12)
+
+
 No Scores ACC
 No Data
-
-
-No Scores American
-No Data
-
-
-No Scores SEC
-No Data
-
-
-No Scores Big Ten
-No Data
-
-
-No Scores Conference USA
-Best hyperparameter, maxdepth = 2
-Test Accuracy = 0.7222222222222222
-Data Shape = (22, 12)
 
 
 No Scores Pac-12
@@ -102,34 +74,6 @@ No Scores Sun Belt
 No Data
 
 
-No Scores Mid-American
-No Data
-
-
-No Scores Big 12
-No Data
-
-
-No Score or Attendance Values
-Best hyperparameter, maxdepth = 15
-Test Accuracy = 0.5446428571428571
-Data Shape = (280, 12)
-
-
-No Scores FBS Independents
-No Data
-
-
-No Scores or Attendance Mountain West
-Best hyperparameter, maxdepth = 2
-Test Accuracy = 0.9166666666666666
-Data Shape = (29, 12)
-
-
-No Scores ACC
-No Data
-
-
 No Scores American
 No Data
 
@@ -138,14 +82,42 @@ No Scores SEC
 No Data
 
 
+No Scores Mid-American
+No Data
+
+
+No Scores Big 12
+No Data
+
+
+No Scores FBS Independents
+No Data
+
+
+No Scores Conference USA
+Best hyperparameter, maxdepth = 2
+Test Accuracy = 0.7222222222222222
+Data Shape = (22, 12)
+
+
+No Scores Mountain West
+Best hyperparameter, maxdepth = 2
+Test Accuracy = 0.7916666666666666
+Data Shape = (29, 12)
+
+
 No Scores Big Ten
 No Data
 
 
-No Scores or Attendance Conference USA
-Best hyperparameter, maxdepth = 2
-Test Accuracy = 0.5
-Data Shape = (22, 12)
+No Score or Attendance Values
+Best hyperparameter, maxdepth = 35
+Test Accuracy = 0.5446428571428571
+Data Shape = (280, 12)
+
+
+No Scores ACC
+No Data
 
 
 No Scores or Attendance Pac-12
@@ -158,6 +130,14 @@ No Scores Sun Belt
 No Data
 
 
+No Scores American
+No Data
+
+
+No Scores SEC
+No Data
+
+
 No Scores Mid-American
 No Data
 
@@ -166,9 +146,29 @@ No Scores Big 12
 No Data
 
 
+No Scores FBS Independents
+No Data
+
+
+No Scores or Attendance Conference USA
+Best hyperparameter, maxdepth = 2
+Test Accuracy = 0.5
+Data Shape = (22, 12)
+
+
+No Scores or Attendance Mountain West
+Best hyperparameter, maxdepth = 2
+Test Accuracy = 0.9166666666666666
+Data Shape = (29, 12)
+
+
+No Scores Big Ten
+No Data
+
+
 No Score or Attendance Values, bigger validation set
-Best hyperparameter, maxdepth = 8
-Test Accuracy = 0.5952380952380952
+Best hyperparameter, maxdepth = 9
+Test Accuracy = 0.5892857142857143
 Data Shape = (280, 12)
 
 

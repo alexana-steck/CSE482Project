@@ -27,7 +27,7 @@ node [shape=box] ;
 10 -> 12 ;
 13 [label="max temp <= 77.814\ngini = 0.484\nsamples = 34\nvalue = [14, 20]\nclass = Lose"] ;
 12 -> 13 ;
-14 [label="min temp <= 53.991\ngini = 0.478\nsamples = 33\nvalue = [13, 20]\nclass = Lose"] ;
+14 [label="max temp <= 76.734\ngini = 0.478\nsamples = 33\nvalue = [13, 20]\nclass = Lose"] ;
 13 -> 14 ;
 15 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = Lose"] ;
 14 -> 15 ;

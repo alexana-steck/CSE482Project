@@ -8,11 +8,10 @@ from bs4 import BeautifulSoup
 
 WEEKS_OF_FOOTBALL = 16
 SCORES_URL = 'http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard'
-TEAMS_URL = "http://site.api.espn.com/apis/site/v2/sports/football/college-football/teams"
-LOCATIONS_URL = "https://www.ncdc.noaa.gov/cdo-web/api/v2/locations"
 WEATHER_URL = "https://www.ncdc.noaa.gov/cdo-web/api/v2/data"
 ESPN_SCHEDULE = "http://www.espn.com/college-football/schedule"
 ESPN_CONFERENCES = "http://www.espn.com/college-football/teams"
+
 
 YEAR_START = 2002
 YEAR_END = 2018
