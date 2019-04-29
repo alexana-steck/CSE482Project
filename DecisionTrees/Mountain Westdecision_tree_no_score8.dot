@@ -1,8 +1,32 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="attendance <= 33635.0\ngini = 0.32\nsamples = 5\nvalue = [1, 4]\nclass = Lose"] ;
-1 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4]\nclass = Lose"] ;
+0 [label="attendance <= 23127.5\ngini = 0.499\nsamples = 21\nvalue = [10, 11]\nclass = Lose"] ;
+1 [label="snow depth <= 32.0\ngini = 0.375\nsamples = 8\nvalue = [6, 2]\nclass = Win"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = Win"] ;
-0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+2 [label="min temp <= 45.14\ngini = 0.245\nsamples = 7\nvalue = [6, 1]\nclass = Win"] ;
+1 -> 2 ;
+3 [label="avg wind speed <= 58.0\ngini = 0.5\nsamples = 2\nvalue = [1, 1]\nclass = Win"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = Lose"] ;
+3 -> 4 ;
+5 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = Win"] ;
+3 -> 5 ;
+6 [label="gini = 0.0\nsamples = 5\nvalue = [5, 0]\nclass = Win"] ;
+2 -> 6 ;
+7 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = Lose"] ;
+1 -> 7 ;
+8 [label="max temp <= 64.19\ngini = 0.426\nsamples = 13\nvalue = [4, 9]\nclass = Lose"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="attendance <= 28228.0\ngini = 0.48\nsamples = 5\nvalue = [3, 2]\nclass = Win"] ;
+8 -> 9 ;
+10 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2]\nclass = Lose"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0]\nclass = Win"] ;
+9 -> 11 ;
+12 [label="attendance <= 46107.0\ngini = 0.219\nsamples = 8\nvalue = [1, 7]\nclass = Lose"] ;
+8 -> 12 ;
+13 [label="gini = 0.0\nsamples = 7\nvalue = [0, 7]\nclass = Lose"] ;
+12 -> 13 ;
+14 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = Win"] ;
+12 -> 14 ;
 }

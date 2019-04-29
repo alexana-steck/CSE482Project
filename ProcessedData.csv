@@ -1,281 +1,1574 @@
 ,name,conference,attendance,score,home,precipitation,snowfall,snow depth,max temp,min temp,avg wind speed,winner
-0,Virginia Cavaliers,ACC,57120,29,1,0,0,0,,,,Lose
-1,Georgia Southern Eagles,Sun Belt,19056,19,0,0,0,0,,,,Lose
-2,South Florida Bulls,American,22074,51,1,0,0,0,,,,Win
-3,Bowling Green Falcons,Mid-American,15696,41,1,0,0,0,78.08000000000001,57.92,,Win
-4,Temple Owls,American,15329,34,1,0,0,0,,,,Win
-5,Kent State Golden Flashes,Mid-American,16073,34,1,0,0,0,,,,Win
-6,Toledo Rockets,Mid-American,23074,44,1,0,0,0,,,,Win
-7,Western Michigan Broncos,Mid-American,28268,48,1,0,0,0,,,,Win
-8,BYU Cougars,FBS Independents,65612,42,1,0,0,0,,,,Win
-9,Buffalo Bulls,Mid-American,21103,26,1,0,0,0,,,,Lose
-10,Central Michigan Chippewas,Mid-American,18826,34,1,0,0,0,,,,Win
-11,Florida Intl Golden Panthers,Conference USA,17314,27,1,0,0,0,91.03999999999999,77.0,33,Win
-12,Northern Illinois Huskies,Mid-American,19653,42,1,0,0,0,78.98,57.92,,Win
-13,Fresno State Bulldogs,Mountain West,39111,16,1,0,0,0,,,,Win
-14,Oregon State Beavers,Pac-12,0,49,1,0,0,0,84.02,42.08,,Win
-15,Temple Owls,American,20162,3,1,0,0,0,,,,Lose
-16,Virginia Tech Hokies,ACC,65049,47,1,0,0,0,80.96000000000001,42.980000000000004,,Win
-17,Mississippi State Bulldogs,SEC,52583,14,1,0,0,0,91.94,73.94,,Lose
-18,Louisville Cardinals,ACC,38109,26,1,0,0,0,,,,Win
-19,Florida State Seminoles,ACC,78841,48,1,0,0,0,,,,Win
-20,Boston College Eagles,ACC,42826,23,1,0,0,0,,,,Lose
-21,Texas State Bobcats,Sun Belt,7920,27,0,0,0,0,71.06,64.03999999999999,,Lose
-22,Maryland Terrapins,Big Ten,41766,34,1,0,0,0,59.0,44.96,,Win
-23,Clemson Tigers,ACC,74000,6,1,0,0,0,64.03999999999999,53.06,,Lose
-24,Colorado State Rams,Mountain West,29457,37,1,0,0,0,,,,Win
-25,TCU Horned Frogs,Big 12,26612,37,1,0,0,0,51.08,44.06,,Win
-26,Air Force Falcons,Mountain West,39063,12,1,0,0,0,,,,Lose
-27,Florida Intl Golden Panthers,Conference USA,5221,39,1,0,0,0,87.98,75.92,21,Win
-28,Louisville Cardinals,ACC,36253,14,1,0,0,0,,,,Lose
-29,Southern Mississippi Golden Eagles,Conference USA,28076,17,1,0,0,0,73.03999999999999,51.980000000000004,31,Lose
-30,Virginia Tech Hokies,ACC,62723,18,1,0,0,0,53.06,33.08,,Lose
-31,Ole Miss Rebels,SEC,60245,24,1,0,0,0,51.08,21.92,,Win
-32,East Carolina Pirates,American,33250,13,1,0,0,0,71.06,48.019999999999996,,Lose
-33,West Virginia Mountaineers,Big 12,56319,28,1,0,0,0,62.96,42.980000000000004,,Win
-34,Miami (OH) RedHawks,Mid-American,28023,33,1,0,0,0,,,,Win
-35,TCU Horned Frogs,Big 12,33681,31,1,0,0,0,48.92,42.980000000000004,,Win
-36,Miami (OH) RedHawks,Mid-American,26286,45,1,0,0,0,,,,Win
-37,New Mexico State Aggies,FBS Independents,12472,10,1,0,0,0,64.03999999999999,35.96,,Lose
-38,Tennessee Volunteers,SEC,0,42,1,0,0,0,91.03999999999999,62.96,35,Win
-39,Purdue Boilermakers,Big Ten,0,51,1,0,0,0,87.08000000000001,64.94,21,Win
-40,Louisville Cardinals,ACC,0,28,1,0,0,0,,,,Win
-41,Louisiana Tech Bulldogs,Conference USA,0,38,1,0,0,0,89.06,69.08000000000001,,Win
-42,NC State Wolfpack,ACC,0,16,1,0,0,0,91.03999999999999,68.0,,Lose
-43,Kentucky Wildcats,SEC,0,24,1,0,0,0,,,,Lose
-44,Syracuse Orange,ACC,0,7,1,0,0,0,71.96000000000001,53.96,21,Lose
-45,Florida State Seminoles,ACC,0,10,1,0,0,0,,,,Win
-46,New Mexico Lobos,Mountain West,0,24,1,0,0,0,,,,Win
-47,Memphis Tigers,American,0,6,1,0,0,0,,,,Lose
-48,LSU Tigers,SEC,0,27,1,0,0,0,,,,Lose
-49,Arizona State Sun Devils,Pac-12,53540,35,1,0,0,0,109.94,69.08000000000001,,Win
-50,Central Michigan Chippewas,Mid-American,25418,24,1,0,0,0,73.03999999999999,44.96,,Lose
-51,Liberty Flames,FBS Independents,8546,27,1,0,0,0,,,,Win
-52,Middle Tennessee Blue Raiders,Conference USA,20058,7,1,0,0,0,,,,Win
-53,Buffalo Bulls,Mid-American,29795,9,1,0,0,0,,,,Win
-54,Ball State Cardinals,Mid-American,12326,38,1,0,0,0,,,,Win
-55,Miami (OH) RedHawks,Mid-American,20476,3,1,0,0,0,,,,Lose
-56,Kent State Golden Flashes,Mid-American,20126,0,1,0,0,0,,,,Lose
-57,Mississippi State Bulldogs,SEC,50277,0,1,0,0,0,87.08000000000001,60.08,,Lose
-58,Iowa State Cyclones,Big 12,42531,45,1,0,0,0,78.98,51.08,7,Win
-59,Boise State Broncos,Mountain West,29674,45,1,0,0,0,84.02,46.04,30,Win
-60,New Mexico State Aggies,FBS Independents,15561,30,1,0,0,0,84.02,64.94,,Win
-61,Oregon State Beavers,Pac-12,38071,56,1,0,0,0,78.98,51.980000000000004,,Win
-62,San Diego State Aztecs,Mountain West,34723,27,1,0,0,0,75.92,64.94,33,Lose
-63,Fresno State Bulldogs,Mountain West,39269,28,1,0,0,0,,,,Win
-64,Boise State Broncos,Mountain West,30711,42,1,0,0,0,84.92,62.96,26,Win
-65,Cincinnati Bearcats,American,20611,15,1,0,0,0,,,,Lose
-66,West Virginia Mountaineers,Big 12,60513,45,1,0,0,0,71.06,59.0,,Win
-67,Middle Tennessee Blue Raiders,Conference USA,20806,44,1,0,0,0,,,,Win
-68,Toledo Rockets,Mid-American,22118,37,1,0,0,0,,,,Win
-69,Georgia Tech Yellow Jackets,ACC,51081,24,1,0,0,0,,,,Win
-70,Nevada Wolf Pack,Mountain West,16176,31,1,0,0,0,,,,Win
-71,South Carolina Gamecocks,SEC,74374,17,1,0,0,0,87.98,62.06,,Lose
-72,TCU Horned Frogs,Big 12,32190,17,1,0,0,0,75.92,60.980000000000004,,Lose
-73,South Florida Bulls,American,32493,20,1,0,0,0,,,,Lose
-74,NC State Wolfpack,ACC,57437,24,1,0,0,0,80.06,57.92,,Win
-75,Utah Utes,Pac-12,43790,20,1,0,0,0,,,,Win
-76,Middle Tennessee Blue Raiders,Conference USA,32797,17,1,0,0,0,,,,Lose
-77,Temple Owls,American,30246,9,1,0,0,0,80.06,57.92,,Lose
-78,Boston College Eagles,ACC,44500,22,1,0,0,0,,,,Win
-79,Air Force Falcons,Mountain West,30008,24,1,0,0,0,,,,Win
-80,Memphis Tigers,American,25324,24,1,0,0,0,,,,Win
-81,Southern Mississippi Golden Eagles,Conference USA,25656,29,1,0,0,0,89.06,69.08000000000001,12,Lose
-82,Pittsburgh Panthers,ACC,30103,45,1,0,0,0,,,,Lose
-83,Louisville Cardinals,ACC,42696,2,1,0,0,0,,,,Lose
-84,UCLA Bruins,Pac-12,68546,27,1,0,0,0,93.02,64.94,,Win
-85,Rutgers Scarlet Knights,Big Ten,42508,7,1,0,0,0,,,,Lose
-86,Coastal Carolina Chanticleers,Sun Belt,6433,19,1,0,0,0,93.02,73.94,,Lose
-87,Tulsa Golden Hurricane,American,30000,49,1,0,0,0,,,,Win
-88,UCF Knights,American,40202,10,1,0,0,0,80.96000000000001,62.96,42,Lose
-89,Louisiana Tech Bulldogs,Conference USA,0,27,1,0,0,0,78.98,51.08,,Win
-90,Troy Trojans,Sun Belt,0,31,1,0,0,0,86.18,69.08000000000001,24,Win
-91,Arkansas State Red Wolves,Sun Belt,0,10,0,0,0,0,,,,Lose
-92,Tulsa Golden Hurricane,American,0,21,1,0,0,0,,,,Lose
-93,UTEP Miners,Conference USA,0,28,1,0,0,0,,,,Win
-94,Memphis Tigers,American,0,19,1,0,0,0,,,,Lose
-95,Buffalo Bulls,Mid-American,0,29,1,0,0,0,,,,Lose
-96,Buffalo Bulls,Mid-American,0,24,1,0,0,0,,,,Lose
-97,Central Michigan Chippewas,Mid-American,0,56,1,0,0,0,51.08,26.96,,Win
-98,Miami (OH) RedHawks,Mid-American,0,17,1,0,0,0,,,,Lose
-99,Ball State Cardinals,Mid-American,0,3,1,0,0,0,,,,Lose
-100,Western Michigan Broncos,Mid-American,0,17,1,0,0,0,,,,Lose
-101,East Carolina Pirates,American,0,51,1,0,0,0,86.0,55.94,,Win
-102,Texas Tech Red Raiders,Big 12,0,35,1,0,0,0,,,,Win
-103,Arkansas State Red Wolves,Sun Belt,0,34,1,0,0,0,53.96,42.980000000000004,51,Win
-104,Florida Intl Golden Panthers,Conference USA,0,23,1,0,0,0,84.02,73.94,44,Win
-105,Pittsburgh Panthers,ACC,0,35,1,0,0,0,,,,Win
-106,Toledo Rockets,Mid-American,0,60,1,0,0,0,,,,Lose
-107,Ohio Bobcats,Mid-American,0,35,1,0,0,0,66.92,32.0,,Win
-108,Louisville Cardinals,ACC,55386,32,1,0,0,0,,,,Win
-109,Baylor Bears,Big 12,43514,59,1,0,0,0,,,,Win
-110,Virginia Tech Hokies,ACC,65632,20,1,0,0,0,80.06,68.0,,Win
-111,Louisville Cardinals,ACC,55332,49,1,0,0,0,,,,Win
-112,Pittsburgh Panthers,ACC,65500,13,1,0,0,0,,,,Lose
-113,Baylor Bears,Big 12,0,45,1,0,0,0,,,,Win
-114,Tennessee Volunteers,SEC,102455,38,1,0,0,0,82.94,68.0,19,Win
-115,Louisville Cardinals,ACC,55428,31,1,0,0,0,,,,Win
-116,Minnesota Golden Gophers,Big Ten,54147,17,1,0,0,0,,,,Lose
-117,Georgia Tech Yellow Jackets,ACC,49196,69,1,0,0,0,,,,Win
-118,Arizona Wildcats,Pac-12,51111,42,1,0,0,0,82.94,68.0,30,Win
-119,South Carolina Gamecocks,SEC,51664,17,1,0,0,0,,,,Win
-120,UCF Knights,American,39184,14,1,0,0,0,91.94,78.08000000000001,28,Lose
-121,Central Michigan Chippewas,Mid-American,19717,13,1,0,0,0,84.02,62.06,,Lose
-122,Ball State Cardinals,Mid-American,10473,48,1,0,0,0,,,,Win
-123,Wake Forest Demon Deacons,ACC,27126,41,1,0,0,0,,,,Win
-124,Vanderbilt Commodores,SEC,30307,12,1,0,0,0,,,,Lose
-125,Utah Utes,Pac-12,47825,24,1,0,0,0,,,,Win
-126,Ohio Bobcats,Mid-American,11587,45,0,0,0,0,71.06,33.08,,Win
-127,Utah State Aggies,Mountain West,21209,12,1,0,0,0,76.1,46.76,,Win
-128,Tulane Green Wave,American,25470,7,1,0,0,0,,,,Lose
-129,Fresno State Bulldogs,Mountain West,32547,34,1,0,0,0,,,,Win
-130,Nevada Wolf Pack,Mountain West,21483,31,1,0,0,0,,,,Win
-131,San Jose State Spartans,Mountain West,15198,43,1,0,0,0,,,,Win
-132,Hawai'i Rainbow Warriors,Mountain West,24255,28,1,0,0,0,78.08000000000001,71.06,,Win
-133,SMU Mustangs,American,32047,21,1,0,0,0,,,,Lose
-134,Western Michigan Broncos,Mid-American,30885,24,1,0,0,0,,,,Lose
-135,Boise State Broncos,Mountain West,36836,16,1,0,0,0,62.96,44.06,24,Win
-136,Georgia State Panthers,Sun Belt,10252,20,1,0,0,0,,,,Lose
-137,Syracuse Orange,ACC,30112,47,1,0,0,0,84.92,62.06,23,Win
-138,Army Black Knights,FBS Independents,22523,35,1,0,0,0,89.96000000000001,60.980000000000004,,Lose
-139,Oregon State Beavers,Pac-12,35160,26,1,0,0,0,68.0,39.92,,Win
-140,Western Kentucky Hilltoppers,Conference USA,0,41,1,0,0,0,86.0,62.96,13,Win
-141,Utah Utes,Pac-12,46011,24,1,0,0,0,,,,Win
-142,Florida Atlantic Owls,Conference USA,30321,20,1,0,0,0,,,,Lose
-143,Louisville Cardinals,ACC,55396,17,1,0,0,0,,,,Lose
-144,Boston College Eagles,ACC,39111,0,1,0,0,0,,,,Lose
-145,Boise State Broncos,Mountain West,33868,52,1,0,0,0,77.0,46.04,17,Win
-146,Arizona State Sun Devils,Pac-12,43310,34,1,0,0,0,104.0,77.0,,Win
-147,Memphis Tigers,American,45172,53,1,0,0,0,,,,Win
-148,Oregon State Beavers,Pac-12,37302,24,1,0,0,0,78.08000000000001,,,Lose
-149,Virginia Cavaliers,ACC,42427,14,1,0,0,0,66.02,57.019999999999996,,Lose
-150,Cincinnati Bearcats,American,40101,34,1,0,0,0,,,,Win
-151,Charlotte 49ers,Conference USA,13105,3,1,0,0,0,,,,Lose
-152,South Florida Bulls,American,22546,17,1,0,0,0,,,,Lose
-153,BYU Cougars,FBS Independents,56393,30,1,0,0,0,,,,Win
-154,USC Trojans,Pac-12,63623,12,1,0,0,0,,,,Lose
-155,Houston Cougars,American,25204,49,1,0,0,0,,,,Win
-156,Marshall Thundering Herd,Conference USA,22763,31,1,0,0,0,,,,Win
-157,Virginia Tech Hokies,ACC,61183,28,1,0,0,0,73.94,55.040000000000006,,Win
-158,Stanford Cardinal,Pac-12,50464,56,1,0,0,0,,,,Win
-159,Kentucky Wildcats,SEC,63407,27,1,0,0,0,,,,Lose
-160,North Texas Mean Green,Conference USA,10155,28,1,0,0,0,,,,Lose
-161,Utah State Aggies,Mountain West,22509,52,1,0,0,0,68.53999999999999,38.66,,Win
-162,Tulane Green Wave,American,21522,7,1,0,0,0,,,,Lose
-163,BYU Cougars,FBS Independents,0,38,1,0,0,0,,,,Win
-164,Fresno State Bulldogs,Mountain West,25604,31,1,0,0,0,,,,Win
-165,UCLA Bruins,Pac-12,57046,40,1,0,0,0,80.96000000000001,57.92,,Win
-166,East Carolina Pirates,American,39417,14,1,0,0,0,78.98,48.92,,Lose
-167,Appalachian State Mountaineers,Sun Belt,24121,31,1,0,0,0,69.08000000000001,30.02,,Win
-168,Tulsa Golden Hurricane,American,20216,42,1,0,0,0,,,,Lose
-169,San Diego State Aztecs,Mountain West,25898,48,1,0,0,0,84.92,64.94,17,Win
-170,TCU Horned Frogs,Big 12,45947,40,1,0,0,0,75.92,51.08,,Win
-171,Pittsburgh Panthers,ACC,43049,19,1,0,0,0,,,,Lose
-172,Eastern Michigan Eagles,Mid-American,3534,28,1,0,0,0,,,,Lose
-173,Miami (OH) RedHawks,Mid-American,12697,24,1,0,0,0,,,,Lose
-174,Georgia Southern Eagles,Sun Belt,0,37,1,0,0,0,,,,Win
-175,Arizona State Sun Devils,Pac-12,56534,55,1,0,0,0,78.08000000000001,53.06,,Lose
-176,Tennessee Volunteers,SEC,100074,20,1,0,0,0,91.03999999999999,71.96000000000001,29,Win
-177,Louisville Cardinals,ACC,0,70,1,0,0,0,,,,Win
-178,Central Michigan Chippewas,Mid-American,16215,49,1,0,0,0,75.92,51.980000000000004,,Win
-179,Wake Forest Demon Deacons,ACC,24398,7,1,0,0,0,,,,Win
-180,Cincinnati Bearcats,American,28520,28,1,0,0,0,,,,Win
-181,NC State Wolfpack,ACC,57774,48,1,0,0,0,96.98,69.98,,Win
-182,Florida Intl Golden Panthers,Conference USA,16089,13,1,0,0,0,89.06,75.92,47,Lose
-183,Utah Utes,Pac-12,45945,24,1,0,0,0,,,,Win
-184,Utah State Aggies,Mountain West,23008,45,1,0,0,0,78.62,44.78,,Win
-185,Western Kentucky Hilltoppers,Conference USA,19286,46,1,0,0,0,82.94,62.06,41,Win
-186,Vanderbilt Commodores,SEC,30304,10,1,0,0,0,,,,Lose
-187,New Mexico Lobos,Mountain West,20221,48,1,0,0,0,,,,Win
-188,Minnesota Golden Gophers,Big Ten,44582,30,1,0,0,0,,,,Win
-189,UNLV Rebels,Mountain West,18575,63,1,0,0,0,,,,Win
-190,Stanford Cardinal,Pac-12,46147,26,1,0,0,0,,,,Win
-191,Michigan State Spartans,Big Ten,74516,28,1,0,0,0,,,,Win
-192,Baylor Bears,Big 12,44849,55,1,0,0,0,,,,Win
-193,Eastern Michigan Eagles,Mid-American,14221,61,1,0,0,0,,,,Win
-194,Georgia State Panthers,Sun Belt,12233,21,1,0,0,0,,,,Lose
-195,Buffalo Bulls,Mid-American,18657,16,1,0,0,0,,,,Lose
-196,Temple Owls,American,34005,13,1,0,0,0,,,,Lose
-197,Syracuse Orange,ACC,31336,33,1,0,0,0,73.94,53.06,28,Win
-198,Colorado Buffaloes,Pac-12,69850,44,1,0,0,0,,,,Win
-199,Arkansas State Red Wolves,Sun Belt,26182,10,1,0,0,0,84.92,62.96,33,Lose
-200,Nevada Wolf Pack,Mountain West,19138,30,1,0,0,0,,,,Win
-201,Syracuse Orange,ACC,32184,28,1,0,0,0,87.98,64.03999999999999,44,Lose
-202,Florida Intl Golden Panthers,Conference USA,17084,14,1,0,0,0,89.96000000000001,80.06,52,Lose
-203,Cincinnati Bearcats,American,40015,16,1,0,0,0,,,,Lose
-204,Rice Owls,Conference USA,27047,10,1,0,0,0,,,,Lose
-205,Utah State Aggies,Mountain West,21091,34,1,0,0,0,66.56,35.06,,Win
-206,Arizona State Sun Devils,Pac-12,29035,32,0,0,0,0,,,,Win
-207,Georgia Tech Yellow Jackets,ACC,53932,7,1,0,0,0,,,,Lose
-208,Utah Utes,Pac-12,46133,31,1,0,0,0,,,,Win
-209,Eastern Michigan Eagles,Mid-American,17012,27,1,0,0,0,,,,Win
-210,SMU Mustangs,American,30987,3,1,0,0,0,,,,Lose
-211,Houston Cougars,American,40873,42,1,0,0,0,,,,Win
-212,Texas Tech Red Raiders,Big 12,56494,55,1,0,0,0,,,,Win
-213,Washington Huskies,Pac-12,72027,44,1,0,0,0,,,,Win
-214,BYU Cougars,FBS Independents,62230,55,1,0,0,0,,,,Win
-215,Indiana Hoosiers,Big Ten,52929,21,1,0,0,0,,,,Lose
-216,Oklahoma State Cowboys,Big 12,56790,59,1,0,0,0,84.92,61.7,39,Win
-217,UCF Knights,American,38063,61,1,0,0,0,96.08,73.03999999999999,26,Win
-218,Wake Forest Demon Deacons,ACC,22643,51,1,0,0,0,,,,Win
-219,Georgia State Panthers,Sun Belt,24333,10,1,0,0,0,,,,Lose
-220,Toledo Rockets,Mid-American,22104,47,1,0,0,0,,,,Win
-221,Central Michigan Chippewas,Mid-American,16311,30,1,0,0,0,78.08000000000001,51.08,,Win
-222,Cincinnati Bearcats,American,30831,26,1,0,0,0,,,,Win
-223,Minnesota Golden Gophers,Big Ten,43224,17,1,0,0,0,,,,Win
-224,UConn Huskies,American,24435,27,1,0,0,0,,,,Win
-225,Utah Utes,Pac-12,45905,37,1,0,0,0,,,,Win
-226,Arkansas Razorbacks,SEC,36055,49,1,0,0,0,,,,Win
-227,Memphis Tigers,American,10263,37,1,0,0,0,,,,Win
-228,Arizona State Sun Devils,Pac-12,46596,37,1,0,0,0,107.96000000000001,73.03999999999999,,Win
-229,Utah State Aggies,Mountain West,19638,51,1,0,0,0,81.5,48.92,,Win
-230,Boise State Broncos,Mountain West,28385,28,1,0,0,0,69.08000000000001,50.0,67,Win
-231,South Florida Bulls,American,24325,43,1,0,0,0,,,,Win
-232,Iowa State Cyclones,Big 12,51234,7,1,0,0,0,73.94,48.92,27,Lose
-233,Georgia Southern Eagles,Sun Belt,13781,25,1,0,0,0,,,,Lose
-234,NC State Wolfpack,ACC,56107,39,1,0,0,0,84.92,57.92,,Win
-235,Troy Trojans,Sun Belt,25211,8,1,0,0,0,88.16,68.53999999999999,13,Lose
-236,Louisiana Ragin' Cajuns,Sun Belt,13106,24,1,0,0,0,,,,Win
-237,Houston Cougars,American,30001,38,1,0,0,0,,,,Lose
-238,Arkansas State Red Wolves,Sun Belt,21943,47,1,0,0,0,80.06,46.94,15,Win
-239,Oregon State Beavers,Pac-12,30912,14,1,0,0,0,,,,Lose
-240,Northern Illinois Huskies,Mid-American,8872,30,1,0,0,0,53.96,35.06,,Win
-241,Ball State Cardinals,Mid-American,7103,17,1,0,0,0,,,,Lose
-242,Georgia State Panthers,Sun Belt,12125,21,1,0,0,0,,,,Win
-243,Western Michigan Broncos,Mid-American,11776,28,1,0,0,0,,,,Lose
-244,Eastern Michigan Eagles,Mid-American,23465,56,1,0,0,0,,,,Win
-245,Toledo Rockets,Mid-American,17084,27,1,0,0,0,,,,Win
-246,Temple Owls,American,26127,34,1,0,0,0,,,,Win
-247,Troy Trojans,Sun Belt,20341,24,1,0,0,0,79.7,55.400000000000006,5,Win
-248,UConn Huskies,American,23081,17,1,0,0,0,,,,Lose
-249,Minnesota Golden Gophers,Big Ten,41291,48,1,0,0,0,,,,Win
-250,Ball State Cardinals,Mid-American,9801,42,1,0,0,0,,,,Win
-251,Georgia State Panthers,Sun Belt,23088,24,1,0,0,0,,,,Win
-252,UL Monroe Warhawks,Sun Belt,10137,34,1,0,0,0,,,,Win
-253,Purdue Boilermakers,Big Ten,47410,27,1,0,0,0,75.02,55.94,,Lose
-254,Oklahoma State Cowboys,Big 12,50103,58,1,0,0,0,96.26,73.75999999999999,57,Win
-255,UAB Blazers,Conference USA,27124,52,1,0,0,0,,,,Win
-256,Utah Utes,Pac-12,45988,41,1,0,0,0,87.98,68.0,,Win
-257,Tulane Green Wave,American,15478,17,1,0,0,0,,,,Lose
-258,Texas A&M Aggies,SEC,95855,59,1,0,0,0,,,,Win
-259,San Jose State Spartans,Mountain West,12675,38,1,0,0,0,,,,Lose
-260,Charlotte 49ers,Conference USA,8204,28,1,0,0,0,,,,Win
-261,Wake Forest Demon Deacons,ACC,25309,34,1,0,0,0,,,,Lose
-262,Utah State Aggies,Mountain West,15011,73,1,0,0,0,74.30000000000001,35.96,,Win
-263,Temple Owls,American,24217,31,1,0,0,0,,,,Win
-264,Miami Hurricanes,ACC,60843,47,1,0,0,0,89.96000000000001,80.06,41,Win
-265,Troy Trojans,Sun Belt,22903,37,1,0,0,0,87.62,65.30000000000001,3,Win
-266,Houston Cougars,American,29823,41,1,0,0,0,,,,Win
-267,TCU Horned Frogs,Big 12,44387,14,1,0,0,0,69.08000000000001,51.980000000000004,,Lose
-268,Texas State Bobcats,Sun Belt,9545,13,1,0,0,0,75.92,60.08,,Lose
-269,Arkansas State Red Wolves,Sun Belt,18176,51,1,0,0,0,66.02,46.94,36,Win
-270,Arizona State Sun Devils,Pac-12,42946,13,1,0,0,0,86.0,50.0,,Lose
-271,West Virginia Mountaineers,Big 12,53117,58,1,0,0,0,50.0,30.92,,Win
-272,Georgia Southern Eagles,Sun Belt,19252,34,1,0,0,0,,,,Win
-273,Ohio Bobcats,Mid-American,13774,52,1,0,0,0,51.08,28.94,,Win
-274,Western Michigan Broncos,Mid-American,11389,24,1,0,0,0,,,,Lose
-275,Virginia Tech Hokies,ACC,65632,28,1,0,0,0,55.94,28.04,,Lose
-276,Toledo Rockets,Mid-American,15214,45,1,0,0,0,,,,Win
-277,UCF Knights,American,41153,52,1,0,0,0,84.02,62.06,33,Win
-278,Akron Zips,Mid-American,16401,26,1,0,0,0,,,,Lose
-279,Western Michigan Broncos,Mid-American,11935,14,1,0,0,0,,,,Lose
+0,Wisconsin Badgers,Big Ten,75136,23,1,0,0,0,80.96000000000001,66.02,20,Win
+1,Nebraska Cornhuskers,Big Ten,77779,48,1,0,0,0,,,,Win
+2,Ohio State Buckeyes,Big Ten,100037,45,1,0,0,0,89.96000000000001,69.08000000000001,,Win
+3,NC State Wolfpack,ACC,47018,34,1,0,0,0,100.03999999999999,75.92,,Win
+4,Texas Longhorns,Big 12,83051,27,1,0,0,0,,,,Win
+5,Tennessee Volunteers,SEC,67221,47,1,0,0,0,,,,Win
+6,Florida State Seminoles,ACC,79406,40,1,0,0,0,80.96000000000001,73.94,32,Win
+7,Georgia Bulldogs,SEC,86520,31,1,0,0,0,73.94,66.92,45,Win
+8,Nebraska Cornhuskers,Big Ten,77831,31,1,0,0,0,,,,Win
+9,Michigan Wolverines,Big Ten,111491,31,1,0,0,0,84.02,59.0,,Win
+10,Washington State Cougars,Pac-12,63588,31,1,0,0,0,80.06,44.96,17,Win
+11,Oregon Ducks,Pac-12,56386,36,1,0,0,0,84.02,42.980000000000004,29,Win
+12,Michigan State Spartans,Big Ten,73927,56,1,0,0,0,82.94,53.96,,Win
+13,Marshall Thundering Herd,Conference USA,31042,50,1,0,0,0,78.98,62.06,,Win
+14,South Carolina Gamecocks,SEC,83717,34,1,0,0,0,75.02,69.08000000000001,,Win
+15,Texas A&M Aggies,SEC,75087,31,1,0,0,0,,,,Win
+16,Penn State Nittany Lions,Big Ten,0,27,1,0,0,0,73.94,57.019999999999996,,Win
+17,NC State Wolfpack,ACC,42507,34,1,0,0,0,69.98,62.96,,Win
+18,Boston College Eagles,ACC,40066,24,1,0,0,0,,,,Win
+19,Air Force Falcons,Mountain West,45114,52,1,0,0,0,,,,Win
+20,Iowa Hawkeyes,Big Ten,51495,57,1,0,0,0,84.92,62.06,,Win
+21,Alabama Crimson Tide,SEC,80091,39,1,0,0,0,87.98,71.06,19,Win
+22,Iowa State Cyclones,Big 12,40026,45,1,0,0,0,82.94,55.94,23,Win
+23,North Carolina Tar Heels,ACC,38000,21,1,0,0,0,68.0,64.94,,Lose
+24,Purdue Boilermakers,Big Ten,47701,51,1,0,0,0,84.92,62.06,23,Win
+25,BYU Cougars,FBS Independents,63085,35,1,0,0,0,82.03999999999999,62.96,,Win
+26,Oklahoma Sooners,Big 12,75564,37,1,0,0,0,,,,Win
+27,Tennessee Volunteers,SEC,107672,26,1,0,0,0,93.02,64.94,13,Win
+28,Michigan Wolverines,Big Ten,107856,35,1,0,0,0,91.94,59.0,,Win
+29,Ohio State Buckeyes,Big Ten,98689,51,1,0,0,0,95.0,57.92,,Win
+30,Nebraska Cornhuskers,Big Ten,78176,44,1,0,0,0,,,,Win
+31,Washington State Cougars,Pac-12,0,49,1,0,0,0,62.96,41.0,27,Win
+32,Oregon Ducks,Pac-12,56357,28,1,0,0,0,71.96000000000001,42.980000000000004,24,Win
+33,Washington Huskies,Pac-12,70147,34,1,0,0,0,69.08000000000001,53.96,26,Win
+34,Michigan State Spartans,Big Ten,74014,27,1,0,0,0,87.98,53.06,,Win
+35,Colorado Buffaloes,Pac-12,0,34,1,0,0,0,,,,Win
+36,UCLA Bruins,Pac-12,58078,30,1,0,0,0,86.0,57.92,,Win
+37,Pittsburgh Panthers,ACC,45489,12,1,0,0,0,,,,Lose
+38,Navy Midshipmen,American,29613,19,1,0,0,0,80.06,78.98,,Lose
+39,Virginia Cavaliers,ACC,60171,34,1,0,0,0,,,,Win
+40,LSU Tigers,SEC,85022,35,1,0,0,0,80.96000000000001,73.94,28,Win
+41,Wisconsin Badgers,Big Ten,76320,34,1,0,0,0,87.98,62.06,24,Win
+42,Southern Mississippi Golden Eagles,Conference USA,22183,23,1,0,0,0,78.08000000000001,73.94,20,Win
+43,Miami (OH) RedHawks,Mid-American,25934,24,1,0,0,0,,,,Lose
+44,Ole Miss Rebels,SEC,54718,38,1,0,0,0,96.08,68.0,,Win
+45,Clemson Tigers,ACC,71000,33,1,0,0,0,87.08000000000001,60.980000000000004,,Win
+46,Northwestern Wildcats,Big Ten,21422,24,1,0,0,0,,,,Lose
+47,Temple Owls,American,33169,21,1,0,0,0,86.0,66.92,,Lose
+48,Oklahoma Sooners,Big 12,74468,68,1,0,0,0,,,,Win
+49,North Carolina Tar Heels,ACC,60500,21,1,0,0,0,75.92,69.98,,Lose
+50,Maryland Terrapins,Big Ten,51758,10,1,0,0,0,82.03999999999999,55.040000000000006,,Lose
+51,Ohio State Buckeyes,Big Ten,104553,25,1,0,0,0,87.08000000000001,64.03999999999999,,Win
+52,Penn State Nittany Lions,Big Ten,110753,40,1,0,0,0,82.03999999999999,57.019999999999996,,Win
+53,South Carolina Gamecocks,SEC,84227,7,1,0,0,0,91.94,71.96000000000001,,Lose
+54,Oregon Ducks,Pac-12,55187,58,1,0,0,0,71.06,51.980000000000004,43,Win
+55,Michigan State Spartans,Big Ten,72634,22,1,0,0,0,82.03999999999999,50.0,,Lose
+56,Colorado Buffaloes,Pac-12,53119,3,1,0,0,0,,,,Lose
+57,NC State Wolfpack,ACC,51094,32,1,0,0,0,77.0,57.92,,Win
+58,Wisconsin Badgers,Big Ten,77460,24,1,0,0,0,71.06,60.980000000000004,17,Win
+59,Oklahoma State Cowboys,Big 12,43020,24,1,0,0,0,80.96000000000001,64.03999999999999,26,Lose
+60,Colorado State Rams,Mountain West,31607,36,1,0,0,0,,,,Win
+61,LSU Tigers,SEC,90010,33,1,0,0,0,93.92,75.02,24,Win
+62,Clemson Tigers,ACC,0,24,1,0,0,0,78.98,66.92,,Win
+63,Illinois Fighting Illini,Big Ten,46258,59,1,0,0,0,89.06,60.08,,Win
+64,Auburn Tigers,SEC,76127,31,1,0,0,0,78.08000000000001,69.98,,Win
+65,Northwestern Wildcats,Big Ten,22910,26,1,0,0,0,,,,Win
+66,Ball State Cardinals,Mid-American,12924,23,1,0,0,0,,,,Win
+67,Kent State Golden Flashes,Mid-American,8410,37,1,0,0,0,80.06,50.0,,Win
+68,Louisiana Tech Bulldogs,Conference USA,18600,53,1,0,0,0,95.0,66.02,,Win
+69,Marshall Thundering Herd,Conference USA,32900,26,1,0,0,0,82.03999999999999,64.94,,Win
+70,Texas Longhorns,Big 12,82936,41,1,0,0,0,,,,Win
+71,Tennessee Volunteers,SEC,108722,13,1,0,0,0,73.94,69.08000000000001,20,Lose
+72,Florida State Seminoles,ACC,82397,48,1,0,0,0,93.02,73.94,31,Win
+73,Texas A&M Aggies,SEC,83746,3,1,0,0,0,,,,Lose
+74,Georgia Bulldogs,SEC,86520,45,1,0,0,0,80.06,69.98,25,Win
+75,Oregon Ducks,Pac-12,56066,41,1,0,0,0,82.94,44.06,62,Win
+76,Kansas State Wildcats,Big 12,49276,27,1,0,0,0,78.08000000000001,50.0,,Win
+77,Michigan State Spartans,Big Ten,75182,17,1,0,0,0,78.08000000000001,59.0,,Lose
+78,Washington Huskies,Pac-12,72898,38,1,0,0,0,73.94,50.0,10,Win
+79,Michigan Wolverines,Big Ten,109734,10,1,0,0,0,80.06,60.08,,Win
+80,Penn State Nittany Lions,Big Ten,103987,49,1,0,0,0,80.96000000000001,68.0,,Win
+81,Washington State Cougars,Pac-12,23713,45,1,0,0,0,64.94,26.96,8,Win
+82,Texas Tech Red Raiders,Big 12,35864,48,1,0,0,0,89.96000000000001,51.980000000000004,24,Lose
+83,UCLA Bruins,Pac-12,63880,17,1,0,0,0,93.02,64.03999999999999,,Lose
+84,Iowa State Cyclones,Big 12,44896,42,1,0,0,0,66.92,50.0,38,Win
+85,Wisconsin Badgers,Big Ten,78582,31,1,0,0,0,69.08000000000001,51.980000000000004,26,Win
+86,California Golden Bears,Pac-12,0,21,1,0,0,0,89.96000000000001,51.980000000000004,,Lose
+87,Pittsburgh Panthers,ACC,32519,23,1,0,0,0,,,,Win
+88,Navy Midshipmen,American,27012,40,1,0,0,0,84.92,66.92,,Lose
+89,Ole Miss Rebels,SEC,50427,45,1,0,0,0,84.92,64.94,,Win
+90,Army Black Knights,FBS Independents,28625,14,1,0,0,0,80.96000000000001,64.03999999999999,,Lose
+91,New Mexico Lobos,Mountain West,35111,0,1,0,0,0,78.08000000000001,53.06,28,Lose
+92,Oklahoma Sooners,Big 12,74432,31,1,0,0,0,,,,Win
+93,Tulane Green Wave,American,46678,0,1,0,0,0,84.92,69.98,,Lose
+94,Western Michigan Broncos,Mid-American,27218,0,1,0,0,0,71.96000000000001,51.980000000000004,24,Lose
+95,Ohio State Buckeyes,Big Ten,104194,45,1,0,0,0,71.96000000000001,53.06,,Win
+96,Georgia Bulldogs,SEC,86520,41,1,0,0,0,78.98,62.96,22,Win
+97,Tennessee Volunteers,SEC,103925,35,1,0,0,0,80.06,64.94,38,Win
+98,Penn State Nittany Lions,Big Ten,0,35,1,0,0,0,66.92,55.94,,Lose
+99,Washington Huskies,Pac-12,70070,41,1,0,0,0,75.92,46.94,6,Win
+100,Illinois Fighting Illini,Big Ten,69249,28,1,0,0,0,82.03999999999999,53.06,,Lose
+101,California Golden Bears,Pac-12,29297,38,1,0,0,0,64.03999999999999,50.0,,Lose
+102,NC State Wolfpack,ACC,51221,56,1,0,0,0,78.08000000000001,57.019999999999996,,Win
+103,USC Trojans,Pac-12,56417,22,1,0,0,0,69.98,62.06,10,Win
+104,Iowa State Cyclones,Big 12,51888,36,1,0,0,0,69.98,42.08,17,Win
+105,LSU Tigers,SEC,90793,31,1,0,0,0,87.08000000000001,64.94,14,Win
+106,Texas A&M Aggies,SEC,72802,31,1,0,0,0,,,,Win
+107,Nevada Wolf Pack,Mountain West,19292,28,1,0,0,0,71.06,46.04,24,Lose
+108,Boston College Eagles,ACC,41826,43,1,0,0,0,,,,Win
+109,West Virginia Mountaineers,Big 12,54497,37,1,0,0,0,87.98,57.019999999999996,,Win
+110,Navy Midshipmen,American,31647,17,1,0,0,0,80.06,71.06,,Lose
+111,Florida Intl Golden Panthers,Conference USA,6084,27,1,0,0,0,89.96000000000001,77.0,24,Win
+112,Army Black Knights,FBS Independents,31402,6,1,0,0,0,73.03999999999999,55.040000000000006,,Lose
+113,Michigan State Spartans,Big Ten,74215,39,1,0,0,0,73.03999999999999,44.96,,Win
+114,Fresno State Bulldogs,Mountain West,38336,32,1,0,0,0,84.92,50.0,,Win
+115,Utah State Aggies,Mountain West,30341,34,1,0,0,0,38.3,32.72,,Lose
+116,Texas Longhorns,Big 12,83116,17,1,0,0,0,,,,Win
+117,Missouri Tigers,SEC,60578,24,1,0,0,0,69.98,42.980000000000004,31,Lose
+118,Northwestern Wildcats,Big Ten,43489,16,1,0,0,0,,,,Lose
+119,Ole Miss Rebels,SEC,61140,17,1,0,0,0,86.0,59.0,,Win
+120,Alabama Crimson Tide,SEC,83818,25,1,0,0,0,89.96000000000001,71.96000000000001,8,Lose
+121,Arizona Wildcats,Pac-12,47356,14,1,0,0,0,89.96000000000001,53.96,27,Lose
+122,Tennessee Volunteers,SEC,105688,41,1,0,0,0,82.94,64.03999999999999,30,Win
+123,Washington Huskies,Pac-12,71337,27,1,0,0,0,62.06,51.980000000000004,10,Lose
+124,Colorado Buffaloes,Pac-12,52584,35,1,0,0,0,,,,Win
+125,Washington State Cougars,Pac-12,36861,30,1,0,0,0,62.06,42.08,38,Win
+126,Wisconsin Badgers,Big Ten,79403,31,1,0,0,0,59.0,42.08,29,Lose
+127,LSU Tigers,SEC,91357,48,1,0,0,0,89.06,71.06,5,Win
+128,Texas A&M Aggies,SEC,86478,47,1,0,0,0,,,,Lose
+129,Iowa Hawkeyes,Big Ten,68249,31,1,0,0,0,66.02,37.94,,Win
+130,Duke Blue Devils,ACC,17638,22,1,0,0,0,86.0,64.03999999999999,,Lose
+131,Syracuse Orange,ACC,39947,24,1,0,0,0,75.92,53.96,52,Lose
+132,West Virginia Mountaineers,Big 12,55146,17,1,0,0,0,80.96000000000001,57.019999999999996,,Lose
+133,Nebraska Cornhuskers,Big Ten,77192,38,1,0,0,0,,,,Win
+134,Georgia Southern Eagles,Sun Belt,15621,52,1,0,0,0,91.03999999999999,68.0,,Win
+135,Buffalo Bulls,Mid-American,8112,17,1,0,0,0,68.0,48.019999999999996,58,Lose
+136,Cincinnati Bearcats,American,31478,26,1,0,0,0,73.03999999999999,51.980000000000004,,Lose
+137,South Carolina Gamecocks,SEC,80250,34,1,0,0,0,93.92,69.98,,Win
+138,Kent State Golden Flashes,Mid-American,15337,21,1,0,0,0,80.96000000000001,53.96,,Lose
+139,Ohio State Buckeyes,Big Ten,104892,50,1,0,0,0,71.96000000000001,57.019999999999996,,Win
+140,Georgia Bulldogs,SEC,86520,18,1,0,0,0,84.02,62.96,9,Win
+141,UCLA Bruins,Pac-12,68882,30,1,0,0,0,73.94,57.019999999999996,,Lose
+142,Iowa State Cyclones,Big 12,51842,31,1,0,0,0,60.980000000000004,37.04,54,Win
+143,Stanford Cardinal,Pac-12,30750,11,1,0,0,0,78.08000000000001,46.94,,Lose
+144,Michigan Wolverines,Big Ten,111502,27,1,0,0,0,69.98,50.0,,Win
+145,North Carolina Tar Heels,ACC,60250,17,1,0,0,0,71.96000000000001,64.94,,Lose
+146,Iowa Hawkeyes,Big Ten,69021,44,1,0,0,0,77.0,50.0,,Win
+147,Kansas State Wildcats,Big 12,48404,44,1,0,0,0,69.08000000000001,46.04,,Win
+148,USC Trojans,Pac-12,63113,30,1,0,0,0,73.03999999999999,57.019999999999996,7,Win
+149,Air Force Falcons,Mountain West,42214,52,1,0,0,0,,,,Win
+150,Washington Huskies,Pac-12,71016,32,1,0,0,0,60.08,41.0,19,Win
+151,Indiana Hoosiers,Big Ten,31156,32,1,0,0,0,69.08000000000001,51.980000000000004,18,Win
+152,Auburn Tigers,SEC,84692,17,1,0,0,0,84.92,64.94,,Lose
+153,Ole Miss Rebels,SEC,55204,52,1,0,0,0,69.98,55.040000000000006,,Win
+154,Virginia Cavaliers,ACC,54114,22,1,0,0,0,,,,Win
+155,Navy Midshipmen,American,25104,10,1,0,0,0,69.98,64.94,,Lose
+156,Nebraska Cornhuskers,Big Ten,78014,24,1,0,0,0,,,,Win
+157,Baylor Bears,Big 12,38673,0,1,0,0,0,84.92,62.96,45,Lose
+158,Army Black Knights,FBS Independents,32454,27,1,0,0,0,57.92,51.980000000000004,,Lose
+159,Boise State Broncos,Mountain West,30924,67,1,0,0,0,69.98,44.06,26,Win
+160,Oklahoma Sooners,Big 12,75201,49,1,0,0,0,,,,Win
+161,Virginia Tech Hokies,ACC,64907,35,1,0,0,0,57.92,30.92,,Win
+162,Wisconsin Badgers,Big Ten,79729,14,1,0,0,0,42.980000000000004,33.08,34,Lose
+163,Georgia Bulldogs,SEC,86520,48,1,0,0,0,69.98,42.08,5,Win
+164,Oregon Ducks,Pac-12,56432,42,1,0,0,0,69.98,48.019999999999996,23,Lose
+165,Air Force Falcons,Mountain West,56409,14,1,0,0,0,57.92,28.94,,Lose
+166,Kansas State Wildcats,Big 12,50659,14,1,0,0,0,73.03999999999999,42.08,,Lose
+167,Purdue Boilermakers,Big Ten,62414,21,1,0,0,0,57.92,35.06,39,Lose
+168,NC State Wolfpack,ACC,51500,24,1,0,0,0,66.02,39.019999999999996,,Win
+169,LSU Tigers,SEC,91340,38,1,0,0,0,84.02,62.96,34,Win
+170,Indiana Hoosiers,Big Ten,33458,8,1,0,0,0,57.92,39.019999999999996,31,Lose
+171,USC Trojans,Pac-12,52961,41,1,0,0,0,71.96000000000001,55.94,9,Win
+172,Penn State Nittany Lions,Big Ten,108853,49,1,0,0,0,53.06,33.98,,Win
+173,Alabama Crimson Tide,SEC,83818,42,1,0,0,0,75.02,50.0,16,Win
+174,Colorado Buffaloes,Pac-12,46281,34,1,0,0,0,,,,Win
+175,Bowling Green Falcons,Mid-American,15169,48,1,0,0,0,55.94,39.92,,Win
+176,Boston College Eagles,ACC,41322,46,1,0,0,0,,,,Win
+177,Virginia Cavaliers,ACC,55648,37,1,0,0,0,,,,Win
+178,West Virginia Mountaineers,Big 12,45088,34,1,0,0,0,55.94,37.04,,Win
+179,Middle Tennessee Blue Raiders,Conference USA,9726,48,1,0,0,0,69.98,50.0,,Win
+180,Michigan State Spartans,Big Ten,74232,7,1,0,0,0,53.06,37.04,,Lose
+181,Oklahoma State Cowboys,Big 12,45017,24,1,0,0,0,63.68000000000001,48.2,41,Win
+182,Buffalo Bulls,Mid-American,9213,0,1,0,0,0,60.08,44.06,76,Lose
+183,Fresno State Bulldogs,Mountain West,37615,21,1,0,0,0,64.03999999999999,46.94,,Lose
+184,West Virginia Mountaineers,Big 12,56817,23,1,0,0,0,60.980000000000004,53.06,,Lose
+185,Virginia Tech Hokies,ACC,64937,20,1,0,0,0,48.92,44.96,,Win
+186,Ohio State Buckeyes,Big Ten,105103,13,1,0,0,0,53.06,46.04,,Win
+187,Kentucky Wildcats,SEC,71017,24,1,0,0,0,57.92,51.08,18,Lose
+188,Florida State Seminoles,ACC,84106,24,1,0,0,0,75.92,66.92,11,Lose
+189,Texas Longhorns,Big 12,83071,21,1,0,0,0,,,,Win
+190,Michigan Wolverines,Big Ten,111496,9,1,0,0,0,48.92,41.0,,Lose
+191,Arizona Wildcats,Pac-12,46462,13,1,0,0,0,66.02,51.980000000000004,27,Lose
+192,Auburn Tigers,SEC,85366,31,1,0,0,0,66.92,60.980000000000004,,Win
+193,Oregon Ducks,Pac-12,56754,33,1,0,0,0,59.0,26.96,16,Lose
+194,Tennessee Volunteers,SEC,107722,14,1,0,0,0,64.94,59.0,17,Lose
+195,Baylor Bears,Big 12,20247,10,1,0,0,0,60.08,51.980000000000004,42,Lose
+196,Colorado Buffaloes,Pac-12,50478,37,1,0,0,0,,,,Win
+197,Wyoming Cowboys,Mountain West,15022,34,1,0,0,0,51.08,19.939999999999998,35,Win
+198,Arizona State Sun Devils,Pac-12,56101,27,1,0,0,0,73.03999999999999,53.06,,Win
+199,Bowling Green Falcons,Mid-American,21039,38,1,0,0,0,48.019999999999996,39.019999999999996,,Win
+200,Northwestern Wildcats,Big Ten,30158,13,1,0,0,0,,,,Lose
+201,Pittsburgh Panthers,ACC,45060,19,1,0,0,0,,,,Win
+202,Duke Blue Devils,ACC,23521,12,1,0,0,0,53.06,48.92,,Lose
+203,Buffalo Bulls,Mid-American,5102,12,1,0,0,0,48.92,44.06,27,Lose
+204,Army Black Knights,FBS Independents,35804,26,1,0,0,0,50.0,41.0,,Lose
+205,Central Michigan Chippewas,Mid-American,14564,18,1,0,0,0,39.92,32.0,,Lose
+206,Liberty Flames,FBS Independents,6165,14,0,0,0,0,51.980000000000004,50.0,,Lose
+207,Western Michigan Broncos,Mid-American,15049,20,1,0,0,0,48.019999999999996,41.0,23,Lose
+208,Rutgers Scarlet Knights,Big Ten,0,17,1,0,0,0,,,,Lose
+209,Oklahoma Sooners,Big 12,75403,27,1,0,0,0,,,,Win
+210,Virginia Tech Hokies,ACC,64971,21,1,0,0,0,48.019999999999996,28.94,,Lose
+211,Ohio State Buckeyes,Big Ten,104897,34,1,0,0,0,48.92,26.96,,Win
+212,Nebraska Cornhuskers,Big Ten,78268,24,1,0,0,0,,,,Lose
+213,Washington State Cougars,Pac-12,37444,44,1,0,0,0,39.92,19.04,33,Win
+214,Iowa Hawkeyes,Big Ten,70397,20,1,0,0,0,46.94,24.08,,Win
+215,NC State Wolfpack,ACC,51500,17,1,0,0,0,51.980000000000004,35.96,,Lose
+216,Vanderbilt Commodores,SEC,36407,8,1,0,0,0,,,,Lose
+217,Kansas Jayhawks,Big 12,43000,0,1,0,0,0,39.019999999999996,35.96,18,Lose
+218,Michigan Wolverines,Big Ten,111542,49,1,0,0,0,42.08,28.94,,Win
+219,Oregon Ducks,Pac-12,56436,41,1,0,0,0,55.040000000000006,17.06,19,Win
+220,Penn State Nittany Lions,Big Ten,105589,18,1,0,0,0,42.980000000000004,30.02,,Win
+221,Kent State Golden Flashes,Mid-American,7165,14,1,0,0,0,39.019999999999996,28.94,,Lose
+222,Iowa State Cyclones,Big 12,44339,42,1,0,0,0,46.04,19.939999999999998,38,Win
+223,South Carolina Gamecocks,SEC,83918,10,1,0,0,0,66.92,39.92,,Lose
+224,Duke Blue Devils,ACC,16479,31,1,0,0,0,53.96,32.0,,Lose
+225,Northwestern Wildcats,Big Ten,25077,41,1,0,0,0,,,,Win
+226,Ole Miss Rebels,SEC,60635,24,1,0,0,0,53.96,33.08,,Lose
+227,Texas A&M Aggies,SEC,84036,30,1,0,0,0,,,,Win
+228,Tennessee Volunteers,SEC,107745,3,1,0,0,0,69.08000000000001,39.92,41,Lose
+229,Purdue Boilermakers,Big Ten,65250,6,1,0,0,0,66.02,55.040000000000006,65,Lose
+230,Texas Longhorns,Big 12,83016,41,1,0,0,0,,,,Win
+231,Washington State Cougars,Pac-12,37600,32,1,0,0,0,46.94,37.94,47,Win
+232,Iowa Hawkeyes,Big Ten,68728,62,1,0,0,0,66.92,39.92,,Win
+233,Georgia Bulldogs,SEC,86520,31,1,0,0,0,73.94,60.08,36,Win
+234,Syracuse Orange,ACC,48239,50,1,0,0,0,66.02,53.06,45,Win
+235,Stanford Cardinal,Pac-12,44950,17,1,0,0,0,62.96,48.019999999999996,,Lose
+236,Alabama Crimson Tide,SEC,83818,28,1,0,0,0,77.0,55.94,40,Win
+237,Kansas State Wildcats,Big 12,49504,58,1,0,0,0,68.0,44.06,,Win
+238,Maryland Terrapins,Big Ten,52915,24,1,0,0,0,60.980000000000004,35.96,,Win
+239,Kentucky Wildcats,SEC,66262,30,1,0,0,0,68.0,51.08,72,Lose
+240,Georgia Tech Yellow Jackets,ACC,43719,13,1,0,0,0,,,,Lose
+241,Missouri Tigers,SEC,48465,35,1,0,0,0,71.06,55.040000000000006,63,Lose
+242,Penn State Nittany Lions,Big Ten,108698,35,1,0,0,0,64.03999999999999,37.94,,Win
+243,Northern Illinois Huskies,Mid-American,25822,26,1,0,0,0,64.03999999999999,42.08,,Win
+244,Pittsburgh Panthers,ACC,39880,29,1,0,0,0,,,,Win
+245,Vanderbilt Commodores,SEC,28881,17,1,0,0,0,,,,Lose
+246,Arizona State Sun Devils,Pac-12,40769,38,1,0,0,0,82.94,57.019999999999996,,Lose
+247,North Carolina Tar Heels,ACC,42000,12,1,0,0,0,66.02,35.06,,Lose
+248,UMass Minutemen,FBS Independents,3686,14,0,0,0,0,,,,Lose
+249,Illinois Fighting Illini,Big Ten,58810,16,1,0,0,0,39.92,30.02,,Lose
+250,Baylor Bears,Big 12,28375,9,1,0,0,0,60.980000000000004,41.0,46,Lose
+251,Texas Tech Red Raiders,Big 12,52047,42,1,0,0,0,57.019999999999996,30.92,43,Win
+252,Auburn Tigers,SEC,86063,21,1,0,0,0,60.08,41.0,,Lose
+253,USC Trojans,Pac-12,73923,34,1,0,0,0,75.02,51.980000000000004,,Win
+254,LSU Tigers,SEC,92012,0,1,0,0,0,62.06,37.04,18,Lose
+255,Kansas State Wildcats,Big 12,52221,49,1,0,0,0,60.980000000000004,24.98,,Win
+256,Michigan Wolverines,Big Ten,110412,21,1,0,10,0,33.98,28.04,,Win
+257,Florida State Seminoles,ACC,81910,40,1,0,0,0,64.03999999999999,51.08,34,Win
+258,Indiana Hoosiers,Big Ten,0,25,1,0,0,0,37.94,32.0,45,Lose
+259,Colorado Buffaloes,Pac-12,48728,41,1,0,0,0,57.92,35.96,,Win
+260,Clemson Tigers,ACC,72000,12,1,0,0,0,55.040000000000006,46.04,,Lose
+261,San Diego State Aztecs,Mountain West,21714,21,1,0,0,0,71.96000000000001,51.980000000000004,15,Lose
+262,Virginia Cavaliers,ACC,53371,14,1,0,0,0,,,,Win
+263,Oregon Ducks,Pac-12,57112,14,1,0,0,0,59.0,33.98,41,Lose
+264,Boston College Eagles,ACC,36221,41,1,0,0,0,,,,Win
+265,Navy Midshipmen,American,25664,0,1,0,0,0,53.06,42.980000000000004,,Lose
+266,Troy Trojans,Sun Belt,0,16,1,0,0,0,60.980000000000004,42.08,45,Lose
+267,Wyoming Cowboys,Mountain West,10611,18,1,0,0,0,44.06,19.939999999999998,88,Lose
+268,Michigan State Spartans,Big Ten,72828,42,1,0,0,0,35.06,21.02,,Lose
+269,Mississippi State Bulldogs,SEC,54807,17,1,0,0,0,64.03999999999999,42.08,,Lose
+270,Central Michigan Chippewas,Mid-American,8235,21,1,0,0,0,33.98,21.92,,Lose
+271,Ohio State Buckeyes,Big Ten,105539,14,1,0,0,0,39.92,30.92,,Win
+272,Washington State Cougars,Pac-12,37600,26,1,0,0,0,44.06,35.96,42,Lose
+273,Oklahoma Sooners,Big 12,75553,60,1,0,0,0,,,,Win
+274,UCLA Bruins,Pac-12,91084,21,1,0,0,0,71.06,51.980000000000004,,Lose
+275,Alabama Crimson Tide,SEC,84818,7,1,0,0,0,57.019999999999996,30.02,2,Lose
+276,Missouri Tigers,SEC,47507,0,1,0,0,0,55.040000000000006,28.94,34,Lose
+277,NC State Wolfpack,ACC,51500,17,1,0,0,0,48.92,33.08,,Win
+278,Penn State Nittany Lions,Big Ten,0,61,1,0,0,0,44.96,30.02,,Win
+279,Virginia Cavaliers,ACC,58358,48,1,0,0,0,,,,Win
+280,Colorado State Rams,Mountain West,30215,22,1,0,0,0,,,,Win
+281,LSU Tigers,SEC,91613,14,1,0,0,0,69.98,37.04,24,Win
+282,East Carolina Pirates,American,23189,31,1,0,0,0,51.980000000000004,35.96,,Win
+283,Nevada Wolf Pack,Mountain West,20247,7,1,0,0,0,62.06,37.04,19,Lose
+284,Northwestern Wildcats,Big Ten,25134,24,1,0,0,0,,,,Lose
+285,Duke Blue Devils,ACC,33002,21,1,0,0,0,53.06,30.02,,Lose
+286,UMass Minutemen,FBS Independents,2501,48,0,0,0,0,,,,Win
+287,Air Force Falcons,Mountain West,31023,34,1,0,0,0,,,,Lose
+288,Northern Illinois Huskies,Mid-American,20154,30,1,0,0,0,35.96,26.060000000000002,,Lose
+289,Wisconsin Badgers,Big Ten,78843,49,1,0,0,0,46.04,32.0,39,Win
+290,Vanderbilt Commodores,SEC,47210,0,1,0,0,0,,,,Lose
+291,Miami (OH) RedHawks,Mid-American,7962,31,1,0,0,0,,,,Lose
+292,Louisville Cardinals,ACC,35261,41,1,0,0,0,51.980000000000004,28.94,32,Win
+293,Ball State Cardinals,Mid-American,7957,41,1,0,0,0,,,,Win
+294,Texas Longhorns,Big 12,83711,50,1,0,0,0,,,,Win
+295,Nebraska Cornhuskers,Big Ten,77804,13,1,0,0,0,,,,Lose
+296,Arizona Wildcats,Pac-12,47005,20,1,0,0,0,69.08000000000001,51.08,54,Lose
+297,Syracuse Orange,ACC,45679,7,1,0,20,0,44.06,30.02,54,Lose
+298,Oklahoma State Cowboys,Big 12,48500,38,1,0,0,0,50.0,24.439999999999998,41,Win
+299,Georgia Bulldogs,SEC,86520,51,1,0,0,0,60.980000000000004,42.980000000000004,55,Win
+300,USC Trojans,Pac-12,91432,44,1,0,0,0,66.02,48.019999999999996,5,Win
+301,Hawai'i Rainbow Warriors,Mountain West,50000,16,1,0,0,0,80.06,64.03999999999999,,Lose
+302,Florida State Seminoles,ACC,83938,31,1,0,0,0,57.019999999999996,33.08,27,Win
+303,Colorado State Rams,Mountain West,28877,33,1,0,0,0,44.06,24.08,,Lose
+304,Pittsburgh Panthers,ACC,66731,17,1,0,0,0,,,,Lose
+305,Virginia Tech Hokies,ACC,65097,21,1,0,0,0,46.94,23.0,,Win
+306,Maryland Terrapins,Big Ten,39066,32,1,0,0,0,46.04,28.94,,Win
+307,Boston College Eagles,ACC,33786,44,1,0,0,0,,,,Win
+308,Tennessee Volunteers,SEC,105462,24,1,0,0,0,57.019999999999996,30.02,75,Win
+309,Georgia Southern Eagles,Sun Belt,7395,34,1,0,0,0,62.96,37.04,,Win
+310,Appalachian State Mountaineers,Sun Belt,4311,13,1,0,0,0,46.04,24.08,,Lose
+311,Cincinnati Bearcats,American,9606,31,1,0,0,0,53.96,30.92,,Win
+312,New Mexico Lobos,Mountain West,26115,49,1,0,0,0,55.94,30.92,25,Win
+313,Western Kentucky Hilltoppers,Conference USA,3300,59,1,0,0,0,51.08,26.060000000000002,55,Win
+314,Middle Tennessee Blue Raiders,Conference USA,3418,45,1,0,0,0,60.08,37.04,,Win
+315,Southern Mississippi Golden Eagles,Conference USA,19888,24,1,0,0,0,64.94,42.08,30,Win
+316,TCU Horned Frogs,Big 12,24583,27,1,0,0,0,62.06,39.92,,Win
+317,Houston Cougars,American,11048,27,1,0,0,0,,,,Win
+318,Marshall Thundering Herd,Conference USA,23824,38,1,0,0,0,51.08,30.02,,Win
+319,Toledo Rockets,Mid-American,25331,42,1,0,0,0,,,,Win
+320,East Carolina Pirates,American,18125,26,1,0,0,0,46.04,30.02,,Lose
+321,Arkansas Razorbacks,SEC,74835,3,1,0,0,0,,,,Lose
+322,UCLA Bruins,Pac-12,56335,27,1,0,0,0,64.03999999999999,53.06,,Lose
+323,Georgia Southern Eagles,Sun Belt,6708,31,1,0,0,0,53.96,28.04,,Win
+324,Western Kentucky Hilltoppers,Conference USA,0,31,0,0,0,0,,,,Win
+325,Marshall Thundering Herd,Conference USA,24582,49,1,0,0,51,26.060000000000002,19.04,,Win
+326,Hawai'i Rainbow Warriors,Mountain West,36671,41,1,0,0,0,73.94,66.92,,Win
+327,San Jose State Spartans,Mountain West,31681,29,1,0,0,0,80.96000000000001,59.0,32,Win
+328,UNLV Rebels,Mountain West,21791,28,1,0,0,0,,,,Win
+329,Alabama Crimson Tide,SEC,76780,40,1,0,0,0,87.98,73.03999999999999,20,Win
+330,Indiana Hoosiers,Big Ten,38109,10,0,0,0,0,,,,Lose
+331,Clemson Tigers,ACC,83000,0,1,0,0,0,91.03999999999999,71.06,,Lose
+332,West Virginia Mountaineers,Big 12,60663,17,1,0,0,0,78.08000000000001,66.92,,Lose
+333,Iowa Hawkeyes,Big Ten,54128,21,1,0,0,0,80.96000000000001,62.06,,Win
+334,Michigan Wolverines,Big Ten,110637,45,1,0,0,0,78.08000000000001,55.94,,Win
+335,Vanderbilt Commodores,SEC,29411,21,1,0,0,0,,,,Lose
+336,Boston College Eagles,ACC,42563,28,1,0,0,0,,,,Lose
+337,Navy Midshipmen,American,30129,37,1,0,0,0,87.98,69.98,,Win
+338,Air Force Falcons,Mountain West,40111,49,1,0,0,0,82.03999999999999,53.06,,Win
+339,Tennessee Volunteers,SEC,103860,24,1,0,0,0,87.08000000000001,71.96000000000001,34,Win
+340,Penn State Nittany Lions,Big Ten,101553,23,1,0,0,0,84.92,69.08000000000001,,Win
+341,Nebraska Cornhuskers,Big Ten,78058,17,1,0,0,0,,,,Win
+342,Michigan State Spartans,Big Ten,72923,26,1,0,0,0,,,,Win
+343,California Golden Bears,Pac-12,33552,34,1,0,0,0,75.02,53.06,,Win
+344,Wyoming Cowboys,Mountain West,17407,21,1,0,0,0,59.0,46.94,75,Win
+345,Marshall Thundering Herd,Conference USA,25141,45,1,0,0,0,84.92,69.98,,Win
+346,Auburn Tigers,SEC,86063,0,1,0,0,0,89.96000000000001,71.06,,Lose
+347,NC State Wolfpack,ACC,53800,59,1,0,0,0,89.96000000000001,73.03999999999999,,Win
+348,Liberty Flames,FBS Independents,10872,6,0,0,0,0,87.98,69.98,,Lose
+349,Virginia Cavaliers,ACC,61737,27,1,0,0,0,,,,Win
+350,Baylor Bears,Big 12,28732,19,1,0,0,0,96.98,77.0,45,Lose
+351,Rutgers Scarlet Knights,Big Ten,25011,24,1,0,0,0,,,,Win
+352,Fresno State Bulldogs,Mountain West,35553,16,1,0,0,0,98.96000000000001,66.92,,Win
+353,Alabama Crimson Tide,SEC,83818,13,1,0,0,0,86.0,69.08000000000001,27,Lose
+354,Ohio State Buckeyes,Big Ten,104433,16,1,0,0,0,73.94,50.0,,Win
+355,USC Trojans,Pac-12,75315,35,1,0,0,0,87.98,64.94,10,Win
+356,Michigan Wolverines,Big Ten,109580,50,1,0,0,0,78.08000000000001,50.0,,Win
+357,Kansas State Wildcats,Big 12,44544,55,1,0,0,0,82.94,51.980000000000004,,Win
+358,Georgia Bulldogs,SEC,92058,29,1,0,0,0,78.98,62.96,41,Win
+359,Virginia Tech Hokies,ACC,65115,43,1,0,0,0,75.02,53.06,,Win
+360,Pittsburgh Panthers,ACC,56531,43,1,0,0,0,,,,Win
+361,Florida State Seminoles,ACC,82885,35,1,0,0,0,87.08000000000001,71.96000000000001,27,Win
+362,Tennessee Volunteers,SEC,106520,34,1,0,0,0,82.94,60.980000000000004,25,Win
+363,Arizona Wildcats,Pac-12,46110,13,1,0,0,0,96.08,73.94,29,Lose
+364,South Carolina Gamecocks,SEC,80150,31,1,0,0,0,80.96000000000001,64.94,,Win
+365,Purdue Boilermakers,Big Ten,58225,26,1,0,0,0,78.08000000000001,48.92,4,Lose
+366,Georgia Tech Yellow Jackets,ACC,55000,17,1,0,0,0,,,,Win
+367,Wisconsin Badgers,Big Ten,75401,48,1,0,0,0,84.92,59.0,32,Win
+368,Arizona State Sun Devils,Pac-12,60069,34,1,0,0,0,100.03999999999999,80.06,,Win
+369,Washington Huskies,Pac-12,71125,38,1,0,0,0,78.08000000000001,57.019999999999996,26,Win
+370,Nebraska Cornhuskers,Big Ten,77284,31,1,0,0,0,,,,Win
+371,Colorado Buffaloes,Pac-12,48584,16,1,0,0,0,,,,Win
+372,TCU Horned Frogs,Big 12,35688,17,1,0,0,0,86.0,66.02,,Win
+373,Penn State Nittany Lions,Big Ten,106445,14,1,0,0,0,64.94,50.0,,Lose
+374,Memphis Tigers,American,51914,44,1,0,0,0,,,,Win
+375,Marshall Thundering Herd,Conference USA,31511,17,1,0,0,0,75.02,55.040000000000006,,Lose
+376,Oklahoma Sooners,Big 12,83091,52,1,0,0,0,,,,Win
+377,Ohio State Buckeyes,Big Ten,104890,44,1,0,0,0,80.96000000000001,53.06,,Win
+378,USC Trojans,Pac-12,73654,61,1,0,0,0,82.03999999999999,62.06,9,Win
+379,Michigan Wolverines,Big Ten,111726,38,1,0,0,0,80.06,55.040000000000006,,Win
+380,Texas Longhorns,Big 12,83271,28,1,0,0,0,,,,Lose
+381,Kansas State Wildcats,Big 12,46102,38,1,0,0,0,75.02,51.980000000000004,,Win
+382,Georgia Bulldogs,SEC,92058,31,1,0,0,0,86.0,57.019999999999996,12,Win
+383,Florida State Seminoles,ACC,82133,14,1,0,0,0,87.08000000000001,69.98,13,Win
+384,Pittsburgh Panthers,ACC,44117,42,1,0,0,0,,,,Win
+385,LSU Tigers,SEC,87164,35,1,0,0,0,89.06,71.06,13,Win
+386,Wisconsin Badgers,Big Ten,78043,5,1,0,0,0,69.98,60.08,45,Lose
+387,Arizona State Sun Devils,Pac-12,51180,26,1,0,0,0,102.92,73.94,,Win
+388,Colorado Buffaloes,Pac-12,48146,26,1,0,0,0,,,,Lose
+389,Nebraska Cornhuskers,Big Ten,78008,18,1,0,0,0,,,,Win
+390,Iowa State Cyclones,Big 12,53488,21,1,0,0,0,64.03999999999999,53.96,25,Lose
+391,Boston College Eagles,ACC,40000,24,0,0,0,0,,,,Win
+392,Northwestern Wildcats,Big Ten,24215,14,1,0,0,0,,,,Lose
+393,West Virginia Mountaineers,Big 12,51189,13,1,0,0,0,71.06,59.0,,Lose
+394,Michigan State Spartans,Big Ten,72387,19,1,0,0,0,80.96000000000001,57.92,,Lose
+395,Vanderbilt Commodores,SEC,37703,7,1,0,0,0,,,,Lose
+396,Central Michigan Chippewas,Mid-American,12128,42,1,0,0,0,80.96000000000001,57.019999999999996,,Win
+397,Syracuse Orange,ACC,38550,20,1,0,0,0,71.96000000000001,57.019999999999996,46,Lose
+398,UNLV Rebels,Mountain West,34287,33,1,0,0,0,,,,Win
+399,Oklahoma Sooners,Big 12,83317,59,1,0,0,0,,,,Win
+400,Boston College Eagles,ACC,44500,14,1,0,0,0,,,,Lose
+401,Oregon Ducks,Pac-12,59023,31,1,0,0,0,75.02,44.96,38,Win
+402,Ohio State Buckeyes,Big Ten,104358,24,1,0,0,0,71.06,,,Win
+403,Kansas State Wildcats,Big 12,46700,20,1,0,0,0,68.0,37.94,,Lose
+404,LSU Tigers,SEC,92251,17,1,0,0,0,87.08000000000001,66.02,17,Win
+405,Toledo Rockets,Mid-American,31711,35,1,0,0,0,,,,Win
+406,Florida State Seminoles,ACC,83294,47,1,0,0,0,89.96000000000001,60.08,32,Win
+407,Iowa Hawkeyes,Big Ten,70397,21,1,0,0,0,71.96000000000001,44.06,,Win
+408,Washington Huskies,Pac-12,71178,45,1,0,0,0,66.92,50.0,20,Win
+409,TCU Horned Frogs,Big 12,37192,30,1,0,0,0,82.94,57.019999999999996,,Win
+410,Alabama Crimson Tide,SEC,83018,16,1,0,0,0,91.03999999999999,64.03999999999999,14,Lose
+411,Missouri Tigers,SEC,55075,41,1,0,0,0,71.06,42.08,32,Win
+412,Washington State Cougars,Pac-12,32344,23,1,0,0,0,66.92,37.04,12,Win
+413,Purdue Boilermakers,Big Ten,52310,59,1,0,0,0,69.98,39.92,6,Win
+414,NC State Wolfpack,ACC,53800,49,1,0,0,0,82.94,60.08,,Win
+415,Syracuse Orange,ACC,35103,38,1,0,0,0,73.03999999999999,51.08,36,Win
+416,Wisconsin Badgers,Big Ten,77439,38,1,0,0,0,69.98,37.04,15,Win
+417,Illinois Fighting Illini,Big Ten,58363,24,1,0,0,0,73.94,42.980000000000004,,Lose
+418,Coastal Carolina Chanticleers,Sun Belt,1516,9,0,0,0,0,86.0,64.03999999999999,,Lose
+419,Penn State Nittany Lions,Big Ten,102078,32,1,0,0,0,66.02,60.08,,Win
+420,Liberty Flames,FBS Independents,6269,47,1,0,0,0,82.94,55.040000000000006,5,Win
+421,California Golden Bears,Pac-12,51208,34,1,0,0,0,71.06,53.06,,Win
+422,Ohio State Buckeyes,Big Ten,104680,20,1,0,0,0,69.08000000000001,55.94,,Win
+423,Virginia Tech Hokies,ACC,65115,47,1,0,0,0,78.08000000000001,53.96,,Win
+424,Duke Blue Devils,ACC,24370,7,1,0,0,0,78.08000000000001,53.96,,Lose
+425,Mississippi State Bulldogs,SEC,45835,6,1,0,0,0,87.98,53.96,,Lose
+426,Tennessee Volunteers,SEC,107881,23,1,0,0,0,80.06,57.019999999999996,25,Win
+427,Alabama Crimson Tide,SEC,82818,31,1,0,0,0,87.08000000000001,66.02,21,Lose
+428,Oregon Ducks,Pac-12,57473,16,1,0,0,0,96.98,51.08,34,Lose
+429,Michigan Wolverines,Big Ten,110788,31,1,0,0,0,64.94,51.980000000000004,,Win
+430,Michigan State Spartans,Big Ten,72276,20,1,0,0,0,68.0,42.08,,Win
+431,Texas Longhorns,Big 12,83120,63,1,0,0,0,,,,Win
+432,Texas A&M Aggies,SEC,79116,26,1,0,0,0,,,,Lose
+433,Washington Huskies,Pac-12,71875,28,1,0,0,0,78.98,59.0,28,Win
+434,Arizona Wildcats,Pac-12,40515,10,1,0,0,0,98.96000000000001,66.92,28,Lose
+435,Northern Illinois Huskies,Mid-American,28218,24,1,0,0,0,60.980000000000004,44.06,,Win
+436,Purdue Boilermakers,Big Ten,64614,23,1,0,0,0,66.92,46.04,38,Win
+437,Kansas Jayhawks,Big 12,50071,35,1,0,0,0,73.94,39.92,46,Win
+438,Penn State Nittany Lions,Big Ten,106735,14,1,0,0,0,68.0,46.94,,Lose
+439,Kentucky Wildcats,SEC,70579,21,1,0,0,0,71.96000000000001,53.06,38,Lose
+440,Army Black Knights,FBS Independents,30509,0,1,0,0,0,66.92,57.019999999999996,,Lose
+441,Boston College Eagles,ACC,42353,53,1,0,0,0,,,,Win
+442,NC State Wolfpack,ACC,53800,47,1,0,0,0,78.98,62.06,,Win
+443,Miami (OH) RedHawks,Mid-American,27512,42,1,0,0,0,,,,Win
+444,Memphis Tigers,American,38093,38,1,0,0,0,,,,Win
+445,Utah Utes,Pac-12,44676,17,1,0,0,0,,,,Win
+446,Iowa State Cyclones,Big 12,49670,7,1,0,0,0,78.08000000000001,35.06,31,Lose
+447,Rutgers Scarlet Knights,Big Ten,28956,22,1,0,0,0,,,,Lose
+448,Auburn Tigers,SEC,86063,28,1,0,0,0,78.98,51.08,,Win
+449,Iowa Hawkeyes,Big Ten,70397,30,1,0,0,0,71.96000000000001,37.94,,Win
+450,Arizona State Sun Devils,Pac-12,56527,17,1,0,0,0,93.02,64.03999999999999,,Lose
+451,Georgia Bulldogs,SEC,92058,37,1,0,0,0,78.08000000000001,46.04,17,Win
+452,Nebraska Cornhuskers,Big Ten,77825,30,1,0,0,0,,,,Win
+453,Texas Longhorns,Big 12,83643,24,1,0,0,0,,,,Win
+454,Washington State Cougars,Pac-12,34923,30,1,0,0,0,84.02,44.96,18,Win
+455,Northern Illinois Huskies,Mid-American,21736,30,1,0,0,0,,,,Win
+456,UCLA Bruins,Pac-12,68319,46,1,0,0,0,75.92,57.019999999999996,,Win
+457,TCU Horned Frogs,Big 12,39282,27,1,0,0,0,84.02,57.019999999999996,,Win
+458,Northwestern Wildcats,Big Ten,23539,17,1,0,0,0,,,,Lose
+459,Purdue Boilermakers,Big Ten,64139,43,1,0,0,0,60.980000000000004,39.92,32,Win
+460,Michigan State Spartans,Big Ten,72398,31,1,0,0,0,51.980000000000004,35.96,,Win
+461,Georgia Tech Yellow Jackets,ACC,50113,29,1,0,0,0,,,,Win
+462,Penn State Nittany Lions,Big Ten,107851,23,1,0,0,0,55.040000000000006,33.98,,Lose
+463,Baylor Bears,Big 12,23147,42,1,0,0,0,84.92,53.06,32,Win
+464,Georgia Southern Eagles,Sun Belt,10409,37,1,0,0,0,80.96000000000001,55.040000000000006,,Win
+465,North Carolina Tar Heels,ACC,51000,13,1,0,0,0,64.03999999999999,35.96,,Lose
+466,Kent State Golden Flashes,Mid-American,10261,17,1,0,0,0,51.980000000000004,33.08,,Lose
+467,South Florida Bulls,American,33368,10,1,0,0,0,82.03999999999999,73.94,,Lose
+468,Florida State Seminoles,ACC,84336,14,1,0,0,0,71.96000000000001,68.0,42,Lose
+469,Wisconsin Badgers,Big Ten,79793,17,1,0,0,0,66.02,42.08,26,Win
+470,Virginia Tech Hokies,ACC,65115,51,1,0,0,0,71.06,55.040000000000006,,Win
+471,LSU Tigers,SEC,92077,7,1,0,0,0,78.08000000000001,69.98,29,Lose
+472,Arkansas Razorbacks,SEC,74026,3,1,0,0,0,75.92,53.96,19,Lose
+473,Tennessee Volunteers,SEC,107517,14,1,0,0,0,75.92,59.0,17,Lose
+474,USC Trojans,Pac-12,68341,44,1,0,0,0,82.03999999999999,60.08,5,Win
+475,Missouri Tigers,SEC,68349,41,1,0,0,0,73.03999999999999,51.980000000000004,43,Win
+476,Pittsburgh Panthers,ACC,66421,14,1,0,0,0,,,,Lose
+477,Central Michigan Chippewas,Mid-American,23268,24,1,0,0,0,77.0,48.019999999999996,,Lose
+478,Purdue Boilermakers,Big Ten,59720,28,1,0,0,0,78.08000000000001,55.94,23,Win
+479,Illinois Fighting Illini,Big Ten,47509,14,1,0,0,0,78.98,55.94,,Lose
+480,Oklahoma State Cowboys,Big 12,46087,38,1,0,0,0,76.28,53.78,36,Win
+481,Clemson Tigers,ACC,77000,30,1,0,0,0,71.96000000000001,60.08,,Win
+482,West Virginia Mountaineers,Big 12,50896,34,1,0,0,0,75.92,51.980000000000004,,Win
+483,Indiana Hoosiers,Big Ten,27213,31,1,0,0,0,75.02,50.0,14,Lose
+484,NC State Wolfpack,ACC,50119,31,1,0,0,0,68.0,62.06,,Win
+485,Georgia Southern Eagles,Sun Belt,15708,31,1,0,0,0,73.03999999999999,64.94,,Win
+486,UMass Minutemen,FBS Independents,4868,24,0,0,0,0,66.02,62.06,,Win
+487,Texas A&M Aggies,SEC,73030,73,1,0,0,0,,,,Win
+488,Vanderbilt Commodores,SEC,25417,27,1,0,0,0,,,,Lose
+489,Miami (OH) RedHawks,Mid-American,23683,59,1,0,0,0,,,,Win
+490,Ohio Bobcats,Mid-American,21109,28,1,0,0,0,73.94,53.06,,Win
+491,Ole Miss Rebels,SEC,51286,55,1,0,0,0,75.92,64.03999999999999,,Win
+492,Louisville Cardinals,ACC,38119,47,1,0,0,0,66.02,42.980000000000004,15,Win
+493,Oklahoma Sooners,Big 12,83327,34,1,0,0,0,,,,Win
+494,Vanderbilt Commodores,SEC,27823,8,1,0,0,0,,,,Lose
+495,Stanford Cardinal,Pac-12,48526,14,1,0,0,0,80.96000000000001,44.06,,Lose
+496,Virginia Cavaliers,ACC,62875,14,1,0,0,0,,,,Lose
+497,Ohio State Buckeyes,Big Ten,105044,19,1,0,0,0,60.08,32.0,,Win
+498,South Carolina Gamecocks,SEC,82525,7,1,0,0,0,77.0,53.96,,Lose
+499,Arkansas Razorbacks,SEC,73934,28,1,0,0,0,73.03999999999999,39.019999999999996,16,Lose
+500,Northern Illinois Huskies,Mid-American,28221,37,1,0,0,0,,,,Win
+501,Wisconsin Badgers,Big Ten,79541,23,1,0,0,0,69.98,46.94,27,Lose
+502,TCU Horned Frogs,Big 12,28927,27,1,0,0,0,80.06,48.92,,Win
+503,Michigan Wolverines,Big Ten,110231,56,1,0,0,0,60.980000000000004,42.980000000000004,,Win
+504,Nebraska Cornhuskers,Big Ten,77604,48,1,0,0,0,,,,Win
+505,Auburn Tigers,SEC,86063,45,1,0,0,0,71.96000000000001,53.96,,Win
+506,Iowa State Cyclones,Big 12,45355,19,1,0,0,0,82.94,39.019999999999996,19,Lose
+507,Oregon State Beavers,Pac-12,37034,17,1,0,0,0,71.06,50.0,,Lose
+508,Oklahoma State Cowboys,Big 12,48500,51,1,0,0,0,79.88,44.42,31,Win
+509,Duke Blue Devils,ACC,17314,13,1,0,0,0,69.98,39.92,,Lose
+510,Syracuse Orange,ACC,45313,39,1,0,0,0,51.980000000000004,35.06,21,Win
+511,Ole Miss Rebels,SEC,60825,43,1,0,0,0,64.03999999999999,48.019999999999996,,Win
+512,Army Black Knights,FBS Independents,35032,32,1,0,0,0,55.040000000000006,42.08,,Lose
+513,Buffalo Bulls,Mid-American,10118,16,1,0,0,0,51.980000000000004,35.06,30,Lose
+514,Colorado Buffaloes,Pac-12,54215,20,1,0,0,0,,,,Lose
+515,Georgia Bulldogs,SEC,92058,16,1,0,0,0,73.94,48.92,35,Win
+516,Washington Huskies,Pac-12,72015,23,1,0,0,0,59.0,44.06,15,Lose
+517,Florida State Seminoles,ACC,82393,48,1,0,0,0,84.02,53.96,20,Win
+518,Washington State Cougars,Pac-12,35117,36,1,0,0,0,57.019999999999996,26.060000000000002,14,Win
+519,Indiana Hoosiers,Big Ten,51240,6,1,0,0,0,64.94,46.94,32,Lose
+520,LSU Tigers,SEC,92085,31,1,0,0,0,82.94,66.02,30,Win
+521,Michigan Wolverines,Big Ten,111349,31,1,0,0,0,53.06,42.980000000000004,,Win
+522,Bowling Green Falcons,Mid-American,31007,34,1,0,0,0,57.019999999999996,35.96,,Win
+523,Nebraska Cornhuskers,Big Ten,77483,28,1,0,0,0,,,,Win
+524,Houston Cougars,American,21136,55,1,0,0,0,,,,Lose
+525,Iowa Hawkeyes,Big Ten,70397,26,1,0,0,0,60.08,37.94,,Win
+526,Texas A&M Aggies,SEC,79153,10,1,0,0,0,,,,Lose
+527,Baylor Bears,Big 12,42118,0,1,0,0,0,80.06,57.019999999999996,50,Lose
+528,Northwestern Wildcats,Big Ten,36233,16,1,0,0,0,,,,Win
+529,Ole Miss Rebels,SEC,58717,19,1,0,0,0,87.98,55.94,,Win
+530,Alabama Crimson Tide,SEC,83018,43,1,0,0,0,78.98,60.980000000000004,24,Lose
+531,Utah Utes,Pac-12,37288,35,1,0,0,0,,,,Lose
+532,Florida Intl Golden Panthers,Conference USA,4506,34,1,0,0,0,84.02,77.0,72,Win
+533,Illinois Fighting Illini,Big Ten,46407,10,1,0,0,0,57.019999999999996,46.94,,Lose
+534,Akron Zips,Mid-American,36074,37,0,0,0,0,,,,Lose
+535,Boston College Eagles,ACC,44500,27,1,0,0,0,,,,Win
+536,Pittsburgh Panthers,ACC,61421,34,1,0,0,0,,,,Win
+537,Clemson Tigers,ACC,75000,36,1,0,0,0,69.08000000000001,42.08,,Win
+538,Appalachian State Mountaineers,Sun Belt,10129,14,0,0,0,0,69.08000000000001,39.019999999999996,,Lose
+539,South Florida Bulls,American,28616,24,1,0,0,0,87.98,60.980000000000004,,Win
+540,Oklahoma Sooners,Big 12,84027,52,1,0,0,0,,,,Win
+541,Virginia Tech Hokies,ACC,65115,31,1,0,0,0,75.92,39.92,,Win
+542,USC Trojans,Pac-12,82478,43,1,0,0,0,66.02,48.019999999999996,8,Win
+543,LSU Tigers,SEC,91879,49,1,0,0,0,84.02,59.0,16,Win
+544,Penn State Nittany Lions,Big Ten,108276,20,1,0,0,0,75.02,42.980000000000004,,Lose
+545,Michigan State Spartans,Big Ten,75129,20,1,0,0,0,71.06,41.0,,Lose
+546,Texas Longhorns,Big 12,83308,31,1,0,0,0,,,,Win
+547,Iowa Hawkeyes,Big Ten,70397,41,1,0,0,0,48.92,33.08,,Win
+548,Purdue Boilermakers,Big Ten,51110,34,1,0,0,0,57.019999999999996,44.96,13,Win
+549,Tennessee Volunteers,SEC,104772,23,1,0,0,0,77.0,48.019999999999996,12,Win
+550,Ole Miss Rebels,SEC,56878,43,1,0,0,0,82.03999999999999,55.040000000000006,,Win
+551,Northern Illinois Huskies,Mid-American,24121,48,1,0,0,0,62.06,42.08,,Win
+552,Boston College Eagles,ACC,41983,13,1,0,0,0,,,,Lose
+553,Western Michigan Broncos,Mid-American,32851,27,0,0,0,0,,,,Lose
+554,Maryland Terrapins,Big Ten,51195,59,1,0,0,0,71.06,46.94,,Win
+555,Air Force Falcons,Mountain West,30004,43,1,0,0,0,33.98,28.94,,Lose
+556,Coastal Carolina Chanticleers,Sun Belt,6849,10,1,0,0,0,62.96,51.08,,Lose
+557,West Virginia Mountaineers,Big 12,42712,36,1,0,0,0,64.03999999999999,51.08,,Win
+558,Central Michigan Chippewas,Mid-American,8391,38,1,0,0,0,68.0,48.019999999999996,,Win
+559,New Mexico Lobos,Mountain West,37133,37,1,0,0,0,62.96,44.96,24,Win
+560,Oklahoma Sooners,Big 12,83461,77,1,0,0,0,,,,Win
+561,Clemson Tigers,ACC,81000,26,1,0,0,0,62.06,46.94,,Win
+562,Pittsburgh Panthers,ACC,66207,31,1,0,0,0,,,,Win
+563,Ohio State Buckeyes,Big Ten,105194,33,1,0,0,0,44.06,26.060000000000002,,Win
+564,Purdue Boilermakers,Big Ten,60058,27,1,0,0,0,39.92,26.96,36,Win
+565,Oklahoma State Cowboys,Big 12,47660,16,1,0,0,0,51.620000000000005,43.16,29,Lose
+566,Washington State Cougars,Pac-12,33846,31,1,0,0,0,48.019999999999996,33.98,36,Win
+567,Kansas Jayhawks,Big 12,50107,3,1,0,0,0,42.08,35.06,44,Lose
+568,Auburn Tigers,SEC,86063,20,1,0,0,0,69.08000000000001,51.980000000000004,,Lose
+569,Colorado Buffaloes,Pac-12,47722,21,1,0,0,0,,,,Win
+570,Buffalo Bulls,Mid-American,5127,9,1,0,0,0,33.98,23.0,29,Lose
+571,Northwestern Wildcats,Big Ten,26188,17,1,0,0,0,,,,Win
+572,Boston College Eagles,ACC,39723,28,1,0,0,0,,,,Lose
+573,Rutgers Scarlet Knights,Big Ten,40000,31,0,0,0,0,,,,Lose
+574,North Carolina Tar Heels,ACC,35000,42,1,0,0,0,73.03999999999999,50.0,,Win
+575,Eastern Michigan Eagles,Mid-American,5150,19,1,0,0,0,,,,Win
+576,Indiana Hoosiers,Big Ten,24102,17,1,0,0,0,41.0,23.0,28,Win
+577,Mississippi State Bulldogs,SEC,48242,0,1,0,0,0,60.980000000000004,46.94,,Lose
+578,Georgia Southern Eagles,Sun Belt,14562,29,1,0,0,0,69.08000000000001,48.019999999999996,,Win
+579,Central Michigan Chippewas,Mid-American,9222,28,1,0,0,0,39.019999999999996,21.02,,Lose
+580,Duke Blue Devils,ACC,12976,41,1,0,0,0,78.08000000000001,48.92,,Win
+581,Oklahoma Sooners,Big 12,82117,41,1,0,0,0,,,,Win
+582,Arizona Wildcats,Pac-12,39201,0,1,0,0,0,64.94,46.94,31,Lose
+583,Alabama Crimson Tide,SEC,83818,3,1,0,0,0,68.0,48.019999999999996,6,Lose
+584,Ohio State Buckeyes,Big Ten,105286,16,1,0,0,0,42.980000000000004,37.04,,Win
+585,Northwestern Wildcats,Big Ten,40681,10,1,0,0,0,,,,Lose
+586,Texas Longhorns,Big 12,83596,43,1,0,0,0,,,,Win
+587,Georgia Bulldogs,SEC,92058,26,1,0,0,0,68.0,37.04,14,Win
+588,Washington State Cougars,Pac-12,30423,34,1,0,0,0,46.94,37.04,38,Win
+589,Tennessee Volunteers,SEC,104223,59,1,0,0,0,46.94,42.08,24,Win
+590,TCU Horned Frogs,Big 12,42161,43,1,0,0,0,78.08000000000001,57.92,,Win
+591,Temple Owls,American,27425,23,1,0,0,0,55.94,44.96,,Lose
+592,Florida State Seminoles,ACC,83854,50,1,0,0,0,75.92,39.019999999999996,14,Win
+593,South Carolina Gamecocks,SEC,81523,22,1,0,0,0,71.06,39.019999999999996,,Lose
+594,West Virginia Mountaineers,Big 12,67715,52,1,0,0,0,55.040000000000006,42.08,,Win
+595,Nebraska Cornhuskers,Big Ten,78014,9,1,0,0,0,,,,Lose
+596,Iowa Hawkeyes,Big Ten,70397,40,1,0,0,0,46.94,42.08,,Win
+597,Wisconsin Badgers,Big Ten,79256,56,1,0,0,0,42.08,39.019999999999996,30,Win
+598,Toledo Rockets,Mid-American,20929,49,1,0,0,0,,,,Win
+599,Boise State Broncos,Mountain West,24513,51,1,0,0,0,48.92,37.94,36,Win
+600,Bowling Green Falcons,Mid-American,12035,42,1,0,0,0,46.04,28.94,,Win
+601,Georgia Tech Yellow Jackets,ACC,52346,41,1,0,0,0,,,,Win
+602,Penn State Nittany Lions,Big Ten,106465,52,1,0,0,0,42.980000000000004,30.02,,Win
+603,UMass Minutemen,FBS Independents,21804,45,0,0,0,0,55.040000000000006,33.98,,Lose
+604,Fresno State Bulldogs,Mountain West,39252,17,1,0,0,0,55.94,28.94,,Lose
+605,Texas Tech Red Raiders,Big 12,53135,25,1,0,0,0,75.92,51.08,88,Lose
+606,USC Trojans,Pac-12,93172,47,1,0,0,0,64.94,46.94,26,Win
+607,Ole Miss Rebels,SEC,62552,14,1,0,0,0,73.03999999999999,51.980000000000004,,Lose
+608,Michigan Wolverines,Big Ten,112118,35,1,0,0,0,53.96,37.04,,Win
+609,Georgia Bulldogs,SEC,92058,30,1,0,0,0,73.03999999999999,39.019999999999996,11,Win
+610,Washington Huskies,Pac-12,74549,27,1,0,0,0,41.0,28.94,26,Win
+611,Tennessee Volunteers,SEC,100496,48,1,0,0,0,68.0,37.04,13,Win
+612,Virginia Tech Hokies,ACC,65115,27,1,0,0,0,68.0,28.94,,Lose
+613,Indiana Hoosiers,Big Ten,41404,16,1,0,0,0,69.08000000000001,51.980000000000004,41,Lose
+614,Wisconsin Badgers,Big Ten,79931,21,1,0,0,0,39.92,35.96,54,Lose
+615,Ohio Bobcats,Mid-American,14327,31,1,0,0,0,68.0,39.019999999999996,,Lose
+616,Kansas State Wildcats,Big 12,49685,24,1,0,0,0,33.26,19.04,,Win
+617,Temple Owls,American,22934,16,1,0,0,0,66.02,50.0,,Lose
+618,Ball State Cardinals,Mid-American,8325,14,1,0,0,0,,,,Lose
+619,Baylor Bears,Big 12,23763,21,1,0,0,0,80.06,59.0,86,Lose
+620,Syracuse Orange,ACC,41801,23,1,0,0,0,48.92,30.02,23,Lose
+621,Michigan State Spartans,Big Ten,72119,41,1,0,0,0,51.980000000000004,35.06,,Win
+622,Virginia Cavaliers,ACC,58526,29,1,0,0,0,,,,Win
+623,Illinois Fighting Illini,Big Ten,38688,20,1,0,0,0,66.92,44.06,,Lose
+624,Troy Trojans,Sun Belt,19057,28,1,0,0,0,73.94,37.94,6,Win
+625,North Carolina Tar Heels,ACC,48000,22,1,0,0,0,77.0,39.019999999999996,,Lose
+626,Navy Midshipmen,American,29527,63,1,0,0,0,66.02,39.92,,Win
+627,LSU Tigers,SEC,92213,55,1,0,0,0,57.92,35.96,45,Win
+628,Texas A&M Aggies,SEC,84094,15,1,0,0,0,,,,Lose
+629,Colorado Buffaloes,Pac-12,53444,22,1,0,0,0,,,,Lose
+630,Cincinnati Bearcats,American,11993,40,1,0,0,0,46.94,37.04,,Lose
+631,Marshall Thundering Herd,Conference USA,19113,28,1,0,0,0,60.08,44.06,,Win
+632,Arizona State Sun Devils,Pac-12,55498,28,1,0,0,0,71.06,48.019999999999996,,Win
+633,Georgia Tech Yellow Jackets,ACC,55000,17,1,0,0,0,,,,Lose
+634,Kentucky Wildcats,SEC,65733,7,1,0,0,0,35.96,28.04,59,Lose
+635,Pittsburgh Panthers,ACC,60486,14,1,0,0,0,,,,Lose
+636,Boise State Broncos,Mountain West,27440,56,1,0,0,0,48.019999999999996,37.94,27,Win
+637,SMU Mustangs,American,20112,13,1,0,0,0,,,,Lose
+638,Virginia Cavaliers,ACC,60943,35,1,0,0,0,,,,Win
+639,Bowling Green Falcons,Mid-American,29724,31,1,0,0,0,37.94,30.02,,Win
+640,West Virginia Mountaineers,Big 12,35942,45,1,0,0,0,37.94,28.04,,Win
+641,Rutgers Scarlet Knights,Big Ten,18563,24,1,0,0,0,,,,Win
+642,UMass Minutemen,FBS Independents,4197,7,0,0,0,0,,,,Lose
+643,Missouri Tigers,SEC,46435,45,1,0,0,0,55.040000000000006,17.06,59,Win
+644,Florida Atlantic Owls,Conference USA,8468,32,0,0,0,0,59.0,42.08,47,Win
+645,Memphis Tigers,American,47875,16,1,0,0,0,,,,Lose
+646,East Carolina Pirates,American,24175,21,1,0,0,0,48.92,35.06,,Lose
+647,Wyoming Cowboys,Mountain West,8419,24,1,0,0,203,44.06,26.060000000000002,108,Lose
+648,Louisiana Tech Bulldogs,Conference USA,8752,14,1,0,0,0,55.040000000000006,26.060000000000002,,Lose
+649,Western Kentucky Hilltoppers,Conference USA,3573,45,1,0,0,0,42.08,30.02,46,Win
+650,Houston Cougars,American,15120,56,1,0,0,0,,,,Win
+651,UTEP Miners,Conference USA,15101,20,1,0,0,0,57.92,28.94,26,Lose
+652,Hawai'i Rainbow Warriors,Mountain West,43477,37,1,0,0,0,75.92,69.98,,Win
+653,Stanford Cardinal,Pac-12,46500,7,1,0,0,0,55.94,44.06,,Lose
+654,USC Trojans,Pac-12,73864,52,1,0,0,0,66.92,51.08,4,Win
+655,Georgia Bulldogs,SEC,74913,13,1,0,0,0,,,,Lose
+656,Hawai'i Rainbow Warriors,Mountain West,39685,28,1,0,0,0,80.06,69.98,,Lose
+657,Syracuse Orange,ACC,48170,38,1,0,76,51,24.08,14.0,32,Win
+658,Navy Midshipmen,American,70844,34,1,0,13,152,32.0,28.04,,Win
+659,Western Kentucky Hilltoppers,Conference USA,7500,17,0,0,0,0,,,,Lose
+660,Florida Atlantic Owls,Conference USA,9314,48,0,0,0,0,48.92,35.96,,Win
+661,Miami (OH) RedHawks,Mid-American,0,49,1,0,0,0,,,,Win
+662,New Mexico Lobos,Mountain West,0,17,1,0,0,0,73.03999999999999,60.08,24,Lose
+663,Oklahoma Sooners,Big 12,0,40,1,0,0,0,,,,Win
+664,Georgia Bulldogs,SEC,92746,48,1,0,0,0,84.92,66.02,39,Win
+665,LSU Tigers,SEC,0,22,1,0,0,0,91.94,71.96000000000001,22,Win
+666,Texas Longhorns,Big 12,0,65,1,0,0,0,,,,Win
+667,Michigan Wolverines,Big Ten,0,43,1,0,0,0,80.96000000000001,64.94,,Win
+668,Ohio State Buckeyes,Big Ten,0,27,1,0,0,0,84.02,64.03999999999999,,Win
+669,West Virginia Mountaineers,Big 12,0,56,1,0,0,0,84.02,64.94,9,Win
+670,Kansas State Wildcats,Big 12,46740,27,1,0,0,0,88.16,67.1,,Win
+671,Air Force Falcons,Mountain West,0,14,1,0,0,0,89.06,55.040000000000006,,Lose
+672,Clemson Tigers,ACC,0,37,1,0,0,0,80.96000000000001,64.94,,Win
+673,Temple Owls,American,0,14,1,0,0,0,87.98,68.0,,Lose
+674,Auburn Tigers,SEC,0,31,1,0,0,0,82.03999999999999,66.92,,Win
+675,Missouri Tigers,SEC,0,52,1,0,0,0,86.0,64.94,32,Win
+676,Iowa Hawkeyes,Big Ten,0,39,1,0,0,0,87.08000000000001,59.0,,Win
+677,Wisconsin Badgers,Big Ten,0,34,1,0,0,0,82.94,59.0,18,Win
+678,Maryland Terrapins,Big Ten,0,23,1,0,0,0,82.94,66.02,,Win
+679,Vanderbilt Commodores,SEC,0,6,1,0,0,0,,,,Lose
+680,Georgia Tech Yellow Jackets,ACC,43100,28,1,0,0,0,,,,Win
+681,UMass Minutemen,FBS Independents,1750,51,0,0,0,0,80.96000000000001,66.02,,Win
+682,North Carolina Tar Heels,ACC,43500,49,1,0,0,0,80.96000000000001,62.96,,Win
+683,Iowa State Cyclones,Big 12,42865,23,1,0,0,0,84.02,57.019999999999996,27,Win
+684,Rutgers Scarlet Knights,Big Ten,0,19,1,0,0,0,,,,Win
+685,Boise State Broncos,Mountain West,0,53,1,0,0,0,87.98,60.980000000000004,29,Win
+686,USC Trojans,Pac-12,0,49,1,0,0,0,84.92,66.92,9,Win
+687,Oklahoma Sooners,Big 12,0,63,1,0,0,0,,,,Win
+688,South Carolina Gamecocks,SEC,0,16,1,0,0,0,84.02,68.0,17,Lose
+689,LSU Tigers,SEC,0,53,1,0,0,0,91.03999999999999,73.03999999999999,25,Win
+690,Arkansas Razorbacks,SEC,0,20,1,0,0,0,86.0,51.980000000000004,10,Lose
+691,Ohio State Buckeyes,Big Ten,0,24,1,0,0,0,78.08000000000001,51.08,,Win
+692,Florida Gators,SEC,0,49,1,0,0,0,87.08000000000001,75.02,26,Win
+693,California Golden Bears,Pac-12,0,41,1,0,0,0,75.92,57.019999999999996,,Win
+694,Kansas State Wildcats,Big 12,0,21,1,0,0,0,85.28,64.94,,Lose
+695,Virginia Cavaliers,ACC,0,56,1,0,0,0,,,,Win
+696,Iowa Hawkeyes,Big Ten,0,17,1,0,0,0,87.08000000000001,55.040000000000006,,Win
+697,Arizona Wildcats,Pac-12,0,6,1,0,0,0,102.02,71.06,28,Lose
+698,Mississippi State Bulldogs,SEC,0,14,1,0,0,0,87.98,62.96,,Lose
+699,Clemson Tigers,ACC,0,24,1,0,0,0,82.94,62.06,,Lose
+700,Wisconsin Badgers,Big Ten,0,18,1,0,0,0,84.02,62.96,28,Win
+701,Maryland Terrapins,Big Ten,0,45,1,0,0,0,82.03999999999999,60.980000000000004,,Win
+702,Oregon Ducks,Pac-12,0,24,1,0,0,0,71.06,57.92,23,Lose
+703,Purdue Boilermakers,Big Ten,0,59,1,0,0,0,82.94,53.96,8,Win
+704,Northwestern Wildcats,Big Ten,0,21,1,0,0,0,,,,Lose
+705,Michigan State Spartans,Big Ten,0,24,1,0,0,0,78.98,48.019999999999996,,Win
+706,Nebraska Cornhuskers,Big Ten,0,17,1,0,0,0,,,,Lose
+707,Boston College Eagles,ACC,0,27,1,0,0,0,,,,Win
+708,BYU Cougars,FBS Independents,0,10,1,0,0,0,78.08000000000001,60.980000000000004,,Lose
+709,Oklahoma Sooners,Big 12,0,31,1,0,0,0,,,,Win
+710,Georgia Bulldogs,SEC,0,13,1,0,0,0,84.02,60.08,32,Win
+711,Auburn Tigers,SEC,0,10,1,0,0,0,84.02,62.96,,Win
+712,West Virginia Mountaineers,Big 12,0,19,1,0,0,0,71.06,53.06,51,Win
+713,Florida State Seminoles,ACC,0,34,1,0,0,0,89.06,64.94,22,Win
+714,NC State Wolfpack,ACC,0,14,1,0,0,0,78.08000000000001,71.06,,Lose
+715,Tennessee Volunteers,SEC,0,30,1,0,0,0,78.08000000000001,51.08,39,Win
+716,Virginia Cavaliers,ACC,0,51,1,0,0,0,,,,Win
+717,Utah State Aggies,Mountain West,0,6,1,0,0,0,63.86,45.32,,Lose
+718,Arizona State Sun Devils,Pac-12,0,44,1,0,0,0,98.06,69.98,,Win
+719,Michigan Wolverines,Big Ten,0,24,1,0,0,0,73.03999999999999,46.04,,Win
+720,Fresno State Bulldogs,Mountain West,42662,27,1,0,0,0,68.0,46.94,,Win
+721,Arizona Wildcats,Pac-12,0,7,1,0,0,0,91.94,69.98,26,Lose
+722,Colorado State Rams,Mountain West,0,16,1,0,0,0,,,,Lose
+723,UTEP Miners,Conference USA,0,31,1,0,0,0,80.06,66.02,39,Lose
+724,Syracuse Orange,ACC,0,19,1,0,0,0,62.96,46.94,38,Win
+725,Penn State Nittany Lions,Big Ten,0,37,1,0,0,0,68.0,55.040000000000006,,Win
+726,Pittsburgh Panthers,ACC,0,17,1,0,0,0,,,,Lose
+727,Virginia Tech Hokies,ACC,0,41,1,0,0,0,73.03999999999999,55.94,,Win
+728,Texas Tech Red Raiders,Big 12,0,70,1,0,0,0,87.98,64.03999999999999,57,Win
+729,Iowa State Cyclones,Big 12,0,48,1,0,0,0,80.06,55.94,41,Win
+730,Ole Miss Rebels,SEC,0,26,1,0,0,0,87.08000000000001,53.96,,Win
+731,Boise State Broncos,Mountain West,0,28,1,0,0,0,86.0,53.96,23,Win
+732,Stanford Cardinal,Pac-12,0,28,1,0,0,0,84.92,50.0,,Lose
+733,Texas Longhorns,Big 12,0,35,1,0,0,0,,,,Win
+734,West Virginia Mountaineers,Big 12,56609,45,1,0,0,0,78.98,57.92,15,Win
+735,Florida State Seminoles,ACC,0,41,1,0,0,0,84.92,66.92,39,Win
+736,Auburn Tigers,SEC,76302,33,1,0,0,0,82.03999999999999,64.94,,Win
+737,Tennessee Volunteers,SEC,0,42,1,0,0,0,82.03999999999999,60.08,18,Win
+738,Virginia Cavaliers,ACC,0,31,1,0,0,0,,,,Win
+739,LSU Tigers,SEC,0,51,1,0,0,0,89.96000000000001,71.06,21,Win
+740,Utah Utes,Pac-12,0,49,1,0,0,0,,,,Win
+741,Illinois Fighting Illini,Big Ten,0,30,1,0,0,0,78.98,57.019999999999996,,Lose
+742,Florida Gators,SEC,0,20,1,0,0,0,86.0,71.96000000000001,55,Win
+743,Michigan Wolverines,Big Ten,0,30,1,0,0,0,77.0,57.019999999999996,,Win
+744,Wisconsin Badgers,Big Ten,0,16,1,0,0,0,71.06,46.94,17,Win
+745,Arizona State Sun Devils,Pac-12,0,27,1,0,0,0,96.08,64.94,,Win
+746,Duke Blue Devils,ACC,0,21,1,0,0,0,77.0,53.06,,Lose
+747,North Carolina Tar Heels,ACC,0,0,1,0,0,0,80.96000000000001,55.040000000000006,,Lose
+748,Indiana Hoosiers,Big Ten,0,20,1,0,0,0,80.96000000000001,55.94,21,Lose
+749,Wake Forest Demon Deacons,ACC,0,17,1,0,0,0,78.08000000000001,57.019999999999996,11,Win
+750,Virginia Tech Hokies,ACC,0,16,1,0,0,0,77.0,51.08,,Lose
+751,Pittsburgh Panthers,ACC,0,41,1,0,0,0,,,,Win
+752,Navy Midshipmen,American,0,29,1,0,0,0,78.08000000000001,62.06,,Win
+753,Colorado State Rams,Mountain West,28207,39,1,0,0,0,,,,Win
+754,New Mexico Lobos,Mountain West,0,7,1,0,0,0,73.03999999999999,50.0,28,Lose
+755,Oklahoma Sooners,Big 12,0,28,1,0,0,0,,,,Win
+756,Georgia Bulldogs,SEC,0,45,1,0,0,0,82.94,62.06,10,Win
+757,Georgia Tech Yellow Jackets,ACC,0,3,1,0,0,0,,,,Lose
+758,Texas Longhorns,Big 12,0,44,1,0,0,0,,,,Win
+759,Virginia Tech Hokies,ACC,0,19,1,0,0,0,71.06,53.96,,Win
+760,Northwestern Wildcats,Big Ten,0,33,1,0,0,0,,,,Win
+761,Tennessee Volunteers,SEC,0,10,1,0,0,0,75.92,60.08,13,Lose
+762,Florida State Seminoles,ACC,0,38,1,0,0,0,91.03999999999999,66.92,14,Win
+763,Oregon State Beavers,Pac-12,0,7,1,0,0,0,71.96000000000001,42.08,,Lose
+764,Florida Gators,SEC,0,45,1,0,0,0,89.06,69.98,10,Win
+765,Louisiana Tech Bulldogs,Conference USA,0,28,1,0,0,0,87.98,57.019999999999996,,Win
+766,Indiana Hoosiers,Big Ten,0,14,1,0,0,0,64.94,35.96,22,Lose
+767,Wisconsin Badgers,Big Ten,0,24,1,0,0,0,55.040000000000006,33.98,27,Win
+768,Oregon Ducks,Pac-12,0,13,1,0,0,0,73.03999999999999,42.08,14,Lose
+769,Louisville Cardinals,ACC,0,59,1,0,0,0,69.98,50.0,36,Win
+770,Boise State Broncos,Mountain West,0,38,1,0,0,0,78.98,51.08,22,Win
+771,NC State Wolfpack,ACC,0,27,1,0,0,0,82.94,57.019999999999996,,Win
+772,Syracuse Orange,ACC,0,41,1,0,0,0,69.98,51.08,46,Win
+773,Iowa Hawkeyes,Big Ten,0,38,1,0,0,0,60.980000000000004,33.98,,Win
+774,Boston College Eagles,ACC,43262,29,1,0,0,0,,,,Win
+775,Georgia Southern Eagles,Sun Belt,12821,48,1,0,0,0,87.98,69.08000000000001,,Win
+776,Army Black Knights,FBS Independents,0,17,1,0,0,0,69.98,51.980000000000004,,Lose
+777,BYU Cougars,FBS Independents,0,20,1,0,0,0,84.02,46.94,,Lose
+778,USC Trojans,Pac-12,0,23,1,0,0,0,75.92,59.0,10,Win
+779,Oklahoma Sooners,Big 12,0,12,1,0,0,0,,,,Win
+780,Georgia Bulldogs,SEC,0,14,1,0,0,0,73.94,62.06,35,Lose
+781,Auburn Tigers,SEC,0,52,1,0,0,0,73.94,64.03999999999999,,Win
+782,Syracuse Orange,ACC,0,13,1,0,0,0,73.03999999999999,50.0,53,Lose
+783,Penn State Nittany Lions,Big Ten,0,13,1,0,0,0,73.03999999999999,46.94,,Lose
+784,Florida Gators,SEC,0,21,1,0,0,0,84.92,66.02,25,Lose
+785,Michigan Wolverines,Big Ten,0,27,1,0,0,0,73.94,53.96,,Win
+786,Ohio State Buckeyes,Big Ten,0,13,1,0,0,0,75.02,57.92,,Lose
+787,Colorado Buffaloes,Pac-12,0,14,1,0,0,0,,,,Lose
+788,Maryland Terrapins,Big Ten,0,7,1,0,0,0,77.0,48.92,,Lose
+789,South Carolina Gamecocks,SEC,0,28,1,0,0,0,75.92,60.08,6,Lose
+790,Northwestern Wildcats,Big Ten,0,31,1,0,0,0,,,,Win
+791,Michigan State Spartans,Big Ten,0,38,1,0,0,0,73.03999999999999,48.92,,Win
+792,Wake Forest Demon Deacons,ACC,0,10,1,0,0,0,73.03999999999999,53.96,0,Lose
+793,Temple Owls,American,0,22,1,0,0,0,71.96000000000001,60.08,,Lose
+794,Kentucky Wildcats,SEC,0,17,1,0,0,0,69.08000000000001,53.96,16,Lose
+795,Ohio Bobcats,Mid-American,0,13,1,0,0,0,73.94,44.06,,Lose
+796,Army Black Knights,FBS Independents,0,48,1,0,0,0,77.0,51.08,,Win
+797,Central Michigan Chippewas,Mid-American,0,14,1,0,0,0,64.03999999999999,51.980000000000004,,Lose
+798,Texas State Bobcats,Sun Belt,8314,13,1,0,0,0,64.94,33.98,,Lose
+799,UMass Minutemen,FBS Independents,15321,7,0,0,0,0,73.94,41.0,,Lose
+800,Miami (OH) RedHawks,Mid-American,0,47,1,0,0,0,,,,Win
+801,East Carolina Pirates,American,0,27,1,0,0,0,75.92,53.06,,Win
+802,UAB Blazers,Conference USA,0,41,1,0,0,0,71.06,44.06,21,Win
+803,USC Trojans,Pac-12,0,45,1,0,0,0,68.0,60.08,8,Win
+804,Kansas State Wildcats,Big 12,0,21,1,0,0,0,60.8,31.1,,Lose
+805,Auburn Tigers,SEC,0,38,1,0,0,0,73.94,41.0,,Win
+806,Purdue Boilermakers,Big Ten,0,17,1,0,0,0,48.92,37.04,66,Lose
+807,Florida State Seminoles,ACC,0,36,1,0,0,0,82.03999999999999,44.96,17,Win
+808,California Golden Bears,Pac-12,0,45,1,0,0,0,69.08000000000001,53.06,,Win
+809,Texas Longhorns,Big 12,0,28,1,0,0,0,,,,Win
+810,Utah Utes,Pac-12,0,46,1,0,25,25,,,,Win
+811,Georgia Bulldogs,SEC,0,33,1,0,0,0,71.06,42.08,38,Win
+812,Ole Miss Rebels,SEC,0,17,1,0,0,0,69.08000000000001,37.94,,Lose
+813,Illinois Fighting Illini,Big Ten,0,19,1,0,0,0,51.980000000000004,33.08,,Lose
+814,Michigan State Spartans,Big Ten,0,51,1,0,0,0,53.06,37.94,,Win
+815,Florida Gators,SEC,0,52,1,0,0,0,78.98,46.94,19,Win
+816,Alabama Crimson Tide,SEC,0,27,1,0,0,0,73.94,44.96,11,Win
+817,Iowa Hawkeyes,Big Ten,0,33,1,0,0,0,50.0,39.92,,Win
+818,Georgia Tech Yellow Jackets,ACC,0,24,1,0,0,0,,,,Win
+819,Rutgers Scarlet Knights,Big Ten,0,16,1,0,0,0,,,,Win
+820,Pittsburgh Panthers,ACC,0,20,1,0,0,0,,,,Win
+821,Georgia Southern Eagles,Sun Belt,22421,54,1,0,0,0,77.0,46.94,,Win
+822,Navy Midshipmen,American,0,9,1,0,0,0,60.980000000000004,50.0,,Lose
+823,Toledo Rockets,Mid-American,0,31,1,0,0,0,,,,Win
+824,Western Michigan Broncos,Mid-American,0,31,1,0,0,0,46.94,41.0,58,Lose
+825,Louisville Cardinals,ACC,0,41,1,0,0,0,66.02,57.019999999999996,46,Win
+826,Colorado State Rams,Mountain West,0,30,1,0,0,0,,,,Win
+827,USC Trojans,Pac-12,0,38,1,0,0,0,71.96000000000001,53.06,10,Win
+828,Oklahoma Sooners,Big 12,0,41,1,0,0,0,,,,Win
+829,Auburn Tigers,SEC,0,42,1,0,0,0,71.06,57.019999999999996,,Win
+830,NC State Wolfpack,ACC,0,31,1,0,0,0,75.92,44.96,,Lose
+831,Wake Forest Demon Deacons,ACC,0,17,1,0,0,0,57.019999999999996,51.08,11,Lose
+832,Wisconsin Badgers,Big Ten,0,24,1,0,0,0,73.03999999999999,53.06,66,Win
+833,Arizona Wildcats,Pac-12,0,0,1,0,0,0,77.0,48.019999999999996,26,Lose
+834,Texas Tech Red Raiders,Big 12,0,21,1,0,0,0,73.03999999999999,46.04,55,Lose
+835,Utah Utes,Pac-12,0,63,1,0,0,0,,,,Win
+836,Arkansas Razorbacks,SEC,0,14,1,0,0,0,75.02,46.04,41,Lose
+837,Tennessee Volunteers,SEC,0,17,1,0,0,0,69.98,51.980000000000004,25,Win
+838,Purdue Boilermakers,Big Ten,0,14,1,0,0,0,69.08000000000001,53.96,45,Lose
+839,Duke Blue Devils,ACC,0,16,1,0,0,0,60.980000000000004,44.96,,Lose
+840,Texas A&M Aggies,SEC,0,29,1,0,0,0,,,,Win
+841,LSU Tigers,SEC,0,24,1,0,0,0,84.92,71.06,18,Win
+842,Boise State Broncos,Mountain West,0,33,1,0,0,0,48.92,35.06,13,Win
+843,Mississippi State Bulldogs,SEC,0,38,1,0,0,0,73.94,62.06,,Win
+844,Arizona State Sun Devils,Pac-12,0,48,1,0,0,0,78.98,50.0,,Win
+845,Missouri Tigers,SEC,0,17,1,0,0,0,73.94,51.08,60,Lose
+846,Penn State Nittany Lions,Big Ten,0,4,1,0,0,0,46.94,37.94,,Lose
+847,Ohio State Buckeyes,Big Ten,0,30,1,0,0,0,62.96,46.94,,Win
+848,Pittsburgh Panthers,ACC,0,41,1,0,0,0,,,,Win
+849,UMass Minutemen,FBS Independents,4376,24,0,0,0,0,,,,Lose
+850,Boise State Broncos,Mountain West,0,69,1,0,0,0,48.019999999999996,37.04,34,Win
+851,Washington State Cougars,Pac-12,0,12,1,0,0,0,51.08,35.06,73,Lose
+852,Ole Miss Rebels,SEC,0,14,1,0,0,0,84.02,66.92,,Lose
+853,North Carolina Tar Heels,ACC,0,31,1,0,0,0,64.94,55.94,,Win
+854,Maryland Terrapins,Big Ten,0,20,1,0,0,0,59.0,55.040000000000006,,Win
+855,California Golden Bears,Pac-12,0,27,1,0,0,0,62.96,46.94,,Win
+856,Colorado Buffaloes,Pac-12,0,7,1,0,0,0,,,,Lose
+857,San Diego State Aztecs,Mountain West,0,28,1,0,0,0,68.0,55.040000000000006,19,Lose
+858,South Carolina Gamecocks,SEC,0,29,1,0,0,0,80.06,60.08,14,Lose
+859,Michigan Wolverines,Big Ten,0,45,1,0,0,0,73.03999999999999,57.92,,Win
+860,Rutgers Scarlet Knights,Big Ten,0,30,1,0,0,0,,,,Lose
+861,Baylor Bears,Big 12,0,35,1,0,0,0,82.94,71.96000000000001,31,Win
+862,Northwestern Wildcats,Big Ten,0,13,1,0,0,0,,,,Win
+863,LSU Tigers,SEC,0,24,1,0,0,0,82.94,66.02,30,Win
+864,Illinois Fighting Illini,Big Ten,0,13,1,0,0,0,69.98,46.04,,Lose
+865,Indiana Hoosiers,Big Ten,0,30,1,0,0,0,78.08000000000001,59.0,73,Win
+866,Wake Forest Demon Deacons,ACC,0,24,1,0,0,0,78.98,62.96,29,Win
+867,Nebraska Cornhuskers,Big Ten,0,24,1,0,0,0,,,,Win
+868,Clemson Tigers,ACC,0,26,1,0,0,0,71.06,64.03999999999999,,Win
+869,Ohio State Buckeyes,Big Ten,0,21,1,0,0,0,75.92,64.94,,Win
+870,Central Michigan Chippewas,Mid-American,0,24,1,0,0,0,68.0,53.06,,Win
+871,Georgia Southern Eagles,Sun Belt,17463,63,1,0,0,0,82.94,62.06,,Win
+872,Syracuse Orange,ACC,0,42,1,0,0,0,71.06,53.06,51,Win
+873,Louisiana Ragin' Cajuns,Sun Belt,0,17,1,0,0,0,75.02,44.96,6,Lose
+874,Oregon State Beavers,Pac-12,0,20,1,0,0,0,44.96,32.0,,Lose
+875,Texas A&M Aggies,SEC,0,35,1,0,0,0,,,,Lose
+876,California Golden Bears,Pac-12,0,28,1,0,0,0,62.96,46.04,,Win
+877,Wisconsin Badgers,Big Ten,0,38,1,0,0,0,64.94,42.08,25,Win
+878,Texas Longhorns,Big 12,0,56,1,0,0,0,,,,Win
+879,Utah Utes,Pac-12,0,63,1,0,0,0,,,,Win
+880,Kentucky Wildcats,SEC,0,17,1,0,0,0,62.96,37.94,48,Lose
+881,Tennessee Volunteers,SEC,0,13,1,0,0,0,64.03999999999999,35.96,28,Lose
+882,Virginia Cavaliers,ACC,0,16,1,0,0,0,,,,Win
+883,Florida State Seminoles,ACC,0,29,1,0,0,0,71.96000000000001,39.92,13,Win
+884,West Virginia Mountaineers,Big 12,0,42,1,0,0,0,60.08,35.96,31,Win
+885,North Carolina Tar Heels,ACC,0,24,1,0,0,0,62.96,33.98,,Lose
+886,Iowa Hawkeyes,Big Ten,0,23,1,0,0,0,69.98,46.94,,Win
+887,Southern Mississippi Golden Eagles,Conference USA,0,24,1,0,0,0,71.96000000000001,37.94,4,Lose
+888,Arizona State Sun Devils,Pac-12,0,34,1,0,0,0,87.08000000000001,55.94,,Win
+889,Boston College Eagles,ACC,0,21,1,0,0,0,,,,Win
+890,Michigan State Spartans,Big Ten,0,19,1,0,0,0,53.06,35.06,,Lose
+891,NC State Wolfpack,ACC,0,14,1,0,0,0,66.92,35.06,,Lose
+892,Penn State Nittany Lions,Big Ten,0,7,1,0,0,0,48.019999999999996,39.92,,Lose
+893,Syracuse Orange,ACC,0,38,1,0,0,0,57.92,42.08,59,Win
+894,Coastal Carolina Chanticleers,Sun Belt,6611,52,1,0,0,0,80.96000000000001,42.08,,Win
+895,Missouri Tigers,SEC,0,24,1,0,0,0,73.03999999999999,42.08,37,Lose
+896,South Carolina Gamecocks,SEC,0,35,1,0,0,0,68.0,39.92,6,Win
+897,Memphis Tigers,American,0,30,1,0,0,0,,,,Win
+898,Fresno State Bulldogs,Mountain West,0,70,1,0,0,0,62.06,46.94,,Win
+899,USC Trojans,Pac-12,0,49,1,0,0,0,77.0,51.08,5,Win
+900,Oklahoma Sooners,Big 12,0,30,1,0,0,0,,,,Win
+901,Auburn Tigers,SEC,0,24,1,0,0,0,69.08000000000001,53.06,,Win
+902,Michigan State Spartans,Big Ten,0,49,1,0,0,0,44.96,21.02,,Win
+903,Kansas Jayhawks,Big 12,0,23,1,0,0,0,53.06,30.92,40,Lose
+904,Michigan Wolverines,Big Ten,0,42,1,0,0,0,44.06,26.060000000000002,,Win
+905,Virginia Cavaliers,ACC,0,21,1,0,0,0,,,,Lose
+906,West Virginia Mountaineers,Big 12,0,17,1,0,0,0,44.06,28.04,31,Lose
+907,San Jose State Spartans,Mountain West,0,49,1,0,0,0,66.02,50.0,23,Lose
+908,LSU Tigers,SEC,0,26,1,0,0,0,66.92,53.06,31,Win
+909,Arizona State Sun Devils,Pac-12,0,45,1,0,0,0,,,,Win
+910,Texas A&M Aggies,SEC,0,32,1,0,0,0,,,,Win
+911,UTEP Miners,Conference USA,0,35,1,0,0,0,44.96,35.06,61,Win
+912,Florida Intl Golden Panthers,Conference USA,5000,32,1,0,0,0,82.94,68.0,19,Lose
+913,Colorado State Rams,Mountain West,0,45,1,0,0,64,,,,Win
+914,Indiana Hoosiers,Big Ten,0,18,1,0,0,0,51.980000000000004,30.92,46,Lose
+915,Wake Forest Demon Deacons,ACC,0,24,1,0,0,0,59.0,41.0,42,Lose
+916,Bowling Green Falcons,Mid-American,0,56,1,0,0,0,44.96,26.96,,Win
+917,Temple Owls,American,0,34,1,0,0,0,46.94,35.06,,Win
+918,BYU Cougars,FBS Independents,0,14,1,0,0,0,55.040000000000006,37.04,,Lose
+919,Baylor Bears,Big 12,0,0,1,0,0,0,73.03999999999999,55.040000000000006,25,Lose
+920,Alabama Crimson Tide,SEC,0,13,1,0,0,0,64.94,57.92,5,Lose
+921,California Golden Bears,Pac-12,0,41,1,0,0,0,60.980000000000004,44.96,,Win
+922,Utah Utes,Pac-12,0,52,1,0,0,0,,,,Win
+923,Ohio State Buckeyes,Big Ten,0,37,1,0,0,0,62.06,53.96,,Win
+924,Houston Cougars,American,0,27,1,0,0,0,,,,Lose
+925,Iowa Hawkeyes,Big Ten,0,30,1,0,0,0,55.040000000000006,42.08,,Win
+926,Florida State Seminoles,ACC,0,13,1,0,0,0,80.96000000000001,64.94,17,Lose
+927,Boise State Broncos,Mountain West,0,55,1,0,0,0,44.06,24.08,48,Win
+928,LSU Tigers,SEC,0,27,1,0,0,0,77.0,64.94,20,Win
+929,Vanderbilt Commodores,SEC,0,33,1,0,0,0,,,,Lose
+930,Georgia Tech Yellow Jackets,ACC,0,10,1,0,0,0,,,,Lose
+931,Temple Owls,American,0,17,1,0,0,0,55.94,51.980000000000004,,Lose
+932,UTEP Miners,Conference USA,0,57,1,0,0,0,64.03999999999999,42.08,35,Win
+933,Northwestern Wildcats,Big Ten,0,28,1,0,0,0,,,,Win
+934,Duke Blue Devils,ACC,0,17,1,0,0,0,69.98,53.06,,Lose
+935,Penn State Nittany Lions,Big Ten,0,37,1,0,0,0,57.019999999999996,46.94,,Win
+936,Clemson Tigers,ACC,0,29,1,0,0,0,69.98,60.08,,Win
+937,Kansas State Wildcats,Big 12,0,23,1,0,0,0,53.24,38.66,,Lose
+938,Purdue Boilermakers,Big Ten,0,63,1,0,0,0,57.92,44.96,43,Win
+939,Army Black Knights,FBS Independents,0,14,1,0,0,0,57.92,42.08,,Lose
+940,Central Michigan Chippewas,Mid-American,0,41,1,0,0,0,48.92,42.980000000000004,,Win
+941,Texas Longhorns,Big 12,0,26,1,0,0,0,,,,Win
+942,Arizona Wildcats,Pac-12,0,34,1,0,0,0,64.03999999999999,37.04,23,Win
+943,Nebraska Cornhuskers,Big Ten,0,20,1,0,0,0,,,,Lose
+944,USC Trojans,Pac-12,0,41,1,0,0,0,62.96,50.0,31,Win
+945,Louisville Cardinals,ACC,0,70,1,0,0,0,51.980000000000004,42.980000000000004,65,Win
+946,Georgia Bulldogs,SEC,0,19,1,0,0,0,46.04,30.92,34,Win
+947,Nevada Wolf Pack,Mountain West,0,21,1,0,0,0,28.94,12.02,17,Lose
+948,Virginia Tech Hokies,ACC,0,24,1,0,0,0,46.04,23.0,,Win
+949,Tennessee Volunteers,SEC,0,37,1,0,0,0,51.08,30.92,17,Win
+950,Boston College Eagles,ACC,0,17,1,0,0,0,,,,Lose
+951,Texas Tech Red Raiders,Big 12,0,31,1,0,0,0,53.96,33.98,47,Win
+952,South Florida Bulls,American,0,15,1,0,0,0,82.94,35.96,,Lose
+953,Maryland Terrapins,Big Ten,0,13,1,0,0,0,48.019999999999996,30.92,,Win
+954,Iowa State Cyclones,Big 12,0,14,1,0,0,0,42.980000000000004,28.94,76,Lose
+955,NC State Wolfpack,ACC,0,52,1,0,0,0,57.92,30.02,,Win
+956,Florida Intl Golden Panthers,Conference USA,0,40,1,0,0,0,80.96000000000001,66.92,21,Win
+957,Ole Miss Rebels,SEC,0,20,1,0,0,0,62.96,41.0,,Win
+958,Western Kentucky Hilltoppers,Conference USA,9554,24,0,0,0,0,71.96000000000001,42.980000000000004,41,Lose
+959,Southern Mississippi Golden Eagles,Conference USA,0,26,1,0,0,0,73.03999999999999,46.94,38,Win
+960,TCU Horned Frogs,Big 12,0,31,1,0,0,0,64.03999999999999,42.980000000000004,,Lose
+961,San Jose State Spartans,Mountain West,0,28,1,0,0,0,59.0,48.92,62,Lose
+962,Georgia Southern Eagles,Sun Belt,6053,23,1,0,0,0,57.92,44.06,,Lose
+963,Hawai'i Rainbow Warriors,Mountain West,0,49,1,0,0,0,78.98,69.08000000000001,,Win
+964,UCLA Bruins,Pac-12,0,24,1,0,0,0,64.03999999999999,42.08,,Lose
+965,Tennessee Volunteers,SEC,74892,28,1,0,0,0,,,,Lose
+966,Southern Mississippi Golden Eagles,Conference USA,0,16,1,0,0,0,71.06,51.980000000000004,16,Lose
+967,Tulane Green Wave,American,0,7,1,0,0,0,64.94,51.08,,Lose
+968,South Florida Bulls,American,23417,14,1,0,0,0,89.06,37.04,,Lose
+969,Navy Midshipmen,American,0,42,1,0,0,0,48.019999999999996,37.94,,Win
+970,Hawai'i Rainbow Warriors,Mountain West,0,41,1,0,0,0,77.0,66.92,,Win
+971,Central Michigan Chippewas,Mid-American,0,13,1,0,0,0,84.02,48.92,,Lose
+972,Utah Utes,Pac-12,0,27,1,0,0,0,,,,Win
+973,Hawai'i Rainbow Warriors,Mountain West,0,17,1,0,0,0,82.94,71.96000000000001,,Lose
+974,Texas Longhorns,Big 12,0,60,1,0,0,0,,,,Win
+975,Tennessee Volunteers,SEC,0,17,1,0,0,0,87.08000000000001,59.0,23,Win
+976,Michigan Wolverines,Big Ten,0,33,1,0,0,0,80.96000000000001,53.96,,Win
+977,Ohio State Buckeyes,Big Ten,0,34,1,0,0,0,82.03999999999999,55.040000000000006,,Win
+978,Oklahoma Sooners,Big 12,0,10,1,0,0,0,,,,Lose
+979,Florida Gators,SEC,0,32,1,0,0,0,87.98,71.06,26,Win
+980,Iowa Hawkeyes,Big Ten,0,56,1,0,0,0,89.96000000000001,51.980000000000004,,Win
+981,Georgia Bulldogs,SEC,0,48,1,0,0,0,89.06,68.0,23,Win
+982,Auburn Tigers,SEC,0,14,1,0,0,0,87.08000000000001,71.96000000000001,,Lose
+983,Clemson Tigers,ACC,0,25,1,0,0,0,87.98,60.08,,Win
+984,California Golden Bears,Pac-12,65938,41,1,0,0,0,71.06,53.06,,Win
+985,BYU Cougars,FBS Independents,0,3,1,0,0,0,91.94,62.06,,Lose
+986,Pittsburgh Panthers,ACC,0,21,1,0,0,0,,,,Lose
+987,Virginia Cavaliers,ACC,0,31,1,0,0,0,,,,Win
+988,Northwestern Wildcats,Big Ten,0,38,1,0,0,0,,,,Win
+989,Michigan State Spartans,Big Ten,0,49,1,0,0,0,78.98,51.08,,Win
+990,Wisconsin Badgers,Big Ten,0,56,1,0,0,0,82.03999999999999,48.92,14,Win
+991,Illinois Fighting Illini,Big Ten,0,33,1,0,0,0,86.0,57.92,,Win
+992,East Carolina Pirates,American,0,24,1,0,0,0,91.94,66.92,,Win
+993,Kansas State Wildcats,Big 12,0,35,1,0,0,0,91.22,67.28,,Win
+994,Colorado Buffaloes,Pac-12,0,31,1,0,0,0,,,,Win
+995,Ohio Bobcats,Mid-American,0,16,1,0,0,0,82.03999999999999,57.019999999999996,,Win
+996,Nevada Wolf Pack,Mountain West,0,21,1,0,0,0,64.94,42.08,36,Lose
+997,Ohio State Buckeyes,Big Ten,0,22,1,0,0,0,84.92,,,Lose
+998,Michigan Wolverines,Big Ten,0,10,1,0,0,0,84.02,55.94,,Lose
+999,Arizona State Sun Devils,Pac-12,0,31,1,0,0,0,105.08,82.94,,Lose
+1000,Duke Blue Devils,ACC,0,0,1,0,0,0,84.92,57.92,,Lose
+1001,Iowa State Cyclones,Big 12,0,23,1,0,0,0,87.98,62.96,47,Win
+1002,Georgia Bulldogs,SEC,0,17,1,0,0,0,89.06,62.96,34,Win
+1003,Florida Gators,SEC,0,41,1,0,0,0,89.96000000000001,66.92,31,Win
+1004,Florida State Seminoles,ACC,79152,62,1,0,0,0,91.94,60.980000000000004,22,Win
+1005,Purdue Boilermakers,Big Ten,0,49,1,0,0,0,91.03999999999999,64.94,25,Win
+1006,Georgia Tech Yellow Jackets,ACC,0,27,1,0,0,0,,,,Win
+1007,Oklahoma Sooners,Big 12,0,31,1,0,0,0,,,,Win
+1008,Boston College Eagles,ACC,0,44,1,0,0,0,,,,Win
+1009,Texas Tech Red Raiders,Big 12,0,56,1,0,0,0,89.96000000000001,62.06,62,Win
+1010,SMU Mustangs,American,0,21,1,0,0,0,,,,Win
+1011,Fresno State Bulldogs,Mountain West,38156,55,1,0,0,0,78.08000000000001,48.92,,Win
+1012,Maryland Terrapins,Big Ten,0,24,1,0,0,0,84.92,60.980000000000004,,Lose
+1013,Marshall Thundering Herd,Conference USA,0,19,1,0,0,0,80.06,55.040000000000006,,Lose
+1014,Wisconsin Badgers,Big Ten,0,65,1,0,0,0,91.94,66.02,40,Win
+1015,Penn State Nittany Lions,Big Ten,0,42,1,0,0,0,78.08000000000001,55.94,,Win
+1016,Auburn Tigers,SEC,0,28,1,0,0,0,87.08000000000001,62.96,,Win
+1017,Liberty Flames,FBS Independents,40000,0,0,0,0,0,,,,Lose
+1018,UMass Minutemen,FBS Independents,3417,14,0,0,0,0,,,,Lose
+1019,Illinois Fighting Illini,Big Ten,0,40,1,0,0,0,93.92,64.03999999999999,,Win
+1020,Air Force Falcons,Mountain West,0,41,1,0,0,0,93.02,60.980000000000004,,Win
+1021,UTEP Miners,Conference USA,0,44,1,0,0,0,95.0,66.92,36,Win
+1022,USC Trojans,Pac-12,0,70,1,0,0,0,77.0,60.980000000000004,9,Win
+1023,Texas Longhorns,Big 12,0,51,1,0,0,0,,,,Win
+1024,Virginia Tech Hokies,ACC,0,45,1,0,0,0,87.08000000000001,59.0,,Win
+1025,Florida Gators,SEC,0,16,1,0,0,0,93.02,71.96000000000001,17,Win
+1026,Georgia Bulldogs,SEC,0,44,1,0,0,0,91.03999999999999,68.0,18,Win
+1027,Boston College Eagles,ACC,0,17,1,0,0,0,,,,Lose
+1028,Ohio State Buckeyes,Big Ten,0,27,1,0,0,0,71.06,60.980000000000004,,Win
+1029,Louisville Cardinals,ACC,0,63,1,0,0,0,75.02,62.96,24,Win
+1030,Arizona Wildcats,Pac-12,0,24,1,0,0,0,100.03999999999999,66.02,34,Lose
+1031,Clemson Tigers,ACC,0,30,1,0,0,0,87.98,66.92,,Lose
+1032,Michigan Wolverines,Big Ten,0,55,1,0,0,0,69.98,59.0,,Win
+1033,California Golden Bears,Pac-12,0,35,1,0,0,0,69.98,51.980000000000004,,Win
+1034,Georgia Tech Yellow Jackets,ACC,0,28,1,0,0,0,,,,Win
+1035,Arizona State Sun Devils,Pac-12,0,52,1,0,0,0,,69.08000000000001,,Win
+1036,Texas Tech Red Raiders,Big 12,50171,80,1,0,0,0,98.06,64.94,61,Win
+1037,UCLA Bruins,Pac-12,0,41,1,0,0,0,,,,Win
+1038,Iowa Hawkeyes,Big Ten,70585,45,1,0,0,0,82.03999999999999,46.04,,Win
+1039,Oregon Ducks,Pac-12,0,37,1,0,0,0,69.08000000000001,46.04,18,Win
+1040,Syracuse Orange,ACC,0,24,1,0,0,0,68.0,60.980000000000004,31,Lose
+1041,Maryland Terrapins,Big Ten,0,19,1,0,0,0,87.98,68.0,,Lose
+1042,Vanderbilt Commodores,SEC,0,31,1,0,0,0,,,,Win
+1043,Texas A&M Aggies,SEC,0,66,1,0,0,0,,,,Win
+1044,Temple Owls,American,0,17,1,0,0,0,91.94,75.02,,Lose
+1045,Duke Blue Devils,ACC,10126,40,1,0,0,0,91.03999999999999,64.94,,Win
+1046,New Mexico State Aggies,FBS Independents,0,13,1,0,0,0,93.92,64.03999999999999,,Lose
+1047,Army Black Knights,FBS Independents,25007,21,1,0,0,0,82.94,53.06,,Lose
+1048,Oregon Ducks,Pac-12,0,13,1,0,0,0,71.06,35.06,24,Lose
+1049,Virginia Tech Hokies,ACC,0,51,1,0,0,0,84.92,57.019999999999996,,Win
+1050,Kentucky Wildcats,SEC,0,28,1,0,0,0,87.98,68.0,23,Lose
+1051,Mississippi State Bulldogs,SEC,0,10,1,0,0,0,89.96000000000001,71.06,,Lose
+1052,Ohio State Buckeyes,Big Ten,0,31,1,0,0,0,73.94,59.0,,Win
+1053,South Florida Bulls,American,0,45,1,0,0,0,87.08000000000001,75.92,,Win
+1054,Wisconsin Badgers,Big Ten,0,23,1,0,0,0,68.0,50.0,21,Win
+1055,Illinois Fighting Illini,Big Ten,0,14,1,0,0,0,87.08000000000001,60.08,,Lose
+1056,Oregon State Beavers,Pac-12,0,24,1,0,0,0,71.06,35.06,,Lose
+1057,Texas Tech Red Raiders,Big 12,44681,63,1,0,0,0,89.96000000000001,59.0,29,Win
+1058,Alabama Crimson Tide,SEC,0,24,1,0,0,0,91.03999999999999,75.92,43,Win
+1059,Virginia Cavaliers,ACC,0,38,1,0,0,0,,,,Win
+1060,Northwestern Wildcats,Big Ten,0,29,1,0,0,0,,,,Lose
+1061,NC State Wolfpack,ACC,0,24,1,0,0,0,82.94,66.92,,Lose
+1062,West Virginia Mountaineers,Big 12,0,20,1,0,0,0,86.0,62.96,,Win
+1063,Clemson Tigers,ACC,0,13,1,0,0,0,89.96000000000001,62.96,,Lose
+1064,Temple Owls,American,0,16,1,0,0,0,78.98,64.03999999999999,,Lose
+1065,Central Michigan Chippewas,Mid-American,0,20,1,0,0,0,68.0,46.94,,Lose
+1066,Liberty Flames,FBS Independents,11741,0,0,0,0,0,84.92,69.98,,Lose
+1067,SMU Mustangs,American,0,10,1,0,0,0,,,,Lose
+1068,Pittsburgh Panthers,ACC,43135,41,1,0,0,0,,,,Win
+1069,Ohio Bobcats,Mid-American,0,35,1,0,0,0,80.96000000000001,62.06,,Win
+1070,Rutgers Scarlet Knights,Big Ten,0,37,1,0,0,0,,,,Win
+1071,Arizona State Sun Devils,Pac-12,0,28,1,0,0,0,96.98,68.0,,Lose
+1072,Missouri Tigers,SEC,0,20,1,0,0,0,78.08000000000001,53.06,38,Lose
+1073,West Virginia Mountaineers,Big 12,0,17,1,0,0,0,73.03999999999999,41.0,,Lose
+1074,Mississippi State Bulldogs,SEC,0,7,1,0,0,0,80.96000000000001,51.980000000000004,,Lose
+1075,Alabama Crimson Tide,SEC,0,31,1,0,0,0,87.08000000000001,66.92,25,Win
+1076,Florida State Seminoles,ACC,0,38,1,0,0,0,89.06,73.94,44,Win
+1077,Tennessee Volunteers,SEC,0,27,1,0,0,0,82.94,59.0,13,Win
+1078,Michigan State Spartans,Big Ten,0,31,1,0,0,0,69.98,46.04,,Lose
+1079,California Golden Bears,Pac-12,0,28,1,0,0,0,86.0,55.94,,Win
+1080,Purdue Boilermakers,Big Ten,0,28,1,0,0,0,78.98,46.94,15,Lose
+1081,Texas Tech Red Raiders,Big 12,0,30,1,0,0,0,93.92,57.019999999999996,45,Win
+1082,Wisconsin Badgers,Big Ten,0,41,1,0,0,0,80.96000000000001,53.06,34,Win
+1083,Penn State Nittany Lions,Big Ten,106604,44,1,0,0,0,64.94,41.0,,Win
+1084,Maryland Terrapins,Big Ten,0,45,1,0,0,0,71.06,42.980000000000004,,Win
+1085,UCLA Bruins,Pac-12,0,21,1,0,0,0,84.02,57.92,,Win
+1086,Boston College Eagles,ACC,0,38,1,0,0,0,,,,Win
+1087,Nebraska Cornhuskers,Big Ten,0,27,1,0,0,0,,,,Win
+1088,Louisville Cardinals,ACC,0,61,1,0,0,0,80.96000000000001,51.08,13,Win
+1089,Army Black Knights,FBS Independents,0,13,1,0,0,0,64.94,46.04,,Lose
+1090,Liberty Flames,FBS Independents,11263,7,1,0,0,0,80.96000000000001,51.08,9,Lose
+1091,Iowa Hawkeyes,Big Ten,0,35,1,0,0,0,87.08000000000001,51.980000000000004,,Win
+1092,Texas A&M Aggies,SEC,0,16,1,0,0,0,,,,Win
+1093,Duke Blue Devils,ACC,0,21,1,0,0,0,80.96000000000001,57.92,,Lose
+1094,North Carolina Tar Heels,ACC,0,31,1,0,0,0,71.96000000000001,57.92,,Win
+1095,Syracuse Orange,ACC,0,7,0,0,0,0,,,,Lose
+1096,USC Trojans,Pac-12,0,42,1,0,0,0,71.06,59.0,12,Win
+1097,Virginia Tech Hokies,ACC,0,41,1,0,0,0,69.08000000000001,59.0,,Win
+1098,Florida State Seminoles,ACC,0,41,1,0,0,0,87.08000000000001,69.08000000000001,32,Win
+1099,Tennessee Volunteers,SEC,0,14,1,0,0,0,64.94,55.94,41,Lose
+1100,Penn State Nittany Lions,Big Ten,0,17,1,0,0,0,69.08000000000001,53.06,,Win
+1101,UCLA Bruins,Pac-12,0,47,1,0,0,0,84.92,57.92,,Win
+1102,Vanderbilt Commodores,SEC,0,6,1,0,0,0,,,,Lose
+1103,Florida Gators,SEC,0,35,1,0,0,0,87.08000000000001,71.96000000000001,10,Win
+1104,Northwestern Wildcats,Big Ten,0,51,1,0,0,0,,,,Win
+1105,Nebraska Cornhuskers,Big Ten,0,31,1,0,0,0,,,,Lose
+1106,Arizona State Sun Devils,Pac-12,0,17,1,0,0,0,84.92,66.02,,Lose
+1107,Boston College Eagles,ACC,0,28,1,0,0,0,,,,Win
+1108,Michigan Wolverines,Big Ten,0,20,1,0,0,0,57.019999999999996,44.06,,Lose
+1109,Louisville Cardinals,ACC,0,69,1,0,0,0,64.94,50.0,46,Win
+1110,Indiana Hoosiers,Big Ten,0,36,1,0,0,0,60.08,42.980000000000004,30,Win
+1111,Rutgers Scarlet Knights,Big Ten,0,14,1,0,0,0,,,,Lose
+1112,Georgia Southern Eagles,Sun Belt,14156,45,1,0,0,0,,,,Win
+1113,Kansas State Wildcats,Big 12,0,12,1,0,0,0,63.31999999999999,32.54,,Win
+1114,Army Black Knights,FBS Independents,0,10,1,0,0,0,73.94,69.08000000000001,,Lose
+1115,Temple Owls,American,0,7,1,0,0,0,75.92,53.96,,Lose
+1116,South Carolina Gamecocks,SEC,0,44,1,0,0,0,86.0,71.06,,Win
+1117,Navy Midshipmen,American,0,27,1,0,0,0,,,,Win
+1118,Tulane Green Wave,American,0,21,1,0,0,0,82.94,53.96,,Lose
+1119,Texas Longhorns,Big 12,0,42,1,0,0,0,,,,Win
+1120,Virginia Cavaliers,ACC,0,26,1,0,0,0,75.92,51.08,,Win
+1121,Vanderbilt Commodores,SEC,0,17,1,0,0,0,,,,Lose
+1122,Ole Miss Rebels,SEC,0,10,1,0,0,0,80.96000000000001,48.019999999999996,,Lose
+1123,Temple Owls,American,0,3,1,0,0,0,78.08000000000001,60.980000000000004,,Lose
+1124,Michigan Wolverines,Big Ten,111249,27,1,0,0,0,68.0,48.92,,Win
+1125,LSU Tigers,SEC,0,21,1,0,0,0,84.02,55.040000000000006,13,Win
+1126,Washington State Cougars,Pac-12,0,41,1,0,0,0,64.03999999999999,39.019999999999996,29,Lose
+1127,Texas Tech Red Raiders,Big 12,0,59,1,0,0,0,71.96000000000001,53.96,26,Win
+1128,Boston College Eagles,ACC,0,35,1,0,0,0,,,,Win
+1129,Ohio State Buckeyes,Big Ten,0,35,1,0,0,0,73.03999999999999,46.94,,Win
+1130,California Golden Bears,Pac-12,0,20,1,0,0,0,64.03999999999999,50.0,,Lose
+1131,West Virginia Mountaineers,Big 12,0,46,1,0,0,0,66.92,51.08,,Win
+1132,Oregon Ducks,Pac-12,0,45,1,0,0,0,57.92,51.08,58,Win
+1133,Arkansas Razorbacks,SEC,0,17,1,0,0,0,82.94,44.96,8,Lose
+1134,TCU Horned Frogs,Big 12,0,38,1,0,0,0,84.92,55.94,,Win
+1135,Syracuse Orange,ACC,0,9,1,0,0,0,62.96,48.019999999999996,48,Lose
+1136,Air Force Falcons,Mountain West,0,42,1,0,0,0,73.94,42.08,,Win
+1137,Iowa Hawkeyes,Big Ten,0,38,1,0,0,0,73.94,37.94,,Win
+1138,Central Michigan Chippewas,Mid-American,0,37,1,0,0,0,71.96000000000001,42.08,,Win
+1139,Purdue Boilermakers,Big Ten,0,29,1,0,0,0,69.08000000000001,44.06,40,Lose
+1140,Buffalo Bulls,Mid-American,0,7,1,0,0,0,64.03999999999999,50.0,56,Lose
+1141,UAB Blazers,Conference USA,0,28,1,0,0,0,62.96,44.96,24,Lose
+1142,Texas Longhorns,Big 12,0,52,1,0,0,0,,,,Win
+1143,Georgia Bulldogs,SEC,92746,23,1,0,0,0,71.96000000000001,48.92,35,Win
+1144,Alabama Crimson Tide,SEC,0,6,1,0,0,0,66.02,44.96,21,Win
+1145,LSU Tigers,SEC,0,20,1,0,0,0,77.0,53.96,16,Win
+1146,UCLA Bruins,Pac-12,0,51,1,0,0,0,69.98,59.0,,Win
+1147,Duke Blue Devils,ACC,0,24,1,0,0,0,64.03999999999999,57.019999999999996,,Lose
+1148,Illinois Fighting Illini,Big Ten,0,10,1,0,0,0,60.08,41.0,,Lose
+1149,Indiana Hoosiers,Big Ten,0,10,1,0,0,0,60.980000000000004,46.04,15,Lose
+1150,Arizona Wildcats,Pac-12,0,21,1,0,0,0,87.08000000000001,55.040000000000006,26,Lose
+1151,Wisconsin Badgers,Big Ten,0,31,1,0,0,0,48.92,30.02,20,Win
+1152,Air Force Falcons,Mountain West,0,10,1,0,0,0,69.98,41.0,,Lose
+1153,Michigan State Spartans,Big Ten,0,14,1,0,0,0,57.019999999999996,37.04,,Lose
+1154,North Carolina Tar Heels,ACC,0,7,1,0,0,0,71.96000000000001,57.92,,Win
+1155,Fresno State Bulldogs,Mountain West,0,40,0,0,0,0,69.08000000000001,39.92,,Win
+1156,California Golden Bears,Pac-12,0,42,1,0,0,0,64.03999999999999,51.08,,Win
+1157,Pittsburgh Panthers,ACC,0,34,1,0,0,0,,,,Win
+1158,Cincinnati Bearcats,American,0,22,1,0,0,0,50.0,44.06,,Lose
+1159,Appalachian State Mountaineers,Sun Belt,8398,49,0,0,0,0,80.06,55.94,,Win
+1160,Iowa Hawkeyes,Big Ten,0,20,1,0,0,0,55.94,41.0,,Lose
+1161,Missouri Tigers,SEC,0,41,1,0,0,0,57.019999999999996,42.08,36,Win
+1162,Clemson Tigers,ACC,0,37,1,0,0,0,80.96000000000001,57.92,,Win
+1163,Kent State Golden Flashes,Mid-American,0,3,1,0,0,0,55.040000000000006,39.92,,Lose
+1164,Ohio Bobcats,Mid-American,0,38,1,0,0,0,51.980000000000004,46.04,,Win
+1165,New Mexico Lobos,Mountain West,36390,25,1,0,0,0,66.92,48.019999999999996,28,Lose
+1166,USC Trojans,Pac-12,0,55,1,0,0,0,71.96000000000001,53.96,7,Win
+1167,Oklahoma State Cowboys,Big 12,0,28,1,0,0,0,71.42,52.519999999999996,66,Lose
+1168,Alabama Crimson Tide,SEC,0,35,1,0,0,0,69.08000000000001,33.98,11,Win
+1169,LSU Tigers,SEC,0,56,1,0,0,0,77.0,41.0,21,Win
+1170,Stanford Cardinal,Pac-12,0,27,1,0,0,0,71.96000000000001,51.980000000000004,,Lose
+1171,Florida State Seminoles,ACC,0,35,1,0,0,0,73.03999999999999,37.04,18,Win
+1172,Penn State Nittany Lions,Big Ten,0,33,1,0,0,0,46.94,35.96,,Win
+1173,Illinois Fighting Illini,Big Ten,0,24,1,0,0,0,60.980000000000004,33.08,,Lose
+1174,Baylor Bears,Big 12,0,0,1,0,0,0,73.94,48.92,40,Lose
+1175,Auburn Tigers,SEC,0,27,1,0,0,0,64.94,42.980000000000004,,Win
+1176,San Diego State Aztecs,Mountain West,0,20,1,0,0,0,69.08000000000001,57.019999999999996,22,Lose
+1177,Northwestern Wildcats,Big Ten,0,17,1,0,0,0,,,,Lose
+1178,Hawai'i Rainbow Warriors,Mountain West,0,13,1,0,0,0,78.98,69.08000000000001,,Lose
+1179,Tennessee Volunteers,SEC,0,15,1,0,0,0,60.08,30.92,21,Lose
+1180,Michigan State Spartans,Big Ten,74063,46,1,0,0,0,51.980000000000004,28.04,,Win
+1181,Duke Blue Devils,ACC,0,6,1,0,0,0,55.040000000000006,33.08,,Lose
+1182,NC State Wolfpack,ACC,0,21,1,0,0,0,59.0,33.98,,Win
+1183,Nebraska Cornhuskers,Big Ten,0,24,1,0,0,0,,,,Lose
+1184,Syracuse Orange,ACC,0,16,1,0,0,0,50.0,37.04,29,Lose
+1185,Coastal Carolina Chanticleers,Sun Belt,7218,38,1,0,0,0,60.08,35.06,,Win
+1186,Temple Owls,American,0,14,1,0,0,0,51.980000000000004,44.06,,Lose
+1187,Ohio Bobcats,Mid-American,0,21,1,0,0,0,69.98,55.040000000000006,,Lose
+1188,USC Trojans,Pac-12,0,51,1,0,0,0,73.03999999999999,53.06,4,Win
+1189,Baylor Bears,Big 12,0,0,1,0,0,0,87.98,64.03999999999999,62,Lose
+1190,Virginia Tech Hokies,ACC,0,7,1,0,0,0,71.96000000000001,37.94,,Lose
+1191,Mississippi State Bulldogs,SEC,0,0,1,0,0,0,78.08000000000001,53.06,,Lose
+1192,LSU Tigers,SEC,91414,24,1,0,0,0,86.0,64.03999999999999,10,Win
+1193,Arizona Wildcats,Pac-12,0,52,1,0,0,0,80.06,48.019999999999996,25,Win
+1194,Florida State Seminoles,ACC,0,15,1,0,0,0,82.94,48.92,13,Lose
+1195,Penn State Nittany Lions,Big Ten,0,35,1,0,0,0,71.06,41.0,,Win
+1196,Ohio State Buckeyes,Big Ten,0,40,1,0,0,0,71.06,53.96,,Win
+1197,Florida Gators,SEC,0,49,1,0,0,0,84.02,53.96,7,Win
+1198,Oregon Ducks,Pac-12,0,27,1,0,0,0,55.94,42.08,53,Win
+1199,Texas Tech Red Raiders,Big 12,0,56,1,0,0,0,73.03999999999999,37.94,41,Win
+1200,Kentucky Wildcats,SEC,0,27,1,0,0,0,75.92,53.96,53,Lose
+1201,North Carolina Tar Heels,ACC,0,16,1,0,0,0,75.02,41.0,,Win
+1202,TCU Horned Frogs,Big 12,0,33,1,0,0,0,78.08000000000001,55.040000000000006,,Win
+1203,Fresno State Bulldogs,Mountain West,0,45,1,0,0,0,64.94,44.06,,Win
+1204,Colorado Buffaloes,Pac-12,0,41,1,0,0,0,,,,Win
+1205,Indiana Hoosiers,Big Ten,30656,21,1,0,0,0,75.02,62.96,49,Lose
+1206,Northwestern Wildcats,Big Ten,0,28,1,0,0,0,,,,Win
+1207,Rutgers Scarlet Knights,Big Ten,0,31,1,0,0,0,,,,Lose
+1208,Purdue Boilermakers,Big Ten,0,28,1,0,0,0,69.98,60.08,34,Win
+1209,Arkansas Razorbacks,SEC,0,10,1,0,0,0,77.0,55.94,60,Lose
+1210,Clemson Tigers,ACC,0,49,1,0,0,0,75.92,50.0,,Win
+1211,Central Michigan Chippewas,Mid-American,0,28,1,0,0,0,69.08000000000001,37.04,,Lose
+1212,Louisville Cardinals,ACC,0,56,1,0,0,0,71.06,39.92,42,Win
+1213,USC Trojans,Pac-12,0,50,1,0,0,0,64.94,59.0,1,Win
+1214,Ole Miss Rebels,SEC,0,7,1,0,0,0,55.040000000000006,30.92,,Lose
+1215,Michigan State Spartans,Big Ten,0,22,1,0,0,0,42.08,24.08,,Lose
+1216,Virginia Cavaliers,ACC,0,14,1,0,0,0,53.96,35.96,,Lose
+1217,Auburn Tigers,SEC,0,28,1,0,0,0,60.08,32.0,,Win
+1218,Michigan Wolverines,Big Ten,0,21,1,0,0,0,51.08,30.92,,Lose
+1219,Oregon Ducks,Pac-12,0,56,1,0,0,0,41.0,33.08,8,Win
+1220,Georgia Bulldogs,SEC,0,45,1,0,0,0,57.92,26.060000000000002,21,Win
+1221,South Carolina Gamecocks,SEC,0,9,1,0,0,0,55.94,44.96,,Lose
+1222,Texas Tech Red Raiders,Big 12,0,23,1,0,0,0,57.019999999999996,30.92,66,Win
+1223,Maryland Terrapins,Big Ten,0,16,1,0,0,0,41.0,23.0,,Lose
+1224,UTEP Miners,Conference USA,0,23,1,0,0,0,62.06,32.0,35,Lose
+1225,South Florida Bulls,American,0,31,1,0,0,0,75.92,55.94,,Win
+1226,Army Black Knights,FBS Independents,0,38,1,0,0,0,39.92,26.96,,Win
+1227,Illinois Fighting Illini,Big Ten,0,21,1,0,0,0,55.040000000000006,26.96,,Lose
+1228,Ball State Cardinals,Mid-American,0,24,1,0,0,0,,,,Lose
+1229,Iowa Hawkeyes,Big Ten,0,52,1,0,0,0,51.980000000000004,33.98,,Win
+1230,Tennessee Volunteers,SEC,0,24,1,0,0,0,55.040000000000006,24.98,9,Lose
+1231,Indiana Hoosiers,Big Ten,0,14,1,0,0,0,57.92,24.98,27,Lose
+1232,NC State Wolfpack,ACC,0,24,1,0,0,0,60.08,26.96,,Win
+1233,North Carolina Tar Heels,ACC,0,24,1,0,0,0,46.94,23.0,,Win
+1234,Liberty Flames,FBS Independents,4062,17,0,0,0,0,53.06,28.94,15,Lose
+1235,Texas A&M Aggies,SEC,0,29,1,0,0,0,,,,Lose
+1236,LSU Tigers,SEC,0,19,1,0,0,0,69.08000000000001,48.92,35,Win
+1237,Hawai'i Rainbow Warriors,Mountain West,0,24,1,0,0,0,80.96000000000001,69.08000000000001,,Lose
+1238,Arizona State Sun Devils,Pac-12,0,23,1,0,0,0,,,,Win
+1239,Colorado Buffaloes,Pac-12,0,3,1,0,0,0,,,,Lose
+1240,Fresno State Bulldogs,Mountain West,0,28,1,0,0,0,51.08,35.96,,Lose
+1241,Texas State Bobcats,Sun Belt,15712,37,1,0,0,381,33.44,7.879999999999999,,Lose
+1242,Appalachian State Mountaineers,Sun Belt,15107,29,1,0,0,0,30.92,15.98,,Win
+1243,Fresno State Bulldogs,Mountain West,39269,28,1,0,0,0,98.96000000000001,66.02,,Win
+1244,Ohio State Buckeyes,Big Ten,103896,35,1,0,0,0,66.02,55.94,,Win
+1245,Georgia Tech Yellow Jackets,ACC,56680,10,1,0,0,0,,,,Lose
+1246,Texas Longhorns,Big 12,85123,56,1,0,0,0,,,,Win
+1247,Auburn Tigers,SEC,87451,40,1,0,0,0,86.0,69.98,,Win
+1248,West Virginia Mountaineers,Big 12,61077,42,1,0,0,0,64.94,55.040000000000006,,Win
+1249,Arkansas Razorbacks,SEC,76564,14,1,0,0,0,82.03999999999999,62.06,,Lose
+1250,Florida Gators,SEC,90043,34,1,0,0,0,91.94,71.96000000000001,26,Win
+1251,LSU Tigers,SEC,92362,45,1,0,0,0,91.94,69.98,17,Win
+1252,Tennessee Volunteers,SEC,106009,35,1,0,0,0,80.96000000000001,68.0,24,Win
+1253,Oklahoma Sooners,Big 12,84555,24,1,0,0,0,,,,Win
+1254,Michigan Wolverines,Big Ten,109668,27,1,0,0,0,71.96000000000001,57.92,,Win
+1255,Georgia Bulldogs,SEC,92746,48,1,0,0,0,86.0,68.0,17,Win
+1256,Iowa Hawkeyes,Big Ten,70585,41,1,0,0,0,78.08000000000001,60.980000000000004,,Win
+1257,Virginia Tech Hokies,ACC,66233,38,1,0,0,0,64.03999999999999,55.040000000000006,,Win
+1258,Clemson Tigers,ACC,77000,54,1,0,0,0,84.02,66.92,,Win
+1259,Penn State Nittany Lions,Big Ten,106505,34,1,0,0,0,64.03999999999999,51.980000000000004,,Win
+1260,Nebraska Cornhuskers,Big Ten,85181,49,1,0,0,0,,,,Win
+1261,Oregon Ducks,Pac-12,58450,48,1,0,0,0,93.02,48.019999999999996,28,Win
+1262,Texas Tech Red Raiders,Big 12,50362,35,1,0,0,0,69.98,57.92,50,Win
+1263,Michigan State Spartans,Big Ten,70711,27,1,0,0,0,,,,Win
+1264,Purdue Boilermakers,Big Ten,50108,60,1,0,0,0,71.96000000000001,55.040000000000006,35,Win
+1265,Washington Huskies,Pac-12,52256,35,1,0,0,0,86.0,55.94,20,Win
+1266,North Carolina Tar Heels,ACC,50000,16,1,0,0,0,66.92,59.0,,Lose
+1267,Colorado Buffaloes,Pac-12,45513,10,1,0,0,0,,,,Lose
+1268,Cincinnati Bearcats,American,20611,15,1,0,0,0,82.03999999999999,57.92,,Lose
+1269,Toledo Rockets,Mid-American,22118,37,1,0,0,0,,,,Win
+1270,Nevada Wolf Pack,Mountain West,16176,31,1,0,0,0,68.0,39.019999999999996,23,Win
+1271,Ohio State Buckeyes,Big Ten,105266,28,1,0,0,0,73.03999999999999,60.980000000000004,,Win
+1272,Auburn Tigers,SEC,84921,38,1,0,0,0,87.08000000000001,80.96000000000001,,Win
+1273,Arizona Wildcats,Pac-12,58801,3,1,0,0,0,91.94,62.06,22,Lose
+1274,East Carolina Pirates,American,40510,10,1,0,0,0,87.98,66.02,,Lose
+1275,Florida Gators,SEC,90292,26,1,0,0,0,91.03999999999999,64.03999999999999,16,Win
+1276,Michigan Wolverines,Big Ten,111058,27,1,0,0,0,71.96000000000001,60.08,,Win
+1277,Texas Longhorns,Big 12,88972,37,1,0,0,0,,,,Win
+1278,Kansas State Wildcats,Big 12,45855,6,1,0,0,0,67.1,52.16,,Lose
+1279,Georgia Bulldogs,SEC,92746,14,1,0,0,0,87.98,66.92,26,Win
+1280,LSU Tigers,SEC,92135,49,1,0,0,0,87.08000000000001,69.98,23,Win
+1281,Virginia Tech Hokies,ACC,66233,29,1,0,0,0,66.92,51.980000000000004,,Win
+1282,Michigan State Spartans,Big Ten,80193,37,1,0,0,0,,,,Lose
+1283,Illinois Fighting Illini,Big Ten,43066,7,1,0,0,0,71.06,57.92,,Lose
+1284,Tennessee Volunteers,SEC,104818,33,1,0,0,0,77.0,66.02,42,Win
+1285,Oklahoma Sooners,Big 12,84326,59,1,0,0,0,,,,Win
+1286,Florida State Seminoles,ACC,78154,55,1,0,0,0,89.96000000000001,71.06,28,Win
+1287,Clemson Tigers,ACC,83000,52,1,0,0,0,78.98,66.92,,Win
+1288,NC State Wolfpack,ACC,57583,17,1,0,0,0,84.92,71.06,,Win
+1289,California Golden Bears,Pac-12,58024,49,1,0,0,0,84.92,51.980000000000004,,Win
+1290,Nebraska Cornhuskers,Big Ten,84799,56,1,0,0,0,,,,Win
+1291,Boise State Broncos,Mountain West,30,41,1,0,0,0,71.96000000000001,44.96,28,Win
+1292,Purdue Boilermakers,Big Ten,54620,27,1,0,0,0,71.06,57.92,34,Win
+1293,Coastal Carolina Chanticleers,Sun Belt,9287,33,1,0,0,0,78.08000000000001,60.08,,Win
+1294,Bowling Green Falcons,Mid-American,12967,3,1,0,0,0,66.02,53.06,,Lose
+1295,South Florida Bulls,American,32493,20,1,0,0,0,87.08000000000001,64.03999999999999,,Lose
+1296,Iowa Hawkeyes,Big Ten,70585,17,1,0,0,0,87.98,42.980000000000004,,Lose
+1297,Washington State Cougars,Pac-12,35117,22,1,0,0,0,78.08000000000001,41.0,30,Lose
+1298,Florida Gators,SEC,90671,28,1,0,0,0,87.98,53.96,14,Win
+1299,Texas Longhorns,Big 12,88913,56,1,0,0,0,,,,Win
+1300,LSU Tigers,SEC,91960,48,1,0,0,0,89.06,62.06,14,Win
+1301,Ole Miss Rebels,SEC,57184,9,1,0,0,0,,,,Lose
+1302,Virginia Tech Hokies,ACC,66255,27,1,0,0,0,59.0,37.04,,Lose
+1303,Arizona State Sun Devils,Pac-12,0,13,1,0,0,0,102.92,66.02,,Lose
+1304,Memphis Tigers,American,61783,7,1,0,0,0,,,,Lose
+1305,Clemson Tigers,ACC,81000,51,1,0,0,0,71.06,44.96,,Win
+1306,Oregon State Beavers,Pac-12,39309,13,1,0,0,0,84.02,44.06,,Lose
+1307,Nebraska Cornhuskers,Big Ten,85069,39,1,0,0,0,,,,Win
+1308,Utah Utes,Pac-12,45222,3,1,0,0,0,,,,Lose
+1309,Missouri Tigers,SEC,57824,28,1,0,0,0,75.92,51.980000000000004,32,Win
+1310,Indiana Hoosiers,Big Ten,32142,17,1,0,0,0,,,,Lose
+1311,Navy Midshipmen,American,40000,41,0,0,0,0,,,,Win
+1312,Michigan State Spartans,Big Ten,0,20,1,0,0,0,57.019999999999996,41.0,,Lose
+1313,Duke Blue Devils,ACC,19241,0,1,0,0,0,80.96000000000001,46.94,,Lose
+1314,Pittsburgh Panthers,ACC,21212,45,1,0,0,0,,,,Win
+1315,Boston College Eagles,ACC,0,22,1,0,0,0,,,,Win
+1316,Syracuse Orange,ACC,38447,40,1,0,0,0,60.08,37.94,37,Win
+1317,Ohio Bobcats,Mid-American,18546,9,1,0,0,0,55.94,44.96,,Lose
+1318,Air Force Falcons,Mountain West,40453,24,1,0,0,0,80.06,46.94,,Win
+1319,Middle Tennessee Blue Raiders,Conference USA,32797,17,1,0,0,0,69.98,37.94,,Lose
+1320,Ohio State Buckeyes,Big Ten,105057,35,1,0,0,0,66.92,39.019999999999996,,Win
+1321,Auburn Tigers,SEC,87451,10,1,0,0,0,78.98,57.019999999999996,,Lose
+1322,USC Trojans,Pac-12,90282,26,1,0,0,0,75.92,62.06,7,Win
+1323,Mississippi State Bulldogs,SEC,40327,14,1,0,0,0,77.0,41.0,,Lose
+1324,Florida Gators,SEC,90714,23,1,0,0,0,86.0,64.94,29,Win
+1325,Michigan Wolverines,Big Ten,111349,31,1,0,0,0,66.02,37.94,,Win
+1326,Georgia Bulldogs,SEC,92746,33,1,0,0,0,73.03999999999999,46.94,26,Lose
+1327,California Golden Bears,Pac-12,72516,45,1,0,0,0,71.96000000000001,48.92,,Win
+1328,Wake Forest Demon Deacons,ACC,35920,17,1,0,0,0,55.040000000000006,48.92,55,Lose
+1329,Georgia Tech Yellow Jackets,ACC,51686,27,1,0,0,0,,,,Win
+1330,Iowa Hawkeyes,Big Ten,70585,47,1,0,0,0,77.0,41.0,,Win
+1331,Boise State Broncos,Mountain West,30572,55,1,0,0,0,64.03999999999999,39.92,24,Win
+1332,Iowa State Cyclones,Big 12,55338,14,1,0,0,0,75.92,44.06,41,Lose
+1333,Texas Tech Red Raiders,Big 12,49050,21,1,0,0,0,78.98,57.019999999999996,48,Lose
+1334,Syracuse Orange,ACC,41870,11,1,0,0,0,64.03999999999999,33.08,14,Lose
+1335,Ohio Bobcats,Mid-American,15026,27,1,0,0,0,60.08,39.92,,Win
+1336,Wisconsin Badgers,Big Ten,81704,41,1,0,0,0,68.0,42.980000000000004,39,Win
+1337,Illinois Fighting Illini,Big Ten,43006,32,1,0,0,0,73.03999999999999,39.92,,Lose
+1338,Kansas Jayhawks,Big 12,46445,18,1,0,0,0,82.03999999999999,48.019999999999996,36,Lose
+1339,Buffalo Bulls,Mid-American,14885,25,1,0,0,0,64.94,37.04,26,Lose
+1340,Army Black Knights,FBS Independents,31069,62,1,0,0,0,57.92,46.04,,Win
+1341,West Virginia Mountaineers,Big 12,40000,37,0,0,0,0,,,,Win
+1342,Ohio State Buckeyes,Big Ten,105443,44,1,0,0,0,48.019999999999996,37.04,,Win
+1343,Michigan Wolverines,Big Ten,109114,17,1,0,0,0,46.04,35.96,,Win
+1344,Oregon State Beavers,Pac-12,42871,33,1,0,0,0,64.94,30.92,,Win
+1345,Texas Tech Red Raiders,Big 12,56158,31,1,0,0,0,78.08000000000001,33.98,43,Lose
+1346,Ole Miss Rebels,SEC,55211,17,1,0,0,0,,,,Lose
+1347,South Carolina Gamecocks,SEC,82011,24,1,0,0,0,71.06,60.980000000000004,,Lose
+1348,Wisconsin Badgers,Big Ten,81300,30,1,0,0,0,50.0,37.04,50,Win
+1349,Boston College Eagles,ACC,14682,41,1,0,0,0,,,,Win
+1350,Missouri Tigers,SEC,62045,10,1,0,0,0,60.980000000000004,39.019999999999996,50,Lose
+1351,Oklahoma State Cowboys,Big 12,40108,41,1,0,0,0,75.56,39.019999999999996,,Win
+1352,Georgia Tech Yellow Jackets,ACC,55320,30,1,0,0,0,,,,Win
+1353,Baylor Bears,Big 12,51385,21,1,0,0,0,78.98,42.08,28,Lose
+1354,North Carolina Tar Heels,ACC,49000,17,1,0,0,0,66.92,46.04,,Lose
+1355,Oregon Ducks,Pac-12,57493,55,1,0,0,0,57.92,30.92,13,Win
+1356,Indiana Hoosiers,Big Ten,36444,46,1,0,0,0,,,,Win
+1357,Virginia Cavaliers,ACC,55730,14,1,0,0,0,62.06,44.96,,Win
+1358,Cincinnati Bearcats,American,20146,17,1,0,0,0,51.08,41.0,,Win
+1359,Purdue Boilermakers,Big Ten,58025,0,1,0,0,0,51.980000000000004,39.019999999999996,71,Lose
+1360,Iowa Hawkeyes,Big Ten,70585,24,1,0,0,0,53.06,35.06,,Win
+1361,Coastal Carolina Chanticleers,Sun Belt,6964,28,1,0,0,0,71.06,64.94,,Win
+1362,Duke Blue Devils,ACC,14198,28,1,0,0,0,66.92,39.019999999999996,,Lose
+1363,Army Black Knights,FBS Independents,32066,7,1,0,0,0,46.94,32.0,,Lose
+1364,Central Michigan Chippewas,Mid-American,30027,31,1,0,0,0,48.92,26.96,,Win
+1365,UAB Blazers,Conference USA,13809,17,1,0,0,0,66.02,44.06,55,Lose
+1366,Northwestern Wildcats,Big Ten,47130,10,1,0,0,0,,,,Lose
+1367,Indiana Hoosiers,Big Ten,42320,3,1,0,0,0,,,,Lose
+1368,Kansas State Wildcats,Big 12,47933,45,1,0,0,0,60.620000000000005,38.84,,Win
+1369,Auburn Tigers,SEC,87451,15,1,0,0,0,,,,Lose
+1370,Florida Gators,SEC,90703,17,1,0,0,0,78.98,51.08,15,Win
+1371,USC Trojans,Pac-12,92000,35,1,0,0,0,77.0,53.96,2,Win
+1372,Arizona Wildcats,Pac-12,55519,24,1,0,0,0,84.92,51.980000000000004,35,Win
+1373,Air Force Falcons,Mountain West,49367,17,1,0,0,0,48.019999999999996,21.92,,Lose
+1374,West Virginia Mountaineers,Big 12,57174,42,1,0,0,0,73.03999999999999,41.0,,Win
+1375,Arkansas Razorbacks,SEC,76728,31,1,0,0,0,59.0,24.08,,Win
+1376,LSU Tigers,SEC,92588,28,1,0,0,0,64.03999999999999,37.04,8,Win
+1377,San Jose State Spartans,Mountain West,21742,20,1,0,0,0,59.0,48.019999999999996,37,Lose
+1378,Iowa Hawkeyes,Big Ten,70585,21,1,0,0,0,46.04,28.94,,Lose
+1379,Oklahoma Sooners,Big 12,85313,34,1,0,0,0,,,,Win
+1380,Florida State Seminoles,ACC,77785,0,1,0,0,0,68.0,44.06,30,Lose
+1381,North Carolina Tar Heels,ACC,41000,0,1,0,0,0,80.06,48.019999999999996,,Lose
+1382,Virginia Tech Hokies,ACC,66233,23,1,0,0,0,77.0,42.08,,Win
+1383,Boston College Eagles,ACC,42326,28,1,0,0,0,,,,Win
+1384,Maryland Terrapins,Big Ten,50721,14,1,0,0,0,75.92,46.04,,Win
+1385,Texas A&M Aggies,SEC,83336,27,1,0,0,0,,,,Lose
+1386,South Florida Bulls,American,29694,27,1,0,0,0,80.06,51.980000000000004,,Win
+1387,Michigan State Spartans,Big Ten,0,18,1,0,0,0,,,,Lose
+1388,Clemson Tigers,ACC,81000,20,1,0,0,0,78.98,48.019999999999996,,Win
+1389,Illinois Fighting Illini,Big Ten,44266,31,1,0,0,0,39.019999999999996,35.06,,Lose
+1390,Kent State Golden Flashes,Mid-American,8147,14,1,0,0,0,64.03999999999999,28.94,,Win
+1391,Northern Illinois Huskies,Mid-American,18139,31,1,0,0,0,39.019999999999996,30.92,,Win
+1392,Houston Cougars,American,31818,34,1,0,0,0,,,,Win
+1393,UMass Minutemen,FBS Independents,23454,19,0,0,0,25,26.96,12.920000000000002,2,Win
+1394,Temple Owls,American,30368,19,1,0,0,0,75.92,71.06,,Lose
+1395,Syracuse Orange,ACC,40329,12,1,0,0,0,73.03999999999999,51.980000000000004,28,Lose
+1396,USC Trojans,Pac-12,90917,38,1,0,0,0,100.94,73.94,3,Win
+1397,West Virginia Mountaineers,Big 12,60563,62,1,0,0,0,87.98,53.96,,Win
+1398,Texas Longhorns,Big 12,84440,21,1,0,0,0,,,,Win
+1399,Michigan Wolverines,Big Ten,109218,32,1,0,0,0,78.98,53.96,,Lose
+1400,Florida Gators,SEC,90086,49,1,0,0,0,87.98,73.94,18,Win
+1401,Wisconsin Badgers,Big Ten,81547,42,1,0,0,0,78.98,57.019999999999996,17,Win
+1402,Oklahoma Sooners,Big 12,84472,79,1,0,0,0,,,,Win
+1403,Virginia Tech Hokies,ACC,66233,17,1,0,0,0,82.94,62.06,,Win
+1404,Ohio State Buckeyes,Big Ten,105038,38,1,0,0,0,80.06,51.980000000000004,,Win
+1405,California Golden Bears,Pac-12,72516,45,1,0,0,0,82.94,51.980000000000004,,Win
+1406,Georgia Bulldogs,SEC,92746,35,1,0,0,0,87.08000000000001,69.98,27,Win
+1407,Stanford Cardinal,Pac-12,38860,17,1,0,0,0,82.03999999999999,57.019999999999996,,Lose
+1408,Penn State Nittany Lions,Big Ten,107678,59,1,0,0,0,75.92,53.06,,Win
+1409,Auburn Tigers,SEC,86439,23,1,0,0,0,80.06,71.06,,Win
+1410,Nebraska Cornhuskers,Big Ten,0,52,1,0,0,0,,,,Win
+1411,Arkansas Razorbacks,SEC,73926,46,1,0,0,0,87.08000000000001,55.040000000000006,,Win
+1412,TCU Horned Frogs,Big 12,35606,27,1,0,0,0,89.96000000000001,73.94,,Win
+1413,Hawai'i Rainbow Warriors,Mountain West,40252,63,1,0,0,0,80.96000000000001,69.98,,Win
+1414,Texas A&M Aggies,SEC,79438,38,1,0,0,0,,,,Win
+1415,Michigan State Spartans,Big Ten,67796,55,1,0,0,0,77.0,51.08,,Win
+1416,Northwestern Wildcats,Big Ten,16199,27,1,0,0,0,,,,Win
+1417,Duke Blue Devils,ACC,17251,14,1,0,0,0,80.96000000000001,60.08,,Lose
+1418,Rutgers Scarlet Knights,Big Ten,43514,41,1,0,0,0,,,,Win
+1419,LSU Tigers,SEC,92739,48,1,0,0,0,93.92,73.03999999999999,10,Win
+1420,Marshall Thundering Herd,Conference USA,40383,23,1,0,0,0,91.94,66.92,,Lose
+1421,Florida Gators,SEC,0,59,1,0,0,0,87.08000000000001,66.92,25,Win
+1422,Oklahoma Sooners,Big 12,85357,51,1,0,0,0,,,,Win
+1423,UNLV Rebels,Mountain West,38250,13,1,0,0,0,,,,Lose
+1424,Texas Longhorns,Big 12,84621,34,1,0,0,0,,,,Win
+1425,Colorado State Rams,Mountain West,27805,28,1,0,0,0,,,,Lose
+1426,Georgia Bulldogs,SEC,0,12,1,0,0,0,93.02,64.03999999999999,8,Lose
+1427,Ohio State Buckeyes,Big Ten,0,20,1,0,0,0,87.98,71.06,,Win
+1428,UCLA Bruins,Pac-12,72986,27,1,0,0,0,82.03999999999999,60.980000000000004,,Win
+1429,Penn State Nittany Lions,Big Ten,110078,31,1,0,0,0,87.98,71.06,,Win
+1430,Wake Forest Demon Deacons,ACC,32483,17,1,0,0,0,,,,Lose
+1431,Auburn Tigers,SEC,82617,23,1,0,0,0,87.98,64.03999999999999,,Lose
+1432,Louisiana Tech Bulldogs,Conference USA,22135,44,1,0,0,0,,69.98,,Lose
+1433,Georgia Tech Yellow Jackets,ACC,43288,69,1,0,0,0,,,,Win
+1434,Troy Trojans,Sun Belt,0,41,1,0,0,0,,,,Win
+1435,South Florida Bulls,American,67018,21,1,0,0,0,,,,Win
+1436,Louisville Cardinals,ACC,40894,35,1,0,0,0,,,,Lose
+1437,San Jose State Spartans,Mountain West,20473,35,1,0,0,0,,,,Lose
+1438,Army Black Knights,FBS Independents,21822,7,1,0,0,0,,,,Lose
+1439,Ball State Cardinals,Mid-American,22517,35,1,0,0,0,,,,Win
+1440,South Florida Bulls,American,58755,37,1,0,0,0,,,,Win
+1441,Baylor Bears,Big 12,38870,28,0,0,0,0,,,,Lose
+1442,Louisville Cardinals,ACC,42523,21,1,0,0,0,,,,Lose
+1443,Utah State Aggies,Mountain West,23101,14,1,0,0,0,,,,Lose
+1444,Memphis Tigers,American,40248,28,1,0,0,0,,,,Lose
+1445,Boise State Broncos,Mountain West,32342,27,1,0,0,0,,,,Win
+1446,San Jose State Spartans,Mountain West,26258,16,1,0,0,0,,,,Lose
+1447,Appalachian State Mountaineers,Sun Belt,30931,70,1,0,0,0,,,,Win
+1448,Fresno State Bulldogs,Mountain West,33207,28,1,0,0,0,,,,Lose
+1449,Louisville Cardinals,ACC,37822,20,1,0,0,0,,,,Lose
+1450,Bowling Green Falcons,Mid-American,13284,34,1,0,0,0,,,,Lose
+1451,Boise State Broncos,Mountain West,32412,61,1,0,0,0,,,,Win
+1452,Tulane Green Wave,American,0,13,1,0,0,0,,,,Lose
+1453,Toledo Rockets,Mid-American,0,54,1,0,0,0,,,,Win
+1454,Fresno State Bulldogs,Mountain West,0,34,1,0,0,0,,,,Lose
+1455,Nevada Wolf Pack,Mountain West,0,21,1,0,0,0,,,,Lose
+1456,BYU Cougars,FBS Independents,0,35,1,0,0,0,,,,Win
+1457,Nevada Wolf Pack,Mountain West,0,37,1,0,0,0,,,,Win
+1458,Rutgers Scarlet Knights,Big Ten,0,17,1,0,0,0,,,,Lose
+1459,Army Black Knights,FBS Independents,0,10,1,0,0,0,,,,Lose
+1460,South Florida Bulls,American,0,30,1,0,0,0,,,,Win
+1461,Louisiana Tech Bulldogs,Conference USA,0,35,1,0,0,0,,,,Lose
+1462,Cincinnati Bearcats,American,0,24,1,0,0,0,,,,Win
+1463,Utah State Aggies,Mountain West,0,21,1,0,0,0,,,,Lose
+1464,Auburn Tigers,SEC,0,21,1,0,0,0,,,,Lose
+1465,Temple Owls,American,0,31,1,0,0,0,,,,Win
+1466,Marshall Thundering Herd,Conference USA,0,21,1,0,0,0,,,,Lose
+1467,Southern Mississippi Golden Eagles,Conference USA,0,31,1,0,0,0,,,,Win
+1468,SMU Mustangs,American,0,24,1,0,0,0,,,,Lose
+1469,Utah State Aggies,Mountain West,0,31,1,0,0,0,,,,Win
+1470,Louisiana Ragin' Cajuns,Sun Belt,0,28,1,0,0,0,,,,Lose
+1471,Louisville Cardinals,ACC,0,27,1,0,0,0,,,,Lose
+1472,Cincinnati Bearcats,American,0,30,1,0,0,0,,,,Lose
+1473,West Virginia Mountaineers,Big 12,0,13,0,0,0,0,,,,Lose
+1474,Central Michigan Chippewas,Mid-American,0,26,1,0,0,0,,,,Win
+1475,Boise State Broncos,Mountain West,0,52,0,0,0,0,,,,Win
+1476,Boise State Broncos,Mountain West,0,51,1,0,0,0,,,,Win
+1477,Oregon Ducks,Pac-12,0,48,1,0,0,0,,,,Win
+1478,Baylor Bears,Big 12,0,50,1,0,0,0,,,,Win
+1479,Arizona State Sun Devils,Pac-12,0,37,1,0,0,0,,,,Win
+1480,Toledo Rockets,Mid-American,0,15,1,0,0,0,,,,Lose
+1481,BYU Cougars,FBS Independents,0,24,1,0,0,0,,,,Win
+1482,BYU Cougars,FBS Independents,0,27,1,0,0,0,,,,Win
+1483,Fresno State Bulldogs,Mountain West,0,7,1,0,0,0,,,,Lose
+1484,San Jose State Spartans,Mountain West,0,28,1,0,0,0,,,,Win
+1485,Syracuse Orange,ACC,0,49,1,0,0,0,,,,Win
+1486,Kent State Golden Flashes,Mid-American,0,24,1,0,0,0,,,,Win
+1487,Syracuse Orange,ACC,0,17,1,0,0,0,,,,Lose
+1488,Iowa State Cyclones,Big 12,0,37,1,0,0,0,,,,Win
+1489,LSU Tigers,SEC,0,41,1,0,0,0,,,,Win
+1490,Michigan State Spartans,Big Ten,78709,17,1,0,0,0,,,,Win
+1491,Utah State Aggies,Mountain West,25513,27,1,0,0,0,,,,Win
+1492,UNLV Rebels,Mountain West,17015,27,1,0,0,0,,,,Lose
+1493,Baylor Bears,Big 12,31175,47,0,0,0,0,,,,Win
+1494,BYU Cougars,FBS Independents,62022,47,1,0,0,0,,,,Win
+1495,Syracuse Orange,ACC,40394,14,1,0,0,0,,,,Win
+1496,Central Michigan Chippewas,Mid-American,0,13,1,0,0,0,,,,Lose
+1497,Syracuse Orange,ACC,36715,40,1,0,0,0,,,,Win
+1498,Louisville Cardinals,ACC,53271,34,1,0,0,0,,,,Win
+1499,California Golden Bears,Pac-12,42226,13,1,0,0,0,,,,Lose
+1500,Pittsburgh Panthers,ACC,33503,17,0,0,0,0,,,,Lose
+1501,Florida Atlantic Owls,Conference USA,15405,24,1,0,0,0,,,,Lose
+1502,Arkansas Razorbacks,SEC,71117,13,1,0,0,0,,,,Lose
+1503,Stanford Cardinal,Pac-12,31622,27,1,0,0,0,,,,Win
+1504,Old Dominion Monarchs,Conference USA,20068,35,1,0,0,0,,,,Lose
+1505,Army Black Knights,FBS Independents,24245,28,1,0,0,0,,,,Win
+1506,Boston College Eagles,ACC,32465,24,1,0,0,0,,,,Win
+1507,Boise State Broncos,Mountain West,36069,42,1,0,0,0,,,,Win
+1508,Fresno State Bulldogs,Mountain West,41031,41,1,0,0,0,,,,Win
+1509,San Jose State Spartans,Mountain West,10533,12,1,0,0,0,,,,Lose
+1510,Utah State Aggies,Mountain West,25513,14,1,0,0,0,,,,Lose
+1511,Cincinnati Bearcats,American,32220,38,1,0,0,0,,,,Win
+1512,Louisville Cardinals,ACC,55215,35,1,0,0,0,,,,Lose
+1513,BYU Cougars,FBS Independents,62954,37,1,0,0,0,,,,Win
+1514,Oregon State Beavers,Pac-12,45379,14,1,0,0,0,,,,Lose
+1515,Louisville Cardinals,ACC,27104,31,0,0,0,0,,,,Win
+1516,UCLA Bruins,Pac-12,68106,41,1,0,0,0,,,,Win
+1517,San Jose State Spartans,Mountain West,16876,52,1,0,0,0,,,,Lose
+1518,Oregon Ducks,Pac-12,58330,36,1,0,0,0,,,,Win
+1519,Michigan State Spartans,Big Ten,75127,45,1,0,0,0,,,,Win
+1520,Boston College Eagles,ACC,30083,20,1,0,0,0,,,,Lose
+1521,Buffalo Bulls,Mid-American,24714,21,1,0,0,0,,,,Lose
+1522,South Florida Bulls,American,28723,17,1,0,0,0,,,,Win
+1523,Old Dominion Monarchs,Conference USA,20118,28,1,0,0,0,,,,Lose
+1524,BYU Cougars,FBS Independents,0,20,1,0,0,0,,,,Lose
+1525,Stanford Cardinal,Pac-12,44135,34,1,0,0,0,,,,Win
+1526,Boise State Broncos,Mountain West,35008,37,1,0,0,0,,,,Win
+1527,California Golden Bears,Pac-12,55575,41,1,0,0,0,,,,Lose
+1528,Tulane Green Wave,American,21414,14,1,0,0,0,,,,Lose
+1529,Temple Owls,American,23882,13,1,0,0,0,,,,Lose
+1530,UCF Knights,American,35323,31,1,0,0,0,,,,Win
+1531,Rice Owls,Conference USA,18164,31,1,0,0,0,,,,Win
+1532,Houston Cougars,American,23572,38,1,0,0,0,,,,Win
+1533,UCLA Bruins,Pac-12,70658,10,1,0,0,0,,,,Lose
+1534,Oregon Ducks,Pac-12,45618,51,1,0,0,0,,,,Win
+1535,SMU Mustangs,American,32047,21,1,0,0,0,,,,Lose
+1536,Utah Utes,Pac-12,46011,24,1,0,0,0,,,,Win
+1537,Boston College Eagles,ACC,39111,0,1,0,0,0,,,,Lose
+1538,Oregon State Beavers,Pac-12,37302,24,1,0,0,0,,,,Lose
+1539,Charlotte 49ers,Conference USA,13105,3,1,0,0,0,,,,Lose
+1540,Marshall Thundering Herd,Conference USA,22763,31,1,0,0,0,,,,Win
+1541,Utah State Aggies,Mountain West,22509,52,1,0,0,0,,,,Win
+1542,Tulsa Golden Hurricane,American,20216,42,1,0,0,0,,,,Lose
+1543,Wake Forest Demon Deacons,ACC,24922,19,1,0,0,0,,,,Lose
+1544,SMU Mustangs,American,17232,40,1,0,0,0,,,,Lose
+1545,Colorado Buffaloes,Pac-12,37905,24,1,0,0,0,,,,Lose
+1546,South Florida Bulls,American,26522,65,1,0,0,0,,,,Win
+1547,Nebraska Cornhuskers,Big Ten,90830,20,1,0,0,0,,,,Lose
+1548,Northern Illinois Huskies,Mid-American,16425,14,1,0,0,0,,,,Lose
+1549,Stanford Cardinal,Pac-12,46147,26,1,0,0,0,,,,Win
+1550,Syracuse Orange,ACC,32184,28,1,0,0,0,,,,Lose
+1551,Rice Owls,Conference USA,27047,10,1,0,0,0,,,,Lose
+1552,Utah Utes,Pac-12,46133,31,1,0,0,0,,,,Win
+1553,Washington Huskies,Pac-12,72027,44,1,0,0,0,,,,Win
+1554,Boston College Eagles,ACC,44500,10,1,0,0,0,,,,Lose
+1555,Louisville Cardinals,ACC,55121,24,1,0,0,0,,,,Win
+1556,Temple Owls,American,25950,46,1,0,0,0,,,,Win
+1557,South Florida Bulls,American,31824,52,1,0,0,0,,,,Win
+1558,Boise State Broncos,Mountain West,31863,45,1,0,0,0,,,,Win
+1559,Florida State Seminoles,ACC,73917,45,1,0,0,0,,,,Win
+1560,Boise State Broncos,Mountain West,32989,42,1,0,0,0,,,,Win
+1561,Washington State Cougars,Pac-12,33773,17,1,0,0,0,,,,Lose
+1562,Washington Huskies,Pac-12,47118,41,1,0,0,0,,,,Win
+1563,Army Black Knights,FBS Independents,71600,21,1,0,0,0,,,,Win
+1564,San Jose State Spartans,Mountain West,13377,22,1,0,0,0,,,,Lose
+1565,Rutgers Scarlet Knights,Big Ten,46093,14,1,0,0,0,,,,Lose
+1566,South Alabama Jaguars,Sun Belt,26487,7,1,0,0,0,,,,Lose
+1567,USC Trojans,Pac-12,48031,31,1,0,0,0,,,,Win
+1568,UMass Minutemen,FBS Independents,8684,63,1,0,0,0,,,,Win
+1569,Wisconsin Badgers,Big Ten,74145,34,1,0,0,0,,,,Win
+1570,SMU Mustangs,American,24216,12,1,0,0,0,,,,Lose
+1571,Memphis Tigers,American,27678,59,1,0,0,0,,,,Win
+1572,Washington Huskies,Pac-12,35134,10,1,0,0,0,,,,Win

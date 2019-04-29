@@ -6,7 +6,7 @@ from uszipcode import SearchEngine
 from noaa_sdk import noaa
 from bs4 import BeautifulSoup
 
-WEEKS_OF_FOOTBALL = 16
+WEEKS_OF_FOOTBALL = 18
 SCORES_URL = 'http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard'
 WEATHER_URL = "https://www.ncdc.noaa.gov/cdo-web/api/v2/data"
 ESPN_SCHEDULE = "http://www.espn.com/college-football/schedule"
@@ -81,13 +81,11 @@ for item in all:
 #gets the scores and weather data
 for year in range(YEAR_START, YEAR_END+1):
 
-    date = datetime.date(year, 8, 27)
+    date = datetime.date(year, 8, 15)
     weekday = date.weekday()
+    if weekday != 4:
+        date += timedelta(4-weekday)
     datestr = date.strftime("%Y%m%d")
-    r = requests.get(SCORES_URL, params={'dates': datestr})
-    first_date = r.json()['leagues'][0]['calendar'][0]['startDate'][:10]
-    date = datetime.date(int(first_date[:4]), int(first_date[5:7]), int(first_date[8:]))
-
 
     scores[year] = {}
     gamescoreinfo[year] = {}
@@ -135,7 +133,7 @@ for year in range(YEAR_START, YEAR_END+1):
                 try:
 
                     zipcode = search.by_city_and_state(city, state)
-                    zip = "ZIP:" + str(zipcode[0].to_dict()['zipcode'])
+                    zip = zipcode[0].to_dict()['zipcode']
                 except KeyError:
                     continue
                 except IndexError:
@@ -156,9 +154,24 @@ for year in range(YEAR_START, YEAR_END+1):
 
 
 
-                data = requests.get(WEATHER_URL,
-                                    params={'datasetid': 'GHCND', 'startdate':gamedate, 'enddate':gamedate, 'locationid' : zip, 'metric': 'standard'},
-                                    headers={'token': 'HcyHMmwyZPLKwWCGnpLiJCLjiHZvouHT'}).json()
+
+                for i in range(10):
+                    ziptry = int(zip) + i
+                    zipstr = "ZIP:" + str( ziptry )
+                    data = requests.get(WEATHER_URL,
+                                    params={'datasetid': 'GHCND', 'startdate':gamedate, 'enddate':gamedate, 'locationid' : zipstr, 'metric': 'standard'},
+                                    headers={'token': 'KfmcBMOyuqcOKpJQxGUOmissVIXJrBeG'}).json()
+                    if data != {}:
+                        break
+                    ziptry = int(zip) - i
+                    zipstr = "ZIP:" + str(ziptry)
+                    data = requests.get(WEATHER_URL,
+                                        params={'datasetid': 'GHCND', 'startdate': gamedate, 'enddate': gamedate,
+                                                'locationid': zipstr, 'metric': 'standard'},
+                                        headers={'token': 'KfmcBMOyuqcOKpJQxGUOmissVIXJrBeG'}).json()
+                    if data != {}:
+                        break
+
 
 
                 if state not in weather_data:
@@ -177,10 +190,9 @@ for year in range(YEAR_START, YEAR_END+1):
                                 weather_data[state][city][gamedate][CORE_VALS[item['datatype']]] = item['value']
 
 
-
-
             date += timedelta(6)
         except KeyError:
+            date += timedelta(6)
             continue
 
 

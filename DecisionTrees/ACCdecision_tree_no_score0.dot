@@ -1,0 +1,12 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="min temp <= 37.49\ngini = 0.444\nsamples = 51\nvalue = [17, 34]\nclass = Lose"] ;
+1 [label="gini = 0.0\nsamples = 4\nvalue = [4, 0]\nclass = Win"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="max temp <= 70.938\ngini = 0.4\nsamples = 47\nvalue = [13, 34]\nclass = Lose"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="gini = 0.469\nsamples = 32\nvalue = [12, 20]\nclass = Lose"] ;
+2 -> 3 ;
+4 [label="gini = 0.124\nsamples = 15\nvalue = [1, 14]\nclass = Lose"] ;
+2 -> 4 ;
+}

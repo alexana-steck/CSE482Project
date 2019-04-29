@@ -1,8 +1,32 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="attendance <= 57367.0\ngini = 0.32\nsamples = 5\nvalue = [1, 4]\nclass = Lose"] ;
-1 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4]\nclass = Lose"] ;
+0 [label="score <= 29.0\ngini = 0.494\nsamples = 38\nvalue = [17, 21]\nclass = Lose"] ;
+1 [label="attendance <= 42595.5\ngini = 0.219\nsamples = 16\nvalue = [14, 2]\nclass = Win"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = Win"] ;
-0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+2 [label="gini = 0.0\nsamples = 11\nvalue = [11, 0]\nclass = Win"] ;
+1 -> 2 ;
+3 [label="attendance <= 50851.5\ngini = 0.48\nsamples = 5\nvalue = [3, 2]\nclass = Win"] ;
+1 -> 3 ;
+4 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2]\nclass = Lose"] ;
+3 -> 4 ;
+5 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0]\nclass = Win"] ;
+3 -> 5 ;
+6 [label="attendance <= 37074.5\ngini = 0.236\nsamples = 22\nvalue = [3, 19]\nclass = Lose"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="gini = 0.0\nsamples = 12\nvalue = [0, 12]\nclass = Lose"] ;
+6 -> 7 ;
+8 [label="attendance <= 43883.0\ngini = 0.42\nsamples = 10\nvalue = [3, 7]\nclass = Lose"] ;
+6 -> 8 ;
+9 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = Win"] ;
+8 -> 9 ;
+10 [label="score <= 39.0\ngini = 0.346\nsamples = 9\nvalue = [2, 7]\nclass = Lose"] ;
+8 -> 10 ;
+11 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4]\nclass = Lose"] ;
+10 -> 11 ;
+12 [label="score <= 42.5\ngini = 0.48\nsamples = 5\nvalue = [2, 3]\nclass = Lose"] ;
+10 -> 12 ;
+13 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0]\nclass = Win"] ;
+12 -> 13 ;
+14 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3]\nclass = Lose"] ;
+12 -> 14 ;
 }

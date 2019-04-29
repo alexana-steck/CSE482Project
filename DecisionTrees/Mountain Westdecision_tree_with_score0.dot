@@ -1,8 +1,12 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="attendance <= 33635.0\ngini = 0.32\nsamples = 5\nvalue = [1, 4]\nclass = Lose"] ;
-1 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4]\nclass = Lose"] ;
+0 [label="score <= 22.5\ngini = 0.499\nsamples = 21\nvalue = [10, 11]\nclass = Lose"] ;
+1 [label="gini = 0.0\nsamples = 8\nvalue = [8, 0]\nclass = Win"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = Win"] ;
+2 [label="max temp <= 43.61\ngini = 0.26\nsamples = 13\nvalue = [2, 11]\nclass = Lose"] ;
 0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = Win"] ;
+2 -> 3 ;
+4 [label="gini = 0.153\nsamples = 12\nvalue = [1, 11]\nclass = Lose"] ;
+2 -> 4 ;
 }
